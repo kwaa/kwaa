@@ -21,7 +21,6 @@ jobs:
       - name: Update readme comment
         uses: actions/github-script@v2
         with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
             github.issues.listComments({
               kwaa,

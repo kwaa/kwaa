@@ -1,11 +1,13 @@
-<h3 align="center">🌠Hi, I'm Hoshikawa Ai / 星川藍</h3>
+<h3 align="center">🌠 Hello, I'm Hoshikawa Ai / 星川藍</h3>
 
 <p align="center">
   <a href="https://blog.917.moe">Blog</a> |
   <a href="https://t.me/kwaabot">Telegram</a>
 </p>
 
-#### latest posts
+---
+
+<h3>📝 Recent posts <small><a href="https://blog.917.moe">blog.917.moe</a></small></h3>
 
 <!--START_SECTION:posts-->
 * [ID Refresh](https:&#x2F;&#x2F;blog.917.moe&#x2F;p&#x2F;id-refresh&#x2F;)

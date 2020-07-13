@@ -1,0 +1,20 @@
+  
+name: Daily updates
+
+on:
+  schedule:
+    - cron: 0 8 * * *
+  push:
+    branches:
+      - master
+
+jobs:
+  update-readme:
+    name: Update kwaa/README.md
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://blog.917.moe/atom.xml
+          readme-section: posts
+          max: 5

@@ -15,9 +15,5 @@
 * [Project AXE - 旗舰耳机 DIY 计划](https:&#x2F;&#x2F;blog.917.moe&#x2F;p&#x2F;project-axe&#x2F;)
 <!--END_SECTION:posts-->
 
-#### readme comments
-
-<!--START_SECTION:comments-->
-<!--END_SECTION:comments-->
 
 <!--INSPIRED:JasonEtco/README.md-->

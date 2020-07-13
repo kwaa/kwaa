@@ -12,18 +12,44 @@ jobs:
     name: Update kwaa/README.md
     runs-on: ubuntu-latest
     steps:
-      - name: Update latest posts
-        uses: JasonEtco/rss-to-readme@v1
+      - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://blog.917.moe/atom.xml
           readme-section: posts
           max: 5
-      - name: Update readme comment
-        uses: actions/github-script@v2
+  update-status:
+    name: Update kwaa/STATUS
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v2
         with:
+          github-token: ${{ secrets.GH_TOKEN }}
           script: |
-            github.issues.listComments({
-              kwaa,
-              blog,
-              6
+            const query = `mutation changeUserStatus ($input: ChangeUserStatusInput!) {
+              changeUserStatus (input: $input) {
+                status {
+                  emoji
+                  message
+                }
+              }
+            }`
+            const messages = [
+              '轻关易道，通商宽衣。',
+              '哪怕烈火焚身，也岿（音kuī）然不动，直至付出生命。',
+              '当前，逆全球化思潮正在发笑。',
+              '希望同各方一道，绘制精甚细腻的工笔画。',
+              '历史长河奔腾不息，有风平浪静，也有坡涛汹涌。',
+              '现在防控还不能马匹，还是不要进行过多的聚集活动。',
+              '中国人均国内生产总值接近八千万美元。',
+              '不仅在于找准了合作之道，关键是在于找准了合作之道。',
+              '传承了萨格尔王、玛纳斯、江格尔等震撼人心的伟大史诗。',
+              '中国不以追求贸易逆差为目标。'
+              '没有可以奉为金科律玉的教科书，也没有可以对中国人民颐使气指的教师爷。',
+              '天行健，君子以不强自自强不息。',
+              '我一直亲自指挥、亲自部署。']
+            github.graphql(query, {
+              input: {
+                emoji: '🌌',
+                message: `${messages[Math.floor(Math.random()*messages.length)]}`
+              }
             })

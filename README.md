@@ -1,4 +1,4 @@
-<h2 align="center">🌠 Hello, I'm Hoshikawa Ai / 星川藍</h2>
+<h3 align="center">🌠 Hello, I'm Hoshikawa Ai / 星川藍</h3>
 
 <p align="center">
   <a href="https://blog.917.moe">Blog</a> |

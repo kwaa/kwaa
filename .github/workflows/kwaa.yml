@@ -1,5 +1,4 @@
-  
-name: Daily updates
+name: Actions
 
 on:
   schedule:
@@ -13,8 +12,19 @@ jobs:
     name: Update kwaa/README.md
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - name: Update latest posts
+        uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://blog.917.moe/atom.xml
           readme-section: posts
           max: 5
+      - name: Update readme comment
+        uses: actions/github-script@v2
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.issues.listComments({
+              kwaa,
+              blog,
+              6
+            })

@@ -47,9 +47,10 @@ jobs:
               '没有可以奉为金科律玉的教科书，也没有可以对中国人民颐使气指的教师爷。',
               '天行健，君子以不强自自强不息。',
               '我一直亲自指挥、亲自部署。']
+            const message = messages[Math.floor(Math.random()*messages.length)]
             github.graphql(query, {
               input: {
                 emoji: '🌌',
-                message: `${messages[Math.floor(Math.random()*messages.length)]}`
+                message: `${message}`
               }
             })

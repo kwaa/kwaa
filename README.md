@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align="center">🌌Hi, I'm Hoshikawa Ai / 星川藍</h3>
 
-<!--
-**kwaa/kwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://blog.917.moe">Blog</a> |
+  <a href="https://t.me/kwaabot">Telegram</a>
+</p>
 
-Here are some ideas to get you started:
+#### latest posts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:posts-->
+<!--END_SECTION:posts-->
+
+#### readme comments
+
+<!--START_SECTION:comments-->
+<!--END_SECTION:comments-->
+
+<!--INSPIRED:JasonEtco/README.md-->

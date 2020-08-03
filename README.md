@@ -1,13 +1,13 @@
 <h3 align="center">🌠 Hello, I'm Hoshikawa Ai / 星川藍</h3>
 
 <p align="center">
-  <a href="https://blog.917.moe">Blog</a> |
+  <a href="https://kwaa.dev">Blog</a> |
   <a href="https://t.me/kwaabot">Telegram</a>
 </p>
 
 ---
 
-<h3>📝 Recent posts <small><a href="https://blog.917.moe">blog.917.moe</a></small></h3>
+<h3>📝 Recent posts</h3>
 
 <!--START_SECTION:posts-->
 * [体验 WebAssembly 虚拟机 SSVM](https:&#x2F;&#x2F;blog.917.moe&#x2F;p&#x2F;ssvm-nodejs&#x2F;)

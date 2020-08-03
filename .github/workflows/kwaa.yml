@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://blog.917.moe/atom.xml
+          feed-url: https://kwaa.dev/atom.xml
           readme-section: posts
           max: 5
   update-status:

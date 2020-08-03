@@ -10,11 +10,11 @@
 <h3>📝 Recent posts</h3>
 
 <!--START_SECTION:posts-->
-* [体验 WebAssembly 虚拟机 SSVM](https:&#x2F;&#x2F;blog.917.moe&#x2F;p&#x2F;ssvm-nodejs&#x2F;)
-* [ID Refresh](https:&#x2F;&#x2F;blog.917.moe&#x2F;p&#x2F;id-refresh&#x2F;)
-* [Project 1ST - 电子分频耳机 DIY 计划](https:&#x2F;&#x2F;blog.917.moe&#x2F;p&#x2F;project-1st&#x2F;)
-* [白日梦](https:&#x2F;&#x2F;blog.917.moe&#x2F;p&#x2F;daydream&#x2F;)
-* [入耳式耳机随想](https:&#x2F;&#x2F;blog.917.moe&#x2F;p&#x2F;iem-idea&#x2F;)
+* [体验 WebAssembly 虚拟机 SSVM](https:&#x2F;&#x2F;kwaa.dev&#x2F;p&#x2F;ssvm-nodejs&#x2F;)
+* [Hexo 流水线](https:&#x2F;&#x2F;kwaa.dev&#x2F;p&#x2F;github-actions-for-hexo&#x2F;)
+* [Introducting Theme-M](https:&#x2F;&#x2F;kwaa.dev&#x2F;p&#x2F;theme-m&#x2F;)
+* [ID Refresh](https:&#x2F;&#x2F;kwaa.dev&#x2F;p&#x2F;id-refresh&#x2F;)
+* [Project 1ST - 电子分频耳机 DIY 计划](https:&#x2F;&#x2F;kwaa.dev&#x2F;p&#x2F;project-1st&#x2F;)
 <!--END_SECTION:posts-->
 
 <!--INSPIRED:JasonEtco/README.md-->

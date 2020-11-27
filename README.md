@@ -1,4 +1,4 @@
-<h3 align="center">🌠 Hello, I'm Ai Hoshikawa / 星川藍.</h3>
+<h3 align="center">🌠 Hello!</h3>
 
 <p align="center">
   <a href="https://kwaa.dev">Blog</a> |

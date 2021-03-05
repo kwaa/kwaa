@@ -10,11 +10,11 @@
 ### 📝 Recent Posts
 
 <!--START_SECTION:posts-->
+* [如何制作一张 Beat Saber 地图（一）准备篇](https:&#x2F;&#x2F;kwaa.dev&#x2F;p&#x2F;beatsaber-mapping-1&#x2F;)
 * [2020 年终总结 &amp; 2021 的目标](https:&#x2F;&#x2F;kwaa.dev&#x2F;p&#x2F;2021&#x2F;)
 * [本地和 CF Worker 的 Hexo 搜索引擎实践](https:&#x2F;&#x2F;kwaa.dev&#x2F;p&#x2F;hexo-search&#x2F;)
 * [Pleroma 安装笔记](https:&#x2F;&#x2F;kwaa.dev&#x2F;p&#x2F;pleroma&#x2F;)
 * [Knowles &amp; Sonion 动铁笔记](https:&#x2F;&#x2F;kwaa.dev&#x2F;p&#x2F;balanced-armature&#x2F;)
-* [とある簡単なスクリプト - naive.sh](https:&#x2F;&#x2F;kwaa.dev&#x2F;p&#x2F;naive-sh&#x2F;)
 <!--END_SECTION:posts-->
 See more on [kwaa.dev](https://kwaa.dev).
 

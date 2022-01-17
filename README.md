@@ -16,15 +16,13 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (today)
-- [kwaa/readme-test](https://github.com/kwaa/readme-test) -  (today)
-- [kwaa/blog](https://github.com/kwaa/blog) -  (4 days ago)
-- [kwaa/.github](https://github.com/kwaa/.github) -  (4 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (1 day ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (5 days ago)
+- [kwaa/.github](https://github.com/kwaa/.github) - dot github (5 days ago)
 - [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (2 months ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 months ago)
 - [kwaa/kwaa.github.io](https://github.com/kwaa/kwaa.github.io) - ./kwaa.dev (3 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (4 months ago)
-- [kwaa/workers-hexo-search](https://github.com/kwaa/workers-hexo-search) - Multi-site Hexo search script built with Cloudflare Workers. (1 year ago)
 
 </details>
 <details>
@@ -32,12 +30,11 @@
   <br/>
 
 
-- [kwaa/readme-test](https://github.com/kwaa/readme-test) - 
-- [kwaa/.github](https://github.com/kwaa/.github) - 
-- [kwaa/blog](https://github.com/kwaa/blog) - 
+- [kwaa/.github](https://github.com/kwaa/.github) - dot github
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules.
 - [kwaa/workers-hexo-search](https://github.com/kwaa/workers-hexo-search) - Multi-site Hexo search script built with Cloudflare Workers.
-- [kwaa/kwaa.moe](https://github.com/kwaa/kwaa.moe) - 
+- [kwaa/kwaa.moe](https://github.com/kwaa/kwaa.moe) - simple portfolio
 - [kwaa/naive.sh](https://github.com/kwaa/naive.sh) - Auto Install &amp; Update Naiveproxy for Linux
 - [kwaa/kwaa.github.io](https://github.com/kwaa/kwaa.github.io) - ./kwaa.dev
 - [kwaa/m](https://github.com/kwaa/m) - Theme M for Hexo.

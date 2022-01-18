@@ -16,9 +16,9 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (1 day ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (5 days ago)
-- [kwaa/.github](https://github.com/kwaa/.github) - dot github (5 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (today)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (today)
+- [kwaa/.github](https://github.com/kwaa/.github) - dot github (6 days ago)
 - [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (2 months ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 months ago)
 - [kwaa/kwaa.github.io](https://github.com/kwaa/kwaa.github.io) - ./kwaa.dev (3 months ago)

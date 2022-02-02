@@ -16,13 +16,13 @@
   <br/>
 
 
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (1 week ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (1 week ago)
-- [kwaa/comments](https://github.com/kwaa/comments) - blog comments (1 week ago)
-- [kwaa/.github](https://github.com/kwaa/.github) - dot github (2 weeks ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (1 day ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (1 day ago)
+- [kwaa/comments](https://github.com/kwaa/comments) - blog comments (2 weeks ago)
+- [kwaa/.github](https://github.com/kwaa/.github) - dot github (3 weeks ago)
 - [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (2 months ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 months ago)
-- [kwaa/kwaa.github.io](https://github.com/kwaa/kwaa.github.io) - ./kwaa.dev (3 months ago)
+- [kwaa/kwaa.github.io](https://github.com/kwaa/kwaa.github.io) - ./kwaa.dev (4 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (4 months ago)
 
 </details>
@@ -48,7 +48,7 @@
 
 
 - [update urara screenshot](https://github.com/janosh/awesome-svelte-kit/pull/42) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (1 month ago)
-- [Add site 35 https://urara-demo.netlify.app](https://github.com/janosh/awesome-svelte-kit/pull/39) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (2 months ago)
+- [Add site 35 https://urara-demo.netlify.app](https://github.com/janosh/awesome-svelte-kit/pull/39) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (3 months ago)
 - [add `border-hidden`](https://github.com/tailwindlabs/tailwindcss/pull/3806) on [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) (10 months ago)
 - [Update U.Cor to ./kwaa.dev](https://github.com/utterance/utterances/pull/385) on [utterance/utterances](https://github.com/utterance/utterances) (1 year ago)
 - [移除 !important](https://github.com/zdhxiong/mdui/pull/228) on [zdhxiong/mdui](https://github.com/zdhxiong/mdui) (2 years ago)

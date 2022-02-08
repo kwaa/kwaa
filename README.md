@@ -16,8 +16,8 @@
   <br/>
 
 
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (1 day ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (1 day ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (2 days ago)
 - [kwaa/comments](https://github.com/kwaa/comments) - blog comments (2 weeks ago)
 - [kwaa/.github](https://github.com/kwaa/.github) - dot github (3 weeks ago)
 - [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (3 months ago)

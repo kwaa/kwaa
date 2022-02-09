@@ -16,14 +16,14 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (1 day ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (2 days ago)
-- [kwaa/comments](https://github.com/kwaa/comments) - blog comments (2 weeks ago)
-- [kwaa/.github](https://github.com/kwaa/.github) - dot github (3 weeks ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (1 day ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (2 days ago)
+- [kwaa/comments](https://github.com/kwaa/comments) - blog comments (3 weeks ago)
+- [kwaa/.github](https://github.com/kwaa/.github) - dot github (4 weeks ago)
 - [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (3 months ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 months ago)
 - [kwaa/kwaa.github.io](https://github.com/kwaa/kwaa.github.io) - ./kwaa.dev (4 months ago)
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (4 months ago)
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (5 months ago)
 
 </details>
 <details>

@@ -16,11 +16,11 @@
   <br/>
 
 
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (1 day ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (2 days ago)
-- [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (5 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (today)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (today)
+- [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (6 days ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (1 week ago)
-- [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (1 week ago)
+- [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (2 weeks ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 month ago)
 - [kwaa/comments](https://github.com/kwaa/comments) - blog comments (1 month ago)
 - [kwaa/.github](https://github.com/kwaa/.github) - dot github (2 months ago)
@@ -50,8 +50,8 @@
   <br/>
 
 
-- [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (5 days ago)
-- [update urara uses](https://github.com/janosh/awesome-svelte-kit/pull/64) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (1 week ago)
+- [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (6 days ago)
+- [update urara uses](https://github.com/janosh/awesome-svelte-kit/pull/64) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (2 weeks ago)
 - [update urara screenshot](https://github.com/janosh/awesome-svelte-kit/pull/42) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (2 months ago)
 - [Add site 35 https://urara-demo.netlify.app](https://github.com/janosh/awesome-svelte-kit/pull/39) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (4 months ago)
 - [add `border-hidden`](https://github.com/tailwindlabs/tailwindcss/pull/3806) on [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) (11 months ago)

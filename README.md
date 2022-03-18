@@ -17,7 +17,7 @@
 
 
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (today)
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (today)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (1 day ago)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (1 week ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (2 weeks ago)
 - [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (2 weeks ago)

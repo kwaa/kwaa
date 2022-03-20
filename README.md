@@ -17,12 +17,12 @@
 
 
 - [kwaa/blog](https://github.com/kwaa/blog) - my blog (today)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (1 day ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (💬Now with Comments!) (today)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (1 week ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (2 weeks ago)
 - [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (2 weeks ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 month ago)
-- [kwaa/comments](https://github.com/kwaa/comments) - blog comments (1 month ago)
+- [kwaa/comments](https://github.com/kwaa/comments) - blog comments (2 months ago)
 - [kwaa/.github](https://github.com/kwaa/.github) - dot github (2 months ago)
 - [kwaa/kwaa.github.io](https://github.com/kwaa/kwaa.github.io) - ./kwaa.dev (5 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (6 months ago)
@@ -66,7 +66,7 @@
   <br/>
 
 
-- [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (today)
+- [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (1 day ago)
 - [静电之梦 - Nectar Hive](https://kwaa.dev/nectar-hive) (1 month ago)
 - [2021 总结 &amp; 2022 目标 &amp; Refresh IEM Design](https://kwaa.dev/2022) (2 months ago)
 - [Urara 的 ToC（文章目录）实现](https://kwaa.dev/intro-urara/toc) (3 months ago)

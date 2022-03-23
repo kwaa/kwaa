@@ -16,9 +16,9 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (💬Now with Comments!) (1 day ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (2 days ago)
-- [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (1 week ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (today)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (💬Now with Comments!) (today)
+- [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (2 weeks ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (2 weeks ago)
 - [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (3 weeks ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 month ago)
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (1 week ago)
+- [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (2 weeks ago)
 - [update urara uses](https://github.com/janosh/awesome-svelte-kit/pull/64) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (3 weeks ago)
 - [update urara screenshot](https://github.com/janosh/awesome-svelte-kit/pull/42) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (3 months ago)
 - [Add site 35 https://urara-demo.netlify.app](https://github.com/janosh/awesome-svelte-kit/pull/39) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (4 months ago)
@@ -66,7 +66,7 @@
   <br/>
 
 
-- [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (3 days ago)
+- [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (4 days ago)
 - [静电之梦 - Nectar Hive](https://kwaa.dev/nectar-hive) (1 month ago)
 - [2021 总结 &amp; 2022 目标 &amp; Refresh IEM Design](https://kwaa.dev/2022) (2 months ago)
 - [Urara 的 ToC（文章目录）实现](https://kwaa.dev/intro-urara/toc) (3 months ago)

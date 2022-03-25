@@ -16,8 +16,8 @@
   <br/>
 
 
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (today)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (💬Now with Comments!) (today)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (1 day ago)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (2 weeks ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 weeks ago)
 - [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (3 weeks ago)
@@ -66,8 +66,8 @@
   <br/>
 
 
-- [Pleroma(Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (1 day ago)
-- [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (5 days ago)
+- [Pleroma(Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (2 days ago)
+- [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (6 days ago)
 - [静电之梦 - Nectar Hive](https://kwaa.dev/nectar-hive) (1 month ago)
 - [2021 总结 &amp; 2022 目标 &amp; Refresh IEM Design](https://kwaa.dev/2022) (2 months ago)
 - [Urara 的 ToC（文章目录）实现](https://kwaa.dev/intro-urara/toc) (3 months ago)

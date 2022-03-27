@@ -16,8 +16,9 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (💬Now with Comments!) (1 day ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (2 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (💬Now with Comments!) (2 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (3 days ago)
+- [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (1 week ago)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (2 weeks ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 weeks ago)
 - [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (3 weeks ago)
@@ -25,7 +26,6 @@
 - [kwaa/comments](https://github.com/kwaa/comments) - blog comments (2 months ago)
 - [kwaa/.github](https://github.com/kwaa/.github) - dot github (2 months ago)
 - [kwaa/kwaa.github.io](https://github.com/kwaa/kwaa.github.io) - ./kwaa.dev (5 months ago)
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (6 months ago)
 
 </details>
 <details>
@@ -66,7 +66,7 @@
   <br/>
 
 
-- [Pleroma(Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (3 days ago)
+- [Pleroma(Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (4 days ago)
 - [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (1 week ago)
 - [静电之梦 - Nectar Hive](https://kwaa.dev/nectar-hive) (1 month ago)
 - [2021 总结 &amp; 2022 目标 &amp; Refresh IEM Design](https://kwaa.dev/2022) (2 months ago)

@@ -17,9 +17,9 @@
 
 
 - [kwaa/blog](https://github.com/kwaa/blog) - my blog (today)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (💬Now with Comments!) (4 days ago)
-- [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (1 week ago)
-- [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (2 weeks ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (💬Now with Comments!) (5 days ago)
+- [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (2 weeks ago)
+- [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (3 weeks ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 weeks ago)
 - [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (4 weeks ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 month ago)
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (2 weeks ago)
+- [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (3 weeks ago)
 - [update urara uses](https://github.com/janosh/awesome-svelte-kit/pull/64) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (4 weeks ago)
 - [update urara screenshot](https://github.com/janosh/awesome-svelte-kit/pull/42) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (3 months ago)
 - [Add site 35 https://urara-demo.netlify.app](https://github.com/janosh/awesome-svelte-kit/pull/39) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (4 months ago)
@@ -66,11 +66,11 @@
   <br/>
 
 
-- [undefined](https://kwaa.dev/indieweb/test) (today)
 - [DATA EXPUNGED](https://kwaa.dev/archives) (today)
-- [Pleroma(Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (6 days ago)
+- [Pleroma (Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (1 week ago)
 - [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (1 week ago)
 - [静电之梦 - Nectar Hive](https://kwaa.dev/nectar-hive) (1 month ago)
+- [2021 总结 &amp; 2022 目标 &amp; Refresh IEM Design](https://kwaa.dev/2022) (2 months ago)
 
 👉 read more at [./kwaa.dev](https://kwaa.dev)
 

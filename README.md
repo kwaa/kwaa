@@ -16,8 +16,8 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (☢️ Edition Gamma!) (1 day ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (3 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (☢️ Edition Gamma!) (2 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (4 days ago)
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (2 weeks ago)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (3 weeks ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (1 month ago)
@@ -25,7 +25,7 @@
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 month ago)
 - [kwaa/comments](https://github.com/kwaa/comments) - blog comments (2 months ago)
 - [kwaa/.github](https://github.com/kwaa/.github) - dot github (2 months ago)
-- [kwaa/kwaa.github.io](https://github.com/kwaa/kwaa.github.io) - ./kwaa.dev (5 months ago)
+- [kwaa/kwaa.github.io](https://github.com/kwaa/kwaa.github.io) - ./kwaa.dev (6 months ago)
 
 </details>
 <details>
@@ -53,7 +53,7 @@
 - [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (3 weeks ago)
 - [update urara uses](https://github.com/janosh/awesome-svelte-kit/pull/64) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (1 month ago)
 - [update urara screenshot](https://github.com/janosh/awesome-svelte-kit/pull/42) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (3 months ago)
-- [Add site 35 https://urara-demo.netlify.app](https://github.com/janosh/awesome-svelte-kit/pull/39) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (4 months ago)
+- [Add site 35 https://urara-demo.netlify.app](https://github.com/janosh/awesome-svelte-kit/pull/39) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (5 months ago)
 - [add `border-hidden`](https://github.com/tailwindlabs/tailwindcss/pull/3806) on [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) (1 year ago)
 - [Update U.Cor to ./kwaa.dev](https://github.com/utterance/utterances/pull/385) on [utterance/utterances](https://github.com/utterance/utterances) (2 years ago)
 - [移除 !important](https://github.com/zdhxiong/mdui/pull/228) on [zdhxiong/mdui](https://github.com/zdhxiong/mdui) (2 years ago)
@@ -66,7 +66,7 @@
   <br/>
 
 
-- [DATA EXPUNGED](https://kwaa.dev/archives) (3 days ago)
+- [DATA EXPUNGED](https://kwaa.dev/archives) (4 days ago)
 - [Pleroma (Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (1 week ago)
 - [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (2 weeks ago)
 - [静电之梦 - Nectar Hive](https://kwaa.dev/nectar-hive) (1 month ago)

@@ -16,8 +16,8 @@
   <br/>
 
 
-- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (today)
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (3 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (1 day ago)
+- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (1 day ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (☢️ Edition Gamma!) (1 week ago)
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (3 weeks ago)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (1 month ago)
@@ -66,7 +66,7 @@
   <br/>
 
 
-- [DATA EXPUNGED](https://kwaa.dev/archives) (3 days ago)
+- [DATA EXPUNGED](https://kwaa.dev/archives) (1 day ago)
 - [Pleroma (Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (2 weeks ago)
 - [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (3 weeks ago)
 - [静电之梦 - Nectar Hive](https://kwaa.dev/nectar-hive) (1 month ago)

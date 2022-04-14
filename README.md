@@ -18,8 +18,8 @@
 
 - [kwaa/blog](https://github.com/kwaa/blog) - my blog (today)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (today)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (☢️ Edition Gamma!) (1 day ago)
-- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (4 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful SvelteKit Blog Template. (☢️ Edition Gamma!) (2 days ago)
+- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (5 days ago)
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (4 weeks ago)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (1 month ago)
 - [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) - Awesome examples of SvelteKit in the wild (1 month ago)
@@ -67,7 +67,7 @@
 
 
 - [DATA EXPUNGED](https://kwaa.dev/archives) (today)
-- [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (1 day ago)
+- [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (2 days ago)
 - [Pleroma (Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (3 weeks ago)
 - [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (3 weeks ago)
 - [静电之梦 - Nectar Hive](https://kwaa.dev/nectar-hive) (2 months ago)

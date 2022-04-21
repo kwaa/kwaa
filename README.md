@@ -17,9 +17,9 @@
 
 
 - [kwaa/blog](https://github.com/kwaa/blog) - my blog (today)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful &amp; IndieWeb-Compatible SvelteKit Blog Starter. (4 days ago)
-- [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) -  (5 days ago)
-- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (6 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful &amp; IndieWeb-Compatible SvelteKit Blog Starter. (5 days ago)
+- [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) -  (6 days ago)
+- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 week ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (1 week ago)
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (1 month ago)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (1 month ago)

@@ -16,7 +16,7 @@
   <br/>
 
 
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (2 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (1 day ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful &amp; IndieWeb-Compatible SvelteKit Blog Starter. (1 week ago)
 - [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) -  (1 week ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 week ago)
@@ -41,8 +41,8 @@
 - [kwaa/workers-hexo-search](https://github.com/kwaa/workers-hexo-search) - Multi-site Hexo search script built with Cloudflare Workers.
 - [kwaa/kwaa.moe](https://github.com/kwaa/kwaa.moe) - simple portfolio
 - [kwaa/naive.sh](https://github.com/kwaa/naive.sh) - Auto Install &amp; Update Naiveproxy for Linux
-- [kwaa/kwaa.github.io](https://github.com/kwaa/kwaa.github.io) - ./kwaa.dev
 - [kwaa/m](https://github.com/kwaa/m) - Theme M for Hexo.
+- [kwaa/comments](https://github.com/kwaa/comments) - blog comments
 
 </details>
 <details>

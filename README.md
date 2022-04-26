@@ -16,8 +16,8 @@
   <br/>
 
 
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (today)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful &amp; IndieWeb-Compatible SvelteKit Blog Starter. (1 week ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - my blog (1 day ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet &amp; Powerful &amp; IndieWeb-Compatible SvelteKit Blog Starter. (1 day ago)
 - [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) -  (1 week ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 week ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (2 weeks ago)
@@ -66,7 +66,7 @@
   <br/>
 
 
-- [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (1 week ago)
+- [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (2 weeks ago)
 - [Pleroma (Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (1 month ago)
 - [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (1 month ago)
 - [静电之梦 - Nectar Hive](https://kwaa.dev/nectar-hive) (2 months ago)

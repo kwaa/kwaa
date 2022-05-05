@@ -16,10 +16,10 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (today)
 - [kwaa/blog](https://github.com/kwaa/blog) - my blog (1 day ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (1 day ago)
 - [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) -  (2 weeks ago)
-- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (2 weeks ago)
+- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (3 weeks ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 weeks ago)
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (1 month ago)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (1 month ago)
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/kwchang0831.dev/pull/2) on [kwchang0831/kwchang0831.dev](https://github.com/kwchang0831/kwchang0831.dev) (today)
+- [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/kwchang0831.dev/pull/2) on [kwchang0831/kwchang0831.dev](https://github.com/kwchang0831/kwchang0831.dev) (1 day ago)
 - [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (1 month ago)
 - [update urara uses](https://github.com/janosh/awesome-svelte-kit/pull/64) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (2 months ago)
 - [update urara screenshot](https://github.com/janosh/awesome-svelte-kit/pull/42) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (4 months ago)

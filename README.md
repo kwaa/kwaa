@@ -16,9 +16,9 @@
   <br/>
 
 
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog (1 day ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (1 day ago)
-- [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) -  (2 weeks ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (today)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (today)
+- [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) -  (3 weeks ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (3 weeks ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 weeks ago)
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (1 month ago)
@@ -36,7 +36,7 @@
 - [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) - 
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project.
 - [kwaa/.github](https://github.com/kwaa/.github) - dot github
-- [kwaa/blog](https://github.com/kwaa/blog) - my blog
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules.
 - [kwaa/workers-hexo-search](https://github.com/kwaa/workers-hexo-search) - Multi-site Hexo search script built with Cloudflare Workers.
 - [kwaa/kwaa.moe](https://github.com/kwaa/kwaa.moe) - simple portfolio
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/kwchang0831.dev/pull/2) on [kwchang0831/kwchang0831.dev](https://github.com/kwchang0831/kwchang0831.dev) (1 day ago)
+- [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/kwchang0831.dev/pull/2) on [kwchang0831/kwchang0831.dev](https://github.com/kwchang0831/kwchang0831.dev) (2 days ago)
 - [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (1 month ago)
 - [update urara uses](https://github.com/janosh/awesome-svelte-kit/pull/64) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (2 months ago)
 - [update urara screenshot](https://github.com/janosh/awesome-svelte-kit/pull/42) on [janosh/awesome-svelte-kit](https://github.com/janosh/awesome-svelte-kit) (4 months ago)
@@ -67,11 +67,11 @@
   <br/>
 
 
+- [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (1 day ago)
 - [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (3 weeks ago)
 - [Pleroma (Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (1 month ago)
 - [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (1 month ago)
 - [静电之梦 - Nectar Hive](https://kwaa.dev/nectar-hive) (2 months ago)
-- [2021 总结 &amp; 2022 目标 &amp; Refresh IEM Design](https://kwaa.dev/2022) (4 months ago)
 
 👉 read more at [./kwaa.dev](https://kwaa.dev)
 

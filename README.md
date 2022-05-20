@@ -16,8 +16,8 @@
   <br/>
 
 
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 day ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (1 day ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (2 days ago)
 - [kwaa/kwaa.moe](https://github.com/kwaa/kwaa.moe) - simple portfolio (1 week ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) -  (1 week ago)
 - [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) -  (1 month ago)

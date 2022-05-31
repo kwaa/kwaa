@@ -16,10 +16,10 @@
   <br/>
 
 
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Lightweight, Fast, IndieWeb-Compatible Astro Blog Starter. (today)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (1 day ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (4 days ago)
-- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (6 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (today)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (today)
+- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Lightweight, Fast, IndieWeb-Compatible Astro Blog Starter. (1 day ago)
+- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (1 week ago)
 - [kwaa/kwaa.moe](https://github.com/kwaa/kwaa.moe) - simple portfolio (2 weeks ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (3 weeks ago)
 - [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) -  (1 month ago)

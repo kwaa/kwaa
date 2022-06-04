@@ -16,9 +16,9 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (today)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (today)
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Lightweight, Fast, IndieWeb-Compatible Astro Blog Starter. (Broken) (2 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🕯 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (today)
+- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Lightweight, Fast, IndieWeb-Compatible Astro Blog Starter. (Broken) (1 day ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 day ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (1 week ago)
 - [kwaa/kwaa.moe](https://github.com/kwaa/kwaa.moe) - simple portfolio (3 weeks ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (3 weeks ago)
@@ -67,7 +67,7 @@
   <br/>
 
 
-- [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (4 weeks ago)
+- [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (1 month ago)
 - [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (1 month ago)
 - [Pleroma (Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (2 months ago)
 - [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (2 months ago)

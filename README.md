@@ -17,9 +17,9 @@
 
 
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (today)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (today)
-- [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (2 days ago)
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Lightweight, Fast, IndieWeb-Compatible Astro Blog Starter. (Broken) (4 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 day ago)
+- [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (3 days ago)
+- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Lightweight, Fast, IndieWeb-Compatible Astro Blog Starter. (Broken) (5 days ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (2 weeks ago)
 - [kwaa/kwaa.moe](https://github.com/kwaa/kwaa.moe) - simple portfolio (1 month ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 month ago)
@@ -68,7 +68,7 @@
 
 
 - [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (1 month ago)
-- [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (1 month ago)
+- [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (2 months ago)
 - [Pleroma (Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (2 months ago)
 - [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (2 months ago)
 - [静电之梦 - Nectar Hive](https://kwaa.dev/nectar-hive) (3 months ago)

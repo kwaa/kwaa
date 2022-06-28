@@ -16,8 +16,8 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (2 days ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (3 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (3 days ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 week ago)
 - [kwaa/bk](https://github.com/kwaa/bk) - ./kwaa.dev/bk (1 week ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (1 week ago)

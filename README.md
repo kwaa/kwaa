@@ -16,13 +16,13 @@
   <br/>
 
 
-- [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (today)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (1 day ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (5 days ago)
+- [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (1 day ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (2 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (6 days ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 week ago)
 - [kwaa/bk](https://github.com/kwaa/bk) - ./kwaa.dev/bk (1 week ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (1 week ago)
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Lightweight, Fast, IndieWeb-Compatible Astro Blog Starter. [WIP] (1 week ago)
+- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Lightweight, Fast, IndieWeb-Compatible Astro Blog Starter. [WIP] (2 weeks ago)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (3 weeks ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 month ago)
 - [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) -  (2 months ago)

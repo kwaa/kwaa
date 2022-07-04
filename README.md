@@ -16,12 +16,12 @@
   <br/>
 
 
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Lightweight, Fast, IndieWeb-Compatible Astro Blog Starter. (today)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (2 days ago)
-- [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (3 days ago)
+- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (today)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (3 days ago)
+- [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (4 days ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
-- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 week ago)
-- [kwaa/bk](https://github.com/kwaa/bk) - ./kwaa.dev/bk (1 week ago)
+- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (2 weeks ago)
+- [kwaa/bk](https://github.com/kwaa/bk) - ./kwaa.dev/bk (2 weeks ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (2 weeks ago)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (3 weeks ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 month ago)
@@ -67,7 +67,7 @@
   <br/>
 
 
-- [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (1 month ago)
+- [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (2 months ago)
 - [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (2 months ago)
 - [Pleroma (Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (3 months ago)
 - [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (3 months ago)

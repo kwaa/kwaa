@@ -16,8 +16,9 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (1 day ago)
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (5 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (2 days ago)
+- [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (3 days ago)
+- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (6 days ago)
 - [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (1 week ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 weeks ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (2 weeks ago)
@@ -25,7 +26,6 @@
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 weeks ago)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (1 month ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (2 months ago)
-- [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) -  (2 months ago)
 
 </details>
 <details>
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [Update Urara description &amp; stars](https://github.com/svelte-society/sveltesociety.dev/pull/278) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (2 days ago)
+- [Update Urara description &amp; stars](https://github.com/svelte-society/sveltesociety.dev/pull/278) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (3 days ago)
 - [try fix Giscus](https://github.com/Sevichecc/Urara-Blog/pull/1) on [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) (2 months ago)
 - [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/kwchang0831.dev/pull/2) on [kwchang0831/kwchang0831.dev](https://github.com/kwchang0831/kwchang0831.dev) (2 months ago)
 - [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (4 months ago)

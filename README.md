@@ -16,9 +16,9 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (today)
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (today)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (5 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (1 day ago)
+- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (1 day ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (6 days ago)
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (1 week ago)
 - [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (2 weeks ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (3 weeks ago)
@@ -67,11 +67,11 @@
   <br/>
 
 
-- [Introducing Gumori](https://kwaa.dev/gumori) (5 days ago)
+- [Introducing Gumori](https://kwaa.dev/gumori) (6 days ago)
 - [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (2 months ago)
 - [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (3 months ago)
 - [Pleroma (Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (3 months ago)
-- [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (3 months ago)
+- [IndieWeb, Webmentions](https://kwaa.dev/indieweb) (4 months ago)
 
 👉 read more at [./kwaa.dev](https://kwaa.dev)
 

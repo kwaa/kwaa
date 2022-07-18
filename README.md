@@ -16,14 +16,14 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (1 day ago)
 - [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (1 day ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (6 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (2 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (1 week ago)
 - [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (2 weeks ago)
-- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (3 weeks ago)
-- [kwaa/bk](https://github.com/kwaa/bk) - ./kwaa.dev/bk (3 weeks ago)
-- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (4 weeks ago)
+- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (4 weeks ago)
+- [kwaa/bk](https://github.com/kwaa/bk) - ./kwaa.dev/bk (4 weeks ago)
+- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (1 month ago)
 - [kwaa/dkit](https://github.com/kwaa/dkit) - 🐋 Simple pnpm image optimized for SvelteKit project. (1 month ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (2 months ago)
 
@@ -67,7 +67,7 @@
   <br/>
 
 
-- [Introducing Gumori](https://kwaa.dev/gumori) (6 days ago)
+- [Introducing Gumori](https://kwaa.dev/gumori) (1 week ago)
 - [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (2 months ago)
 - [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (3 months ago)
 - [Pleroma (Soapbox BE&#43;FE) 安装笔记](https://kwaa.dev/pleroma) (3 months ago)

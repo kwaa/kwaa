@@ -1,7 +1,7 @@
 ![藍](ai.webp)
 
 <details>
-  <summary><b>🌠 About Me</b></summary>
+  <summary><b>🌠 About Me 🌠</b></summary>
   <br/>
 
 - 藍

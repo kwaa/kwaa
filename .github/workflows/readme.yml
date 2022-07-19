@@ -1,4 +1,4 @@
-name: Update README
+name: Update kwaa/README
 
 on:
   workflow_dispatch:

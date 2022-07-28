@@ -16,14 +16,14 @@
   <br/>
 
 
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (today)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 days ago)
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (2 days ago)
-- [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (2 days ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (6 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 day ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (3 days ago)
+- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (3 days ago)
+- [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (3 days ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 week ago)
 - [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) - 💟 Info about kwchang0831 (1 week ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (1 week ago)
-- [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (2 weeks ago)
+- [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (3 weeks ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 month ago)
 - [kwaa/bk](https://github.com/kwaa/bk) - ./kwaa.dev/bk (1 month ago)
 
@@ -50,9 +50,9 @@
   <br/>
 
 
-- [fff.js.org](https://github.com/js-org/js.org/pull/7441) on [js-org/js.org](https://github.com/js-org/js.org) (6 days ago)
+- [fff.js.org](https://github.com/js-org/js.org/pull/7441) on [js-org/js.org](https://github.com/js-org/js.org) (1 week ago)
 - [Update metrics.yml](https://github.com/kwchang0831/kwchang0831/pull/2) on [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) (1 week ago)
-- [Update Urara description &amp; stars](https://github.com/svelte-society/sveltesociety.dev/pull/278) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (2 weeks ago)
+- [Update Urara description &amp; stars](https://github.com/svelte-society/sveltesociety.dev/pull/278) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (3 weeks ago)
 - [try fix Giscus](https://github.com/Sevichecc/Urara-Blog/pull/1) on [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) (2 months ago)
 - [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/kwchang0831.dev/pull/2) on [kwchang0831/kwchang0831.dev](https://github.com/kwchang0831/kwchang0831.dev) (2 months ago)
 - [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (4 months ago)

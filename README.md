@@ -17,9 +17,9 @@
 
 
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 day ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (3 days ago)
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (3 days ago)
-- [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (3 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (4 days ago)
+- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (4 days ago)
+- [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (4 days ago)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 week ago)
 - [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) - 💟 Info about kwchang0831 (1 week ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (1 week ago)
@@ -56,7 +56,7 @@
 - [try fix Giscus](https://github.com/Sevichecc/Urara-Blog/pull/1) on [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) (2 months ago)
 - [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/kwchang0831.dev/pull/2) on [kwchang0831/kwchang0831.dev](https://github.com/kwchang0831/kwchang0831.dev) (2 months ago)
 - [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (4 months ago)
-- [update urara uses](https://github.com/janosh/awesome-sveltekit/pull/64) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (4 months ago)
+- [update urara uses](https://github.com/janosh/awesome-sveltekit/pull/64) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (5 months ago)
 - [update urara screenshot](https://github.com/janosh/awesome-sveltekit/pull/42) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (7 months ago)
 - [Add site 35 https://urara-demo.netlify.app](https://github.com/janosh/awesome-sveltekit/pull/39) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (8 months ago)
 - [add `border-hidden`](https://github.com/tailwindlabs/tailwindcss/pull/3806) on [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) (1 year ago)

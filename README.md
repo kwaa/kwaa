@@ -16,7 +16,7 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (today)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript) (1 day ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 week ago)
 - [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (1 week ago)
 - [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (1 week ago)

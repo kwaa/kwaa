@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (3 days ago)
-- [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (3 days ago)
-- [kwaa/todoli](https://github.com/kwaa/todoli) - 🥔 Yet Another To Do List. (4 days ago)
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (4 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (today)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 day ago)
+- [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (6 days ago)
+- [kwaa/todoli](https://github.com/kwaa/todoli) - 🥔 Yet Another To Do List. (1 week ago)
+- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (1 week ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (3 weeks ago)
-- [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) - 💟 Info about kwchang0831 (4 weeks ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (4 weeks ago)
+- [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) - 💟 Info about kwchang0831 (1 month ago)
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (1 month ago)
-- [kwaa/bk](https://github.com/kwaa/bk) - ./kwaa.dev/bk (1 month ago)
+- [kwaa/bk](https://github.com/kwaa/bk) - ./kwaa.dev/bk (2 months ago)
 
 </details>
 <details>
@@ -50,8 +50,8 @@
   <br/>
 
 
-- [fff.js.org](https://github.com/js-org/js.org/pull/7441) on [js-org/js.org](https://github.com/js-org/js.org) (3 weeks ago)
-- [Update metrics.yml](https://github.com/kwchang0831/kwchang0831/pull/2) on [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) (4 weeks ago)
+- [fff.js.org](https://github.com/js-org/js.org/pull/7441) on [js-org/js.org](https://github.com/js-org/js.org) (4 weeks ago)
+- [Update metrics.yml](https://github.com/kwchang0831/kwchang0831/pull/2) on [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) (1 month ago)
 - [Update Urara description &amp; stars](https://github.com/svelte-society/sveltesociety.dev/pull/278) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (1 month ago)
 - [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/kwchang0831.dev/pull/2) on [kwchang0831/kwchang0831.dev](https://github.com/kwchang0831/kwchang0831.dev) (3 months ago)
 - [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (5 months ago)

@@ -16,11 +16,11 @@
   <br/>
 
 
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (today)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (today)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS theme/framework with Sugar. [WIP] (1 day ago)
-- [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo (1 day ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 day ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS theme/framework with Sugar. [WIP] (2 days ago)
+- [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo (2 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 days ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 week ago)
 - [hexojs/site](https://github.com/hexojs/site) - The website for Hexo. (1 week ago)
 - [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (2 weeks ago)
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [Ungroup SugarSS from CSS](https://github.com/github/linguist/pull/6041) on [github/linguist](https://github.com/github/linguist) (3 days ago)
+- [Ungroup SugarSS from CSS](https://github.com/github/linguist/pull/6041) on [github/linguist](https://github.com/github/linguist) (4 days ago)
 - [plugin: `hexo-partytown`](https://github.com/hexojs/site/pull/1896) on [hexojs/site](https://github.com/hexojs/site) (1 week ago)
 - [fff.js.org](https://github.com/js-org/js.org/pull/7441) on [js-org/js.org](https://github.com/js-org/js.org) (1 month ago)
 - [Update metrics.yml](https://github.com/kwchang0831/kwchang0831/pull/2) on [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) (1 month ago)
@@ -59,7 +59,7 @@
 - [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (5 months ago)
 - [update urara uses](https://github.com/janosh/awesome-sveltekit/pull/64) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (6 months ago)
 - [update urara screenshot](https://github.com/janosh/awesome-sveltekit/pull/42) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (8 months ago)
-- [Add site 35 https://urara-demo.netlify.app](https://github.com/janosh/awesome-sveltekit/pull/39) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (9 months ago)
+- [Add site 35 https://urara-demo.netlify.app](https://github.com/janosh/awesome-sveltekit/pull/39) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (10 months ago)
 
 </details>
 <details>
@@ -67,7 +67,7 @@
   <br/>
 
 
-- [Vite Plugin PWA 的用法和配置](https://kwaa.dev/vite-plugin-pwa) (today)
+- [Vite Plugin PWA 的用法和配置](https://kwaa.dev/vite-plugin-pwa) (1 day ago)
 - [Introducing Gumori](https://kwaa.dev/gumori) (1 month ago)
 - [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (3 months ago)
 - [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (4 months ago)

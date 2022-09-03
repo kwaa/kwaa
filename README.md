@@ -16,15 +16,15 @@
   <br/>
 
 
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (today)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (today)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (2 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS theme/framework with Sugar. [WIP] (4 days ago)
-- [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo (4 days ago)
-- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 week ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (today)
+- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request! (1 day ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (3 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS theme/framework with Sugar. [WIP] (5 days ago)
+- [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo (5 days ago)
 - [hexojs/site](https://github.com/hexojs/site) - The website for Hexo. (1 week ago)
-- [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (2 weeks ago)
-- [kwaa/todoli](https://github.com/kwaa/todoli) - 🥔 Yet Another To Do List. (3 weeks ago)
+- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 week ago)
+- [importantimport/gumori-you](https://github.com/importantimport/gumori-you) - 🖼️ Bringing Material Design 3 to the Astro Blog. [WIP] (3 weeks ago)
 - [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (3 weeks ago)
 
 </details>
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [Ungroup SugarSS from CSS](https://github.com/github/linguist/pull/6041) on [github/linguist](https://github.com/github/linguist) (6 days ago)
+- [Ungroup SugarSS from CSS](https://github.com/github/linguist/pull/6041) on [github/linguist](https://github.com/github/linguist) (1 week ago)
 - [plugin: `hexo-partytown`](https://github.com/hexojs/site/pull/1896) on [hexojs/site](https://github.com/hexojs/site) (1 week ago)
 - [fff.js.org](https://github.com/js-org/js.org/pull/7441) on [js-org/js.org](https://github.com/js-org/js.org) (1 month ago)
 - [Update metrics.yml](https://github.com/kwchang0831/kwchang0831/pull/2) on [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) (1 month ago)
@@ -67,7 +67,7 @@
   <br/>
 
 
-- [Vite Plugin PWA 的用法和配置](https://kwaa.dev/vite-plugin-pwa) (3 days ago)
+- [Vite Plugin PWA 的用法和配置](https://kwaa.dev/vite-plugin-pwa) (4 days ago)
 - [Introducing Gumori](https://kwaa.dev/gumori) (1 month ago)
 - [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (4 months ago)
 - [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (4 months ago)

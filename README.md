@@ -16,12 +16,12 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS theme/framework with Sugar. [WIP] (2 days ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 days ago)
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (4 days ago)
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request! (6 days ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 week ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (today)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS theme/framework with Sugar. [WIP] (3 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (3 days ago)
+- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (5 days ago)
+- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request! (1 week ago)
 - [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo (1 week ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (2 weeks ago)
 - [hexojs/site](https://github.com/hexojs/site) - The website for Hexo. (2 weeks ago)
@@ -67,11 +67,11 @@
   <br/>
 
 
-- [为 Urara 设置 Indiekit/Micropub](https://kwaa.dev/indiekit) (2 days ago)
+- [为 Urara 设置 Indiekit/Micropub](https://kwaa.dev/indiekit) (3 days ago)
 - [Vite Plugin PWA 的用法和配置](https://kwaa.dev/vite-plugin-pwa) (1 week ago)
-- [Introducing Gumori](https://kwaa.dev/gumori) (1 month ago)
+- [Introducing Gumori](https://kwaa.dev/gumori) (2 months ago)
 - [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (4 months ago)
-- [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (4 months ago)
+- [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (5 months ago)
 
 👉 read more at [./kwaa.dev](https://kwaa.dev)
 

@@ -16,15 +16,15 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (today)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (4 days ago)
-- [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo (4 days ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 week ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (today)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 day ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (5 days ago)
+- [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo (5 days ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
 - [kwaa/hexo-theme-m](https://github.com/kwaa/hexo-theme-m) - Yet Another Material Theme for Hexo. (2nd Anniversary Update) (2 weeks ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS theme/framework with Sugar. [WIP] (2 weeks ago)
 - [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (3 weeks ago)
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request! (3 weeks ago)
+- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request! (4 weeks ago)
 - [hexojs/site](https://github.com/hexojs/site) - The website for Hexo. (1 month ago)
 
 </details>
@@ -59,7 +59,7 @@
 - [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (6 months ago)
 - [update urara uses](https://github.com/janosh/awesome-sveltekit/pull/64) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (7 months ago)
 - [update urara screenshot](https://github.com/janosh/awesome-sveltekit/pull/42) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (9 months ago)
-- [Add site 35 https://urara-demo.netlify.app](https://github.com/janosh/awesome-sveltekit/pull/39) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (10 months ago)
+- [Add site 35 https://urara-demo.netlify.app](https://github.com/janosh/awesome-sveltekit/pull/39) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (11 months ago)
 
 </details>
 <details>

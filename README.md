@@ -16,11 +16,11 @@
   <br/>
 
 
-- [kwaa/hexo-theme-m](https://github.com/kwaa/hexo-theme-m) - Yet Another Material Theme for Hexo. (2nd Anniversary Update) (1 day ago)
-- [kwaa/naive](https://github.com/kwaa/naive) - 🐸 Dockerized NaiveProxy (Monthly Update) (1 day ago)
-- [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [EMPTY] (3 days ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (4 days ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (today)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (today)
+- [kwaa/hexo-theme-m](https://github.com/kwaa/hexo-theme-m) - Yet Another Material Theme for Hexo. (2nd Anniversary Update) (2 days ago)
+- [kwaa/naive](https://github.com/kwaa/naive) - 🐸 Dockerized NaiveProxy (Monthly Update) (2 days ago)
+- [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [EMPTY] (4 days ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
 - [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo (1 week ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (2 weeks ago)
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [theme: `hexo-theme-m`](https://github.com/hexojs/site/pull/1926) on [hexojs/site](https://github.com/hexojs/site) (4 days ago)
+- [theme: `hexo-theme-m`](https://github.com/hexojs/site/pull/1926) on [hexojs/site](https://github.com/hexojs/site) (5 days ago)
 - [Ungroup SugarSS from CSS](https://github.com/github/linguist/pull/6041) on [github/linguist](https://github.com/github/linguist) (1 month ago)
 - [plugin: `hexo-partytown`](https://github.com/hexojs/site/pull/1896) on [hexojs/site](https://github.com/hexojs/site) (1 month ago)
 - [fff.js.org](https://github.com/js-org/js.org/pull/7441) on [js-org/js.org](https://github.com/js-org/js.org) (2 months ago)

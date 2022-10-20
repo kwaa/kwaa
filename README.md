@@ -16,8 +16,8 @@
   <br/>
 
 
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS theme/framework with Sugar. [WIP] (1 day ago)
-- [kwaa/hexo-lightningcss](https://github.com/kwaa/hexo-lightningcss) - ⚡️ LightningCSS Plugin for Hexo (4 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS theme/framework with Sugar. [WIP] (2 days ago)
+- [kwaa/hexo-lightningcss](https://github.com/kwaa/hexo-lightningcss) - ⚡️ LightningCSS Plugin for Hexo (5 days ago)
 - [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo (1 week ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
 - [importantimport/mcus](https://github.com/importantimport/mcus) - 🖼️ Material Color Utilities as a Service. (1 week ago)

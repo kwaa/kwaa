@@ -16,7 +16,7 @@
   <br/>
 
 
-- [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [WIP] (today)
+- [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [WIP] (1 day ago)
 - [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (1 week ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 week ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS theme/framework with Sugar. [WIP] (1 week ago)

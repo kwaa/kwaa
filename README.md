@@ -16,7 +16,8 @@
   <br/>
 
 
-- [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [WIP] (1 day ago)
+- [hexojs/site](https://github.com/hexojs/site) - The website for Hexo. (1 day ago)
+- [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [WIP] (2 days ago)
 - [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (1 week ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 week ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS theme/framework with Sugar. [WIP] (1 week ago)
@@ -25,7 +26,6 @@
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (3 weeks ago)
 - [importantimport/mcus](https://github.com/importantimport/mcus) - 🖼️ Material Color Utilities as a Service. (3 weeks ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 weeks ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 weeks ago)
 
 </details>
 <details>
@@ -50,6 +50,7 @@
   <br/>
 
 
+- [plugin: `hexo-lightningcss`](https://github.com/hexojs/site/pull/1937) on [hexojs/site](https://github.com/hexojs/site) (1 day ago)
 - [theme: `hexo-theme-m`](https://github.com/hexojs/site/pull/1926) on [hexojs/site](https://github.com/hexojs/site) (1 month ago)
 - [Ungroup SugarSS from CSS](https://github.com/github/linguist/pull/6041) on [github/linguist](https://github.com/github/linguist) (2 months ago)
 - [plugin: `hexo-partytown`](https://github.com/hexojs/site/pull/1896) on [hexojs/site](https://github.com/hexojs/site) (2 months ago)
@@ -59,7 +60,6 @@
 - [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/urara.kwchang0831.dev/pull/2) on [kwchang0831/urara.kwchang0831.dev](https://github.com/kwchang0831/urara.kwchang0831.dev) (6 months ago)
 - [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (7 months ago)
 - [update urara uses](https://github.com/janosh/awesome-sveltekit/pull/64) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (8 months ago)
-- [update urara screenshot](https://github.com/janosh/awesome-sveltekit/pull/42) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (10 months ago)
 
 </details>
 <details>

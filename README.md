@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (today)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (2 days ago)
-- [hexojs/site](https://github.com/hexojs/site) - The website for Hexo. (6 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (today)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 day ago)
+- [hexojs/site](https://github.com/hexojs/site) - The website for Hexo. (1 week ago)
 - [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [WIP] (1 week ago)
 - [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (2 weeks ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS theme/framework with Sugar. [WIP] (2 weeks ago)
 - [kwaa/hexo-lightningcss](https://github.com/kwaa/hexo-lightningcss) - ⚡️ LightningCSS Plugin for Hexo (3 weeks ago)
 - [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo (4 weeks ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (4 weeks ago)
-- [importantimport/mcus](https://github.com/importantimport/mcus) - 🖼️ Material Color Utilities as a Service. (4 weeks ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 month ago)
+- [importantimport/mcus](https://github.com/importantimport/mcus) - 🖼️ Material Color Utilities as a Service. (1 month ago)
 
 </details>
 <details>
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [plugin: `hexo-lightningcss`](https://github.com/hexojs/site/pull/1937) on [hexojs/site](https://github.com/hexojs/site) (6 days ago)
+- [plugin: `hexo-lightningcss`](https://github.com/hexojs/site/pull/1937) on [hexojs/site](https://github.com/hexojs/site) (1 week ago)
 - [theme: `hexo-theme-m`](https://github.com/hexojs/site/pull/1926) on [hexojs/site](https://github.com/hexojs/site) (1 month ago)
 - [Ungroup SugarSS from CSS](https://github.com/github/linguist/pull/6041) on [github/linguist](https://github.com/github/linguist) (2 months ago)
 - [plugin: `hexo-partytown`](https://github.com/hexojs/site/pull/1896) on [hexojs/site](https://github.com/hexojs/site) (2 months ago)

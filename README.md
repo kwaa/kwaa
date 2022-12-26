@@ -16,7 +16,7 @@
   <br/>
 
 
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (1 day ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (today)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
 - [kwaa/ech-playground](https://github.com/kwaa/ech-playground) - 🔒 Play with TLS Encrypted Client Hello (3 weeks ago)

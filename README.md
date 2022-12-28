@@ -16,7 +16,7 @@
   <br/>
 
 
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (1 day ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (today)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 weeks ago)
 - [kwaa/ech-playground](https://github.com/kwaa/ech-playground) - 🔒 Play with TLS Encrypted Client Hello (3 weeks ago)
@@ -68,7 +68,7 @@
 
 
 - [为 Urara 设置 Indiekit/Micropub](https://kwaa.dev/indiekit) (3 months ago)
-- [Vite Plugin PWA 的用法和配置](https://kwaa.dev/vite-plugin-pwa) (3 months ago)
+- [Vite Plugin PWA 的用法和配置](https://kwaa.dev/vite-plugin-pwa) (4 months ago)
 - [Introducing Gumori](https://kwaa.dev/gumori) (5 months ago)
 - [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (7 months ago)
 - [RE:Introducing Urara](https://kwaa.dev/intro-urara/re) (8 months ago)

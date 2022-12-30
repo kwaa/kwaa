@@ -16,7 +16,7 @@
   <br/>
 
 
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (1 day ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (2 days ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 weeks ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 weeks ago)
 - [kwaa/ech-playground](https://github.com/kwaa/ech-playground) - 🔒 Play with TLS Encrypted Client Hello (3 weeks ago)
@@ -58,7 +58,7 @@
 - [fff.js.org](https://github.com/js-org/js.org/pull/7441) on [js-org/js.org](https://github.com/js-org/js.org) (5 months ago)
 - [Update metrics.yml](https://github.com/kwchang0831/kwchang0831/pull/2) on [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) (5 months ago)
 - [Update Urara description &amp; stars](https://github.com/svelte-society/sveltesociety.dev/pull/278) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (5 months ago)
-- [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/urara.kwchang0831.dev/pull/2) on [kwchang0831/urara.kwchang0831.dev](https://github.com/kwchang0831/urara.kwchang0831.dev) (7 months ago)
+- [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/urara.kwchang0831.dev/pull/2) on [kwchang0831/urara.kwchang0831.dev](https://github.com/kwchang0831/urara.kwchang0831.dev) (8 months ago)
 - [Add Urara](https://github.com/svelte-society/sveltesociety.dev/pull/246) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (9 months ago)
 
 </details>

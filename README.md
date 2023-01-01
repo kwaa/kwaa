@@ -16,7 +16,7 @@
   <br/>
 
 
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (today)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (1 day ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 weeks ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 weeks ago)
 - [kwaa/ech-playground](https://github.com/kwaa/ech-playground) - 🔒 Play with TLS Encrypted Client Hello (4 weeks ago)
@@ -51,7 +51,7 @@
 
 
 - [docs: add `indiekit-preset-fff` plugin](https://github.com/getindiekit/indiekit/pull/498) on [getindiekit/indiekit](https://github.com/getindiekit/indiekit) (1 month ago)
-- [plugin: `hexo-lightningcss`](https://github.com/hexojs/site/pull/1937) on [hexojs/site](https://github.com/hexojs/site) (1 month ago)
+- [plugin: `hexo-lightningcss`](https://github.com/hexojs/site/pull/1937) on [hexojs/site](https://github.com/hexojs/site) (2 months ago)
 - [theme: `hexo-theme-m`](https://github.com/hexojs/site/pull/1926) on [hexojs/site](https://github.com/hexojs/site) (3 months ago)
 - [Ungroup SugarSS from CSS](https://github.com/github/linguist/pull/6041) on [github/linguist](https://github.com/github/linguist) (4 months ago)
 - [plugin: `hexo-partytown`](https://github.com/hexojs/site/pull/1896) on [hexojs/site](https://github.com/hexojs/site) (4 months ago)

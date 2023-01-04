@@ -17,8 +17,8 @@
 
 
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (today)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 day ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (3 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (2 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (4 days ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 weeks ago)
 - [kwaa/ech-playground](https://github.com/kwaa/ech-playground) - 🔒 Play with TLS Encrypted Client Hello (1 month ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 month ago)
@@ -67,8 +67,8 @@
   <br/>
 
 
-- [2022 总结 &amp; 2023 目标](https://kwaa.dev/2023) (3 days ago)
-- [为 Urara 设置 Indiekit/Micropub](https://kwaa.dev/indiekit) (3 months ago)
+- [2022 总结 &amp; 2023 目标](https://kwaa.dev/2023) (4 days ago)
+- [为 Urara 设置 Indiekit/Micropub](https://kwaa.dev/indiekit) (4 months ago)
 - [Vite Plugin PWA 的用法和配置](https://kwaa.dev/vite-plugin-pwa) (4 months ago)
 - [Introducing Gumori](https://kwaa.dev/gumori) (5 months ago)
 - [在 Ventoy 基础上安装 Arch Linux 并复用引导](https://kwaa.dev/ventoy-archlinux) (8 months ago)

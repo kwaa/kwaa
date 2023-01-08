@@ -16,16 +16,16 @@
   <br/>
 
 
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (today)
+- [canokeys/canokey-nrf52](https://github.com/canokeys/canokey-nrf52) - CanoKey implementation on Nordic nRF52840 MCU (1 day ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 day ago)
 - [kwaa/flytosocial](https://github.com/kwaa/flytosocial) - 🪽 An attempt to run a GoToSocial instance at fly.io. (2 days ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (6 days ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (1 week ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 weeks ago)
 - [kwaa/ech-playground](https://github.com/kwaa/ech-playground) - 🔒 Play with TLS Encrypted Client Hello (1 month ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 month ago)
 - [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [WIP] (1 month ago)
 - [hexojs/site](https://github.com/hexojs/site) - The website for Hexo. (1 month ago)
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (1 month ago)
 
 </details>
 <details>
@@ -90,9 +90,21 @@
 <details>
   <summary><b>🔒 PGP Public Key</b></summary>
   <br/>
+  
+```
+pub   ed25519/0x4444777733334444 2022-05-16 [C] [expires: 2025-01-07]
+      Key fingerprint = ABCB A12F 1A8E 3CCC F10B  5109 4444 7777 3333 4444
+uid                   [ultimate] 藍+85CD <kwa[a]kwaa.dev>
+uid                   [ultimate] 藍+85CD (GitHub) &lt;50108258+kwaa[a]users.noreply.github.com>
+uid                   [ultimate] [jpeg image of size 889]
+sub   ed25519/0xBCB0111111111111 2022-12-24 [S] [expires: 2025-01-07]
+sub   ed25519/0x6656222222222222 2022-10-27 [A] [expires: 2025-01-07]
+sub   cv25519/0x6EC06EC06EC06EC0 2022-10-05 [E] [expires: 2025-01-07]
 
-> User Key: `8964 78D9 78EB 0000`
-
-> Code Signing Key: [`2E18 657D 8C32 CC47`](https://github.com/kwaa.gpg)
+# via keys.openpgp.org
+gpg --keyserver hkps://keys.openpgp.org --recv-keys 4444777733334444
+# via kwaa.dev
+gpg --fetch-keys https://kwaa.dev/pgp/4734.pgp
+```
 
 </details>

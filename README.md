@@ -16,11 +16,11 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 day ago)
-- [importantimport/a2z](https://github.com/importantimport/a2z) - [WIP] (2 days ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (4 days ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (5 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (today)
+- [importantimport/a2z](https://github.com/importantimport/a2z) - [WIP] (3 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (3 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (5 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (6 days ago)
 - [canokeys/canokey-nrf52](https://github.com/canokeys/canokey-nrf52) - CanoKey implementation on Nordic nRF52840 MCU (1 week ago)
 - [kwaa/flytosocial](https://github.com/kwaa/flytosocial) - 🪽 An attempt to run a GoToSocial instance at fly.io. (1 week ago)
 - [kwaa/ech-playground](https://github.com/kwaa/ech-playground) - 🔒 Play with TLS Encrypted Client Hello (1 month ago)
@@ -57,7 +57,7 @@
 - [Ungroup SugarSS from CSS](https://github.com/github/linguist/pull/6041) on [github/linguist](https://github.com/github/linguist) (4 months ago)
 - [plugin: `hexo-partytown`](https://github.com/hexojs/site/pull/1896) on [hexojs/site](https://github.com/hexojs/site) (4 months ago)
 - [fff.js.org](https://github.com/js-org/js.org/pull/7441) on [js-org/js.org](https://github.com/js-org/js.org) (5 months ago)
-- [Update metrics.yml](https://github.com/kwchang0831/kwchang0831/pull/2) on [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) (5 months ago)
+- [Update metrics.yml](https://github.com/kwchang0831/kwchang0831/pull/2) on [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) (6 months ago)
 - [Update Urara description &amp; stars](https://github.com/svelte-society/sveltesociety.dev/pull/278) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (6 months ago)
 - [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/urara.kwchang0831.dev/pull/2) on [kwchang0831/urara.kwchang0831.dev](https://github.com/kwchang0831/urara.kwchang0831.dev) (8 months ago)
 

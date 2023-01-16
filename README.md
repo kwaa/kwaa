@@ -17,10 +17,10 @@
 
 
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (today)
-- [importantimport/a2z](https://github.com/importantimport/a2z) - [WIP] (3 days ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (3 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (5 days ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (6 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (today)
+- [importantimport/a2z](https://github.com/importantimport/a2z) - [WIP] (4 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (6 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 week ago)
 - [canokeys/canokey-nrf52](https://github.com/canokeys/canokey-nrf52) - CanoKey implementation on Nordic nRF52840 MCU (1 week ago)
 - [kwaa/flytosocial](https://github.com/kwaa/flytosocial) - 🪽 An attempt to run a GoToSocial instance at fly.io. (1 week ago)
 - [kwaa/ech-playground](https://github.com/kwaa/ech-playground) - 🔒 Play with TLS Encrypted Client Hello (1 month ago)

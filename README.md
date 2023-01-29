@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
-- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (3 days ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (4 days ago)
-- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (4 days ago)
-- [kwaa/hexo-lightningcss](https://github.com/kwaa/hexo-lightningcss) - ⚡️ LightningCSS Plugin for Hexo (4 days ago)
+- [kwaa/naive](https://github.com/kwaa/naive) - 🐸 Dockerized NaiveProxy (Monthly Update) (today)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 days ago)
+- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (4 days ago)
+- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (5 days ago)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (5 days ago)
+- [kwaa/hexo-lightningcss](https://github.com/kwaa/hexo-lightningcss) - ⚡️ LightningCSS Plugin for Hexo (5 days ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (2 weeks ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (2 weeks ago)
 - [canokeys/canokey-nrf52](https://github.com/canokeys/canokey-nrf52) - CanoKey implementation on Nordic nRF52840 MCU (3 weeks ago)
-- [kwaa/flytosocial](https://github.com/kwaa/flytosocial) - 🪽 An attempt to run a GoToSocial instance at fly.io. (3 weeks ago)
 
 </details>
 <details>
@@ -59,7 +59,7 @@
 - [fff.js.org](https://github.com/js-org/js.org/pull/7441) on [js-org/js.org](https://github.com/js-org/js.org) (6 months ago)
 - [Update metrics.yml](https://github.com/kwchang0831/kwchang0831/pull/2) on [kwchang0831/kwchang0831](https://github.com/kwchang0831/kwchang0831) (6 months ago)
 - [Update Urara description &amp; stars](https://github.com/svelte-society/sveltesociety.dev/pull/278) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (6 months ago)
-- [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/urara.kwchang0831.dev/pull/2) on [kwchang0831/urara.kwchang0831.dev](https://github.com/kwchang0831/urara.kwchang0831.dev) (8 months ago)
+- [fix EMFILE / ELIFECYCLE](https://github.com/kwchang0831/urara.kwchang0831.dev/pull/2) on [kwchang0831/urara.kwchang0831.dev](https://github.com/kwchang0831/urara.kwchang0831.dev) (9 months ago)
 
 </details>
 <details>

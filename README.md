@@ -16,10 +16,10 @@
   <br/>
 
 
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (today)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 day ago)
-- [kwaa/naive](https://github.com/kwaa/naive) - 🐸 Dockerized NaiveProxy (Monthly Update) (2 days ago)
-- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (6 days ago)
+- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (1 day ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
+- [kwaa/naive](https://github.com/kwaa/naive) - 🐸 Dockerized NaiveProxy (Monthly Update) (3 days ago)
+- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 week ago)
 - [kwaa/hexo-lightningcss](https://github.com/kwaa/hexo-lightningcss) - ⚡️ LightningCSS Plugin for Hexo (1 week ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 week ago)

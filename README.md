@@ -16,15 +16,15 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (today)
-- [kwaa/urara-isr](https://github.com/kwaa/urara-isr) - Attempts at Urara &#43; Incremental Static Regeneration (sveltejs/kit#661) (today)
-- [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) - An attempt to make Material 3 in Svelte. (1 day ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 days ago)
-- [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (2 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (3 days ago)
+- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (today)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 day ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 day ago)
+- [kwaa/urara-isr](https://github.com/kwaa/urara-isr) - Attempts at Urara &#43; Incremental Static Regeneration (sveltejs/kit#661) (1 day ago)
+- [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) - An attempt to make Material 3 in Svelte. (2 days ago)
+- [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (3 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (4 days ago)
 - [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (1 week ago)
 - [kwaa/naive](https://github.com/kwaa/naive) - 🐸 Dockerized NaiveProxy (Monthly Update) (1 week ago)
-- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (2 weeks ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (2 weeks ago)
 
 </details>
@@ -50,9 +50,9 @@
   <br/>
 
 
-- [set vite `outDir` instead of mv](https://github.com/KTibow/m3-svelte/pull/31) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (2 days ago)
-- [Update Urara Star Count](https://github.com/svelte-society/sveltesociety.dev/pull/367) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (2 days ago)
-- [WebComponents support](https://github.com/KTibow/m3-svelte/pull/30) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (4 days ago)
+- [set vite `outDir` instead of mv](https://github.com/KTibow/m3-svelte/pull/31) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (3 days ago)
+- [Update Urara Star Count](https://github.com/svelte-society/sveltesociety.dev/pull/367) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (3 days ago)
+- [WebComponents support](https://github.com/KTibow/m3-svelte/pull/30) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (5 days ago)
 - [fix wrong build command](https://github.com/canokeys/canokey-nrf52/pull/1) on [canokeys/canokey-nrf52](https://github.com/canokeys/canokey-nrf52) (1 month ago)
 - [docs: add `indiekit-preset-fff` plugin](https://github.com/getindiekit/indiekit/pull/498) on [getindiekit/indiekit](https://github.com/getindiekit/indiekit) (3 months ago)
 - [plugin: `hexo-lightningcss`](https://github.com/hexojs/site/pull/1937) on [hexojs/site](https://github.com/hexojs/site) (3 months ago)

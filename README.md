@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (today)
+- [kwaa/todoli](https://github.com/kwaa/todoli) - 🥔 Yet Another To Do List. (today)
 - [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (today)
-- [kwaa/csgo](https://github.com/kwaa/csgo) - My CS:GO crosshair &amp; scripts. (today)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (3 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 day ago)
+- [kwaa/csgo](https://github.com/kwaa/csgo) - My CS:GO crosshair &amp; scripts. (1 day ago)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (4 days ago)
 - [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 week ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
 - [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) - An attempt to make Material 3 in Svelte. (1 week ago)
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (1 week ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (1 week ago)
-- [importantimport/gumori](https://github.com/importantimport/gumori) - 📓 Minimal Stylesheets, IndieWeb-Compatible Astro Blog Starter. (2 weeks ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (2 weeks ago)
 
 </details>
 <details>

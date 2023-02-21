@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (today)
-- [kwaa/todoli](https://github.com/kwaa/todoli) - 🥔 Yet Another To Do List. (1 day ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
-- [kwaa/csgo](https://github.com/kwaa/csgo) - My CS:GO crosshair &amp; scripts. (2 days ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (5 days ago)
+- [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (1 day ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 day ago)
+- [kwaa/todoli](https://github.com/kwaa/todoli) - 🥔 Yet Another To Do List. (2 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 days ago)
+- [kwaa/csgo](https://github.com/kwaa/csgo) - My CS:GO crosshair &amp; scripts. (3 days ago)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (6 days ago)
 - [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 week ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
-- [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) - An attempt to make Material 3 in Svelte. (1 week ago)
+- [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) - An attempt to make Material 3 in Svelte. (2 weeks ago)
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website (2 weeks ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ A beautiful classless CSS framework with Sugar. [WIP] (2 weeks ago)
 
 </details>
 <details>
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [seia.js.org](https://github.com/js-org/js.org/pull/8025) on [js-org/js.org](https://github.com/js-org/js.org) (today)
+- [seia.js.org](https://github.com/js-org/js.org/pull/8025) on [js-org/js.org](https://github.com/js-org/js.org) (1 day ago)
 - [set vite `outDir` instead of mv](https://github.com/KTibow/m3-svelte/pull/31) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (2 weeks ago)
 - [Update Urara Star Count](https://github.com/svelte-society/sveltesociety.dev/pull/367) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (2 weeks ago)
 - [WebComponents support](https://github.com/KTibow/m3-svelte/pull/30) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (2 weeks ago)

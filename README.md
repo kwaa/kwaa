@@ -1,4 +1,4 @@
-![藍](ai.webp)
+![藍](ai.svg)
 
 <details>
   <summary><b>🌠 About Me</b></summary>
@@ -17,6 +17,7 @@
 
 
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (today)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (today)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 day ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (6 days ago)
 - [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 week ago)
@@ -25,7 +26,6 @@
 - [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (1 week ago)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (2 weeks ago)
 - [kwaa/todoli](https://github.com/kwaa/todoli) - 🥔 Yet Another To Do List. (2 weeks ago)
-- [kwaa/csgo](https://github.com/kwaa/csgo) - My CS:GO crosshair &amp; scripts. (2 weeks ago)
 
 </details>
 <details>

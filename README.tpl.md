@@ -1,4 +1,4 @@
-![藍](ai.webp)
+![藍](ai.svg)
 
 <details>
   <summary><b>🌠 About Me</b></summary>

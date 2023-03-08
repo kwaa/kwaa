@@ -16,10 +16,10 @@
   <br/>
 
 
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (today)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (today)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 day ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (6 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 day ago)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 day ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
 - [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 week ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 week ago)
 - [kwaa/hexo-theme-m](https://github.com/kwaa/hexo-theme-m) - Yet Another Material Theme for Hexo. (MF2 Update) (1 week ago)
@@ -51,10 +51,10 @@
 
 
 - [seia.js.org](https://github.com/js-org/js.org/pull/8025) on [js-org/js.org](https://github.com/js-org/js.org) (2 weeks ago)
-- [set vite `outDir` instead of mv](https://github.com/KTibow/m3-svelte/pull/31) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (4 weeks ago)
-- [Update Urara Star Count](https://github.com/svelte-society/sveltesociety.dev/pull/367) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (4 weeks ago)
+- [set vite `outDir` instead of mv](https://github.com/KTibow/m3-svelte/pull/31) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (1 month ago)
+- [Update Urara Star Count](https://github.com/svelte-society/sveltesociety.dev/pull/367) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (1 month ago)
 - [WebComponents support](https://github.com/KTibow/m3-svelte/pull/30) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (1 month ago)
-- [fix wrong build command](https://github.com/canokeys/canokey-nrf52/pull/1) on [canokeys/canokey-nrf52](https://github.com/canokeys/canokey-nrf52) (1 month ago)
+- [fix wrong build command](https://github.com/canokeys/canokey-nrf52/pull/1) on [canokeys/canokey-nrf52](https://github.com/canokeys/canokey-nrf52) (2 months ago)
 - [docs: add `indiekit-preset-fff` plugin](https://github.com/getindiekit/indiekit/pull/498) on [getindiekit/indiekit](https://github.com/getindiekit/indiekit) (3 months ago)
 - [plugin: `hexo-lightningcss`](https://github.com/hexojs/site/pull/1937) on [hexojs/site](https://github.com/hexojs/site) (4 months ago)
 - [theme: `hexo-theme-m`](https://github.com/hexojs/site/pull/1926) on [hexojs/site](https://github.com/hexojs/site) (5 months ago)
@@ -67,8 +67,8 @@
   <br/>
 
 
-- [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (1 week ago)
-- [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (1 month ago)
+- [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (2 weeks ago)
+- [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (2 months ago)
 - [2022 总结 &amp; 2023 目标](https://kwaa.dev/2023) (2 months ago)
 - [为 Urara 设置 Indiekit/Micropub](https://kwaa.dev/indiekit) (6 months ago)
 - [Vite Plugin PWA 的用法和配置](https://kwaa.dev/vite-plugin-pwa) (6 months ago)

@@ -2,6 +2,33 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
+		/* 藍 */
+                @font-face {
+                font-family: 'Rampart One';
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/rampartone/v7/K2F1fZFGl_JSR1tAWNG9R6qlRT74dQHs_oRWXf0F812jxtMy-x_vkw.78.woff2) format('woff2');
+                unicode-range: U+4e32, U+51db, U+53a8, U+53ea, U+5609, U+5674, U+5a92, U+5e7e, U+6115, U+611a, U+62cc, U+62ed, U+63c9, U+64b9, U+64e6, U+65cb, U+6606, U+6731, U+683d, U+6afb, U+7460, U+771e, U+78ef, U+7b26, U+7b51, U+7cde, U+7d10, U+7d2f, U+7d46, U+80de, U+819c, U+84b2, U+85cd, U+865a, U+8ecc, U+9022, U+90b8, U+9192, U+9675, U+96b7, U+99ff, U+ff44, U+ff55, U+ff6c, U+ff73, U+ff75, U+ff86, U+ff8d, U+ff92, U+ffe3;
+                }
+                /* + */
+                @font-face {
+                font-family: 'Rampart One';
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(https://fonts.gstatic.com/s/rampartone/v7/K2F1fZFGl_JSR1tAWNG9R6qlRT74dQHs_oRWXf0F812jxtMy-x_vkw.111.woff2) format('woff2');
+                unicode-range: U+2b, U+d7, U+300e-300f, U+4e07, U+4e8c, U+512a, U+5149, U+518d, U+5236, U+52b9, U+52d9, U+5468, U+578b, U+57fa, U+5b8c, U+5ba2, U+5c02, U+5de5, U+5f37, U+5f62, U+623b, U+63d0, U+652f, U+672a, U+6848, U+6d41, U+7136, U+7537, U+754c, U+76f4, U+79c1, U+7ba1, U+7d44, U+7d4c, U+7dcf, U+7dda, U+7de8, U+82b1, U+897f, U+8ca9, U+8cfc, U+904e, U+9664, U+982d, U+9858, U+98a8, U+9a13, U+ff13, U+ff5c;
+                }
+                /* 85CD */
+                @font-face {
+                font-family: 'Rampart One';
+                  font-style: normal;
+                  font-weight: 400;
+                  font-display: swap;
+                  src: url(https://fonts.gstatic.com/s/rampartone/v7/K2F1fZFGl_JSR1tAWNG9R6qlRT74dQHs_oRWXf0F812jxtMy-x_vkw.118.woff2) format('woff2');
+                  unicode-range: U+21-22, U+27-2a, U+2c-3b, U+3f, U+41-4d, U+4f-5d, U+61-7b, U+7d, U+ab, U+ae, U+b2-b3, U+b7, U+bb, U+c9, U+cd, U+d6, U+d8, U+dc, U+e0-e5, U+e7-ed, U+ef, U+f1-f4, U+f6, U+f8, U+fa, U+fc-fd, U+103, U+14d, U+1b0, U+300-301, U+1ebf, U+1ec7, U+2013-2014, U+201c-201d, U+2039-203a, U+203c, U+2048-2049, U+2113, U+2122, U+65e5, U+6708, U+70b9;
+                }
                 :root {
                 --color-background: transparent;
                 --axis-x: 1px;
@@ -12,16 +39,7 @@
                 --color-foreground: var(--color-white);
                 }
                 .container {
-                font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
+                font-family: 'Rampart One';
                 display: flex;
                 flex-direction: column;
                 align-items: center;

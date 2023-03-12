@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 day ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (4 days ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (5 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (2 days ago)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (5 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (6 days ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
 - [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 week ago)
 - [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (1 week ago)
-- [kwaa/hexo-theme-m](https://github.com/kwaa/hexo-theme-m) - Yet Another Material Theme for Hexo. (MF2 Update) (1 week ago)
+- [kwaa/hexo-theme-m](https://github.com/kwaa/hexo-theme-m) - Yet Another Material Theme for Hexo. (MF2 Update) (2 weeks ago)
 - [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (2 weeks ago)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (2 weeks ago)
-- [kwaa/todoli](https://github.com/kwaa/todoli) - 🥔 Yet Another To Do List. (2 weeks ago)
+- [kwaa/todoli](https://github.com/kwaa/todoli) - 🥔 Yet Another To Do List. (3 weeks ago)
 
 </details>
 <details>

@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (today)
-- [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (4 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 day ago)
+- [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (5 days ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 Yet Another Opinionated Frontmatter Variable Specs. (1 week ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 weeks ago)
 - [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (2 weeks ago)
-- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (2 weeks ago)
+- [importantimport/urara-docs](https://github.com/importantimport/urara-docs) - 🌸 Documentation for Urara (3 weeks ago)
 - [kwaa/hexo-theme-m](https://github.com/kwaa/hexo-theme-m) - Yet Another Material Theme for Hexo. (MF2 Update) (3 weeks ago)
 - [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (3 weeks ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (3 weeks ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (4 weeks ago)
 
 </details>
 <details>
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [seia.js.org](https://github.com/js-org/js.org/pull/8025) on [js-org/js.org](https://github.com/js-org/js.org) (3 weeks ago)
+- [seia.js.org](https://github.com/js-org/js.org/pull/8025) on [js-org/js.org](https://github.com/js-org/js.org) (4 weeks ago)
 - [set vite `outDir` instead of mv](https://github.com/KTibow/m3-svelte/pull/31) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (1 month ago)
 - [Update Urara Star Count](https://github.com/svelte-society/sveltesociety.dev/pull/367) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (1 month ago)
 - [WebComponents support](https://github.com/KTibow/m3-svelte/pull/30) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (1 month ago)
@@ -59,7 +59,7 @@
 - [plugin: `hexo-lightningcss`](https://github.com/hexojs/site/pull/1937) on [hexojs/site](https://github.com/hexojs/site) (4 months ago)
 - [theme: `hexo-theme-m`](https://github.com/hexojs/site/pull/1926) on [hexojs/site](https://github.com/hexojs/site) (5 months ago)
 - [Ungroup SugarSS from CSS](https://github.com/github/linguist/pull/6041) on [github/linguist](https://github.com/github/linguist) (6 months ago)
-- [plugin: `hexo-partytown`](https://github.com/hexojs/site/pull/1896) on [hexojs/site](https://github.com/hexojs/site) (6 months ago)
+- [plugin: `hexo-partytown`](https://github.com/hexojs/site/pull/1896) on [hexojs/site](https://github.com/hexojs/site) (7 months ago)
 
 </details>
 <details>

@@ -16,11 +16,11 @@
   <br/>
 
 
-- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (today)
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface. (2 days ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (5 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (5 days ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (6 days ago)
+- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 day ago)
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface. (3 days ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (6 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (6 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (2 weeks ago)
 - [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [WIP] (3 weeks ago)
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [Support releases all unoccupied cached memory from XPU](https://github.com/comfyanonymous/ComfyUI/pull/512) on [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) (2 days ago)
+- [Support releases all unoccupied cached memory from XPU](https://github.com/comfyanonymous/ComfyUI/pull/512) on [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) (3 days ago)
 - [Basic support for Intel XPU (Arc Graphics)](https://github.com/comfyanonymous/ComfyUI/pull/409) on [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) (1 week ago)
 - [seia.js.org](https://github.com/js-org/js.org/pull/8025) on [js-org/js.org](https://github.com/js-org/js.org) (1 month ago)
 - [set vite `outDir` instead of mv](https://github.com/KTibow/m3-svelte/pull/31) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (2 months ago)

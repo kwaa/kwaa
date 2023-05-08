@@ -16,10 +16,10 @@
   <br/>
 
 
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (today)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (today)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (2 days ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (6 days ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (6 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (3 days ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 week ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
 - [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 week ago)
 - [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (1 week ago)
@@ -50,8 +50,8 @@
   <br/>
 
 
-- [shiraha.js.org](https://github.com/js-org/js.org/pull/8216) on [js-org/js.org](https://github.com/js-org/js.org) (6 days ago)
-- [pull main from dev](https://github.com/importantimport/shiraha/pull/6) on [importantimport/shiraha](https://github.com/importantimport/shiraha) (6 days ago)
+- [shiraha.js.org](https://github.com/js-org/js.org/pull/8216) on [js-org/js.org](https://github.com/js-org/js.org) (1 week ago)
+- [pull main from dev](https://github.com/importantimport/shiraha/pull/6) on [importantimport/shiraha](https://github.com/importantimport/shiraha) (1 week ago)
 - [Support releases all unoccupied cached memory from XPU](https://github.com/comfyanonymous/ComfyUI/pull/512) on [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) (3 weeks ago)
 - [Basic support for Intel XPU (Arc Graphics)](https://github.com/comfyanonymous/ComfyUI/pull/409) on [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) (1 month ago)
 - [seia.js.org](https://github.com/js-org/js.org/pull/8025) on [js-org/js.org](https://github.com/js-org/js.org) (2 months ago)
@@ -67,7 +67,7 @@
   <br/>
 
 
-- [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (3 weeks ago)
+- [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (4 weeks ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (2 months ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (4 months ago)
 - [2022 总结 &amp; 2023 目标](https://kwaa.dev/2023) (4 months ago)

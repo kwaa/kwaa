@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (today)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (1 day ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (4 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 day ago)
+- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (1 day ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (5 days ago)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 week ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
-- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 week ago)
-- [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (1 week ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
+- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (2 weeks ago)
+- [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (2 weeks ago)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (2 weeks ago)
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface. (3 weeks ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (4 weeks ago)
 
 </details>
 <details>
@@ -50,6 +50,8 @@
   <br/>
 
 
+- [chore: fix action badge url](https://github.com/Jack-Works/async-call-rpc/pull/60) on [Jack-Works/async-call-rpc](https://github.com/Jack-Works/async-call-rpc) (today)
+- [为 Dockerfile 设置 `ENTRYPOINT`](https://github.com/XTLS/Xray-core/pull/2052) on [XTLS/Xray-core](https://github.com/XTLS/Xray-core) (1 day ago)
 - [shiraha.js.org](https://github.com/js-org/js.org/pull/8216) on [js-org/js.org](https://github.com/js-org/js.org) (1 week ago)
 - [pull main from dev](https://github.com/importantimport/shiraha/pull/6) on [importantimport/shiraha](https://github.com/importantimport/shiraha) (1 week ago)
 - [Support releases all unoccupied cached memory from XPU](https://github.com/comfyanonymous/ComfyUI/pull/512) on [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) (3 weeks ago)
@@ -58,8 +60,6 @@
 - [set vite `outDir` instead of mv](https://github.com/KTibow/m3-svelte/pull/31) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (3 months ago)
 - [Update Urara Star Count](https://github.com/svelte-society/sveltesociety.dev/pull/367) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (3 months ago)
 - [WebComponents support](https://github.com/KTibow/m3-svelte/pull/30) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (3 months ago)
-- [fix wrong build command](https://github.com/canokeys/canokey-nrf52/pull/1) on [canokeys/canokey-nrf52](https://github.com/canokeys/canokey-nrf52) (4 months ago)
-- [docs: add `indiekit-preset-fff` plugin](https://github.com/getindiekit/indiekit/pull/498) on [getindiekit/indiekit](https://github.com/getindiekit/indiekit) (6 months ago)
 
 </details>
 <details>
@@ -67,7 +67,7 @@
   <br/>
 
 
-- [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (4 weeks ago)
+- [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (1 month ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (2 months ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (4 months ago)
 - [2022 总结 &amp; 2023 目标](https://kwaa.dev/2023) (4 months ago)

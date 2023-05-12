@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (today)
-- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (today)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (1 day ago)
-- [Jack-Works/async-call-rpc](https://github.com/Jack-Works/async-call-rpc) - A lightweight JSON RPC client &amp; server (1 day ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
-- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (2 days ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (6 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (today)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 day ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 day ago)
+- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 day ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 days ago)
+- [Jack-Works/async-call-rpc](https://github.com/Jack-Works/async-call-rpc) - A lightweight JSON RPC client &amp; server (2 days ago)
+- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (1 week ago)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 week ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
-- [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (2 weeks ago)
 
 </details>
 <details>
@@ -50,8 +50,8 @@
   <br/>
 
 
-- [fix: action badge url](https://github.com/Jack-Works/async-call-rpc/pull/60) on [Jack-Works/async-call-rpc](https://github.com/Jack-Works/async-call-rpc) (1 day ago)
-- [为 Dockerfile 设置 `ENTRYPOINT`](https://github.com/XTLS/Xray-core/pull/2052) on [XTLS/Xray-core](https://github.com/XTLS/Xray-core) (2 days ago)
+- [fix: action badge url](https://github.com/Jack-Works/async-call-rpc/pull/60) on [Jack-Works/async-call-rpc](https://github.com/Jack-Works/async-call-rpc) (2 days ago)
+- [为 Dockerfile 设置 `ENTRYPOINT`](https://github.com/XTLS/Xray-core/pull/2052) on [XTLS/Xray-core](https://github.com/XTLS/Xray-core) (3 days ago)
 - [shiraha.js.org](https://github.com/js-org/js.org/pull/8216) on [js-org/js.org](https://github.com/js-org/js.org) (1 week ago)
 - [pull main from dev](https://github.com/importantimport/shiraha/pull/6) on [importantimport/shiraha](https://github.com/importantimport/shiraha) (1 week ago)
 - [Support releases all unoccupied cached memory from XPU](https://github.com/comfyanonymous/ComfyUI/pull/512) on [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) (3 weeks ago)

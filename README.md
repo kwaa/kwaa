@@ -16,12 +16,12 @@
   <br/>
 
 
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (today)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (today)
-- [importantimport/unplugin-tdewolff-minify-html-literals](https://github.com/importantimport/unplugin-tdewolff-minify-html-literals) - An Vite/Rollup/Webpack/esbuild/Rspack plugin to minify HTML template literal strings. (1 day ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (2 days ago)
-- [importantimport/mcu-extra](https://github.com/importantimport/mcu-extra) - 🖼️ Additional packages to add new features and bug fixes to Material Color Utilities. (2 days ago)
-- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (3 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (4 days ago)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (today)
+- [importantimport/unplugin-tdewolff-minify-html-literals](https://github.com/importantimport/unplugin-tdewolff-minify-html-literals) - 🗜️ An Vite/Rollup/Webpack/esbuild/Rspack plugin to minify HTML template literal strings. (1 day ago)
+- [importantimport/mcu-extra](https://github.com/importantimport/mcu-extra) - 🖼️ Additional packages to add new features and bug fixes to Material Color Utilities. (3 days ago)
+- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (4 days ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
 - [Jack-Works/async-call-rpc](https://github.com/Jack-Works/async-call-rpc) - A lightweight JSON RPC client &amp; server (1 week ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (1 week ago)
@@ -50,6 +50,7 @@
   <br/>
 
 
+- [docs: add `unplugin-tdewolff-minify-html-literals`](https://github.com/unjs/unplugin/pull/305) on [unjs/unplugin](https://github.com/unjs/unplugin) (today)
 - [fix: action badge url](https://github.com/Jack-Works/async-call-rpc/pull/60) on [Jack-Works/async-call-rpc](https://github.com/Jack-Works/async-call-rpc) (1 week ago)
 - [为 Dockerfile 设置 `ENTRYPOINT`](https://github.com/XTLS/Xray-core/pull/2052) on [XTLS/Xray-core](https://github.com/XTLS/Xray-core) (1 week ago)
 - [shiraha.js.org](https://github.com/js-org/js.org/pull/8216) on [js-org/js.org](https://github.com/js-org/js.org) (2 weeks ago)
@@ -59,7 +60,6 @@
 - [seia.js.org](https://github.com/js-org/js.org/pull/8025) on [js-org/js.org](https://github.com/js-org/js.org) (2 months ago)
 - [set vite `outDir` instead of mv](https://github.com/KTibow/m3-svelte/pull/31) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (3 months ago)
 - [Update Urara Star Count](https://github.com/svelte-society/sveltesociety.dev/pull/367) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (3 months ago)
-- [WebComponents support](https://github.com/KTibow/m3-svelte/pull/30) on [KTibow/m3-svelte](https://github.com/KTibow/m3-svelte) (3 months ago)
 
 </details>
 <details>

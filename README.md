@@ -16,15 +16,15 @@
   <br/>
 
 
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (today)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 day ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 days ago)
-- [importantimport/mcu-extra](https://github.com/importantimport/mcu-extra) - 🖼️ Additional packages to add new features and bug fixes to Material Color Utilities. (3 days ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (3 days ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (4 days ago)
-- [importantimport/unplugin-tdewolff-minify-html-literals](https://github.com/importantimport/unplugin-tdewolff-minify-html-literals) - 🗜️ An Vite/Rollup/Webpack/esbuild/Rspack plugin to minify HTML template literal strings. (5 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (1 day ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (2 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (3 days ago)
+- [importantimport/mcu-extra](https://github.com/importantimport/mcu-extra) - 🖼️ Additional packages to add new features and bug fixes to Material Color Utilities. (4 days ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (4 days ago)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (5 days ago)
+- [importantimport/unplugin-tdewolff-minify-html-literals](https://github.com/importantimport/unplugin-tdewolff-minify-html-literals) - 🗜️ An Vite/Rollup/Webpack/esbuild/Rspack plugin to minify HTML template literal strings. (6 days ago)
 - [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 week ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 weeks ago)
 - [Jack-Works/async-call-rpc](https://github.com/Jack-Works/async-call-rpc) - A lightweight JSON RPC client &amp; server (2 weeks ago)
 
 </details>
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [docs: add `unplugin-tdewolff-minify-html-literals`](https://github.com/unjs/unplugin/pull/305) on [unjs/unplugin](https://github.com/unjs/unplugin) (4 days ago)
+- [docs: add `unplugin-tdewolff-minify-html-literals`](https://github.com/unjs/unplugin/pull/305) on [unjs/unplugin](https://github.com/unjs/unplugin) (5 days ago)
 - [fix: action badge url](https://github.com/Jack-Works/async-call-rpc/pull/60) on [Jack-Works/async-call-rpc](https://github.com/Jack-Works/async-call-rpc) (2 weeks ago)
 - [为 Dockerfile 设置 `ENTRYPOINT`](https://github.com/XTLS/Xray-core/pull/2052) on [XTLS/Xray-core](https://github.com/XTLS/Xray-core) (2 weeks ago)
 - [shiraha.js.org](https://github.com/js-org/js.org/pull/8216) on [js-org/js.org](https://github.com/js-org/js.org) (3 weeks ago)

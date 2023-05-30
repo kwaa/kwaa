@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (today)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (today)
-- [Boshen/oxc](https://github.com/Boshen/oxc) - The JavaScript Oxidation Compiler (1 day ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (2 days ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (6 days ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 day ago)
+- [Boshen/oxc](https://github.com/Boshen/oxc) - The JavaScript Oxidation Compiler (2 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (3 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 week ago)
 - [importantimport/mcu-extra](https://github.com/importantimport/mcu-extra) - 🖼️ Additional packages to add new features and bug fixes to Material Color Utilities. (1 week ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
 - [importantimport/unplugin-tdewolff-minify-html-literals](https://github.com/importantimport/unplugin-tdewolff-minify-html-literals) - 🗜️ An Vite/Rollup/Webpack/esbuild/Rspack plugin to minify HTML template literal strings. (1 week ago)
-- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 week ago)
+- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (2 weeks ago)
 
 </details>
 <details>
@@ -50,10 +50,10 @@
   <br/>
 
 
-- [fix(README): remove duplicate content &amp; fix third party license link](https://github.com/Boshen/oxc/pull/395) on [Boshen/oxc](https://github.com/Boshen/oxc) (2 days ago)
+- [fix(README): remove duplicate content &amp; fix third party license link](https://github.com/Boshen/oxc/pull/395) on [Boshen/oxc](https://github.com/Boshen/oxc) (3 days ago)
 - [docs: add `unplugin-tdewolff-minify-html-literals`](https://github.com/unjs/unplugin/pull/305) on [unjs/unplugin](https://github.com/unjs/unplugin) (1 week ago)
 - [fix: action badge url](https://github.com/Jack-Works/async-call-rpc/pull/60) on [Jack-Works/async-call-rpc](https://github.com/Jack-Works/async-call-rpc) (2 weeks ago)
-- [为 Dockerfile 设置 `ENTRYPOINT`](https://github.com/XTLS/Xray-core/pull/2052) on [XTLS/Xray-core](https://github.com/XTLS/Xray-core) (2 weeks ago)
+- [为 Dockerfile 设置 `ENTRYPOINT`](https://github.com/XTLS/Xray-core/pull/2052) on [XTLS/Xray-core](https://github.com/XTLS/Xray-core) (3 weeks ago)
 - [shiraha.js.org](https://github.com/js-org/js.org/pull/8216) on [js-org/js.org](https://github.com/js-org/js.org) (4 weeks ago)
 - [pull main from dev](https://github.com/importantimport/shiraha/pull/6) on [importantimport/shiraha](https://github.com/importantimport/shiraha) (4 weeks ago)
 - [Support releases all unoccupied cached memory from XPU](https://github.com/comfyanonymous/ComfyUI/pull/512) on [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) (1 month ago)
@@ -70,7 +70,7 @@
 - [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (1 month ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (3 months ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (4 months ago)
-- [2022 总结 &amp; 2023 目标](https://kwaa.dev/2023) (4 months ago)
+- [2022 总结 &amp; 2023 目标](https://kwaa.dev/2023) (5 months ago)
 - [为 Urara 设置 Indiekit/Micropub](https://kwaa.dev/indiekit) (8 months ago)
 
 👉 read more at [./kwaa.dev](https://kwaa.dev)

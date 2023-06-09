@@ -9,6 +9,8 @@
   - a.k.a あい, Ai
 - Earthling.
 - Front-end Developer.
+- Owner at [!mportantImport](https://github.com/importantimport)
+- Contributor at [Lume](https://github.com/lumeland), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss), [MDUI](https://github.com/zdhxiong/mdui) and more
 
 </details>
 <details>

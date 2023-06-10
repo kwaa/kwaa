@@ -18,16 +18,16 @@
   <br/>
 
 
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (today)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (1 day ago)
-- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (2 days ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (2 days ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (5 days ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (6 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (today)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (today)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 day ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 day ago)
+- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (3 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (6 days ago)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
 - [lumeland/lume.land](https://github.com/lumeland/lume.land) - The website of lume.land (1 week ago)
 - [Boshen/oxc](https://github.com/Boshen/oxc) - The JavaScript Oxidation Compiler (1 week ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
-- [importantimport/mcu-extra](https://github.com/importantimport/mcu-extra) - 🖼️ Additional packages to add new features and bug fixes to Material Color Utilities. (2 weeks ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 weeks ago)
 
 </details>
 <details>
@@ -52,16 +52,16 @@
   <br/>
 
 
-- [Added toml plugin](https://github.com/lumeland/lume/pull/432) on [lumeland/lume](https://github.com/lumeland/lume) (1 day ago)
-- [Added partytown plugin](https://github.com/lumeland/experimental-plugins/pull/21) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 days ago)
+- [provided as a plugin](https://github.com/angeldollface/lume-dark-material/pull/1) on [angeldollface/lume-dark-material](https://github.com/angeldollface/lume-dark-material) (today)
+- [Frontmatter support for JSON / TOML format](https://github.com/lumeland/lume/pull/434) on [lumeland/lume](https://github.com/lumeland/lume) (today)
+- [Add JSONC support for JSON Plugin](https://github.com/lumeland/lume/pull/433) on [lumeland/lume](https://github.com/lumeland/lume) (1 day ago)
+- [Added toml plugin](https://github.com/lumeland/lume/pull/432) on [lumeland/lume](https://github.com/lumeland/lume) (2 days ago)
+- [Added partytown plugin](https://github.com/lumeland/experimental-plugins/pull/21) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (3 days ago)
 - [Add Lume Theme Shiraha](https://github.com/lumeland/lume.land/pull/67) on [lumeland/lume.land](https://github.com/lumeland/lume.land) (1 week ago)
-- [fix(README): remove duplicate content &amp; fix third party license link](https://github.com/Boshen/oxc/pull/395) on [Boshen/oxc](https://github.com/Boshen/oxc) (1 week ago)
-- [docs: add `unplugin-tdewolff-minify-html-literals`](https://github.com/unjs/unplugin/pull/305) on [unjs/unplugin](https://github.com/unjs/unplugin) (2 weeks ago)
+- [fix(README): remove duplicate content &amp; fix third party license link](https://github.com/Boshen/oxc/pull/395) on [Boshen/oxc](https://github.com/Boshen/oxc) (2 weeks ago)
+- [docs: add `unplugin-tdewolff-minify-html-literals`](https://github.com/unjs/unplugin/pull/305) on [unjs/unplugin](https://github.com/unjs/unplugin) (3 weeks ago)
 - [fix: action badge url](https://github.com/Jack-Works/async-call-rpc/pull/60) on [Jack-Works/async-call-rpc](https://github.com/Jack-Works/async-call-rpc) (1 month ago)
 - [为 Dockerfile 设置 `ENTRYPOINT`](https://github.com/XTLS/Xray-core/pull/2052) on [XTLS/Xray-core](https://github.com/XTLS/Xray-core) (1 month ago)
-- [shiraha.js.org](https://github.com/js-org/js.org/pull/8216) on [js-org/js.org](https://github.com/js-org/js.org) (1 month ago)
-- [pull main from dev](https://github.com/importantimport/shiraha/pull/6) on [importantimport/shiraha](https://github.com/importantimport/shiraha) (1 month ago)
-- [Support releases all unoccupied cached memory from XPU](https://github.com/comfyanonymous/ComfyUI/pull/512) on [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) (1 month ago)
 
 </details>
 <details>

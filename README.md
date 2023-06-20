@@ -18,16 +18,16 @@
   <br/>
 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library (today)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (today)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (1 day ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (4 days ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (5 days ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (5 days ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (6 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (6 days ago)
 - [angeldollface/lume-themes](https://github.com/angeldollface/lume-themes) - The official repository for the official web index of Lume themes! :fire: :art: (1 week ago)
-- [angeldollface/lume-dark-material](https://github.com/angeldollface/lume-dark-material) - A simple material-design inspired theme for the Lume SSG. :black_large_square: :fire: (1 week ago)
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 week ago)
+- [angeldollface/lume-dark-material](https://github.com/angeldollface/lume-dark-material) - A simple material-design inspired theme for the Lume SSG. :black_large_square: :fire: (1 week ago)
 - [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 week ago)
 - [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (1 week ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (2 weeks ago)
 
 </details>
 <details>
@@ -52,7 +52,8 @@
   <br/>
 
 
-- [lume.shiraha.js.org](https://github.com/js-org/js.org/pull/8312) on [js-org/js.org](https://github.com/js-org/js.org) (5 days ago)
+- [fix: typo](https://github.com/saadeghi/daisyui/pull/2025) on [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (1 day ago)
+- [lume.shiraha.js.org](https://github.com/js-org/js.org/pull/8312) on [js-org/js.org](https://github.com/js-org/js.org) (6 days ago)
 - [Create 2023-06-04-lume_theme_shiraha.markdown](https://github.com/angeldollface/lume-themes/pull/4) on [angeldollface/lume-themes](https://github.com/angeldollface/lume-themes) (1 week ago)
 - [Update themes.json](https://github.com/angeldollface/lume-themes/pull/2) on [angeldollface/lume-themes](https://github.com/angeldollface/lume-themes) (1 week ago)
 - [Pre-install TOML Plugin](https://github.com/lumeland/lume/pull/436) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
@@ -61,7 +62,6 @@
 - [Frontmatter support for JSON / TOML format](https://github.com/lumeland/lume/pull/434) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
 - [Add JSONC support for JSON Plugin](https://github.com/lumeland/lume/pull/433) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
 - [Added toml plugin](https://github.com/lumeland/lume/pull/432) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
-- [Added partytown plugin](https://github.com/lumeland/experimental-plugins/pull/21) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 week ago)
 
 </details>
 <details>

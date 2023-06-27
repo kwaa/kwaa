@@ -5,10 +5,7 @@
   <br/>
 
 - 藍
-  - Nickname
-  - a.k.a あい, Ai
-- Earthling.
-- Front-end Developer.
+- Earthling, Front-end Developer.
 - Owner at [!mportantImport](https://github.com/importantimport)
 - Contributor at [Lume](https://github.com/lumeland), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss), [ComfyUI](https://github.com/comfyanonymous/ComfyUI), [MDUI](https://github.com/zdhxiong/mdui) and more
 
@@ -56,8 +53,7 @@
   <br/>
 
 - Blog: https://kwaa.dev
-- Telegram: @kwaabot
-- Discord: 917#1929
+- Matrix: [@kwaa:matrix.org](https://matrix.to/#/@kwaa:matrix.org)
 
 👋 If u want to say hello, I'll be happy to meet u.
 

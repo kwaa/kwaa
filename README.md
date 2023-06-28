@@ -5,10 +5,7 @@
   <br/>
 
 - 藍
-  - Nickname
-  - a.k.a あい, Ai
-- Earthling.
-- Front-end Developer.
+- Earthling, Front-end Developer.
 - Owner at [!mportantImport](https://github.com/importantimport)
 - Contributor at [Lume](https://github.com/lumeland), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss), [ComfyUI](https://github.com/comfyanonymous/ComfyUI), [MDUI](https://github.com/zdhxiong/mdui) and more
 
@@ -18,15 +15,15 @@
   <br/>
 
 
-- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 day ago)
-- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (2 days ago)
-- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (6 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (6 days ago)
+- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (2 days ago)
+- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (3 days ago)
+- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (4 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 week ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (1 week ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library (1 week ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 week ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 weeks ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (2 weeks ago)
 - [angeldollface/lume-themes](https://github.com/angeldollface/lume-themes) - The official repository for the official web index of Lume themes! :fire: :art: (2 weeks ago)
 
 </details>
@@ -53,7 +50,7 @@
 
 
 - [fix: typo](https://github.com/saadeghi/daisyui/pull/2025) on [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (1 week ago)
-- [lume.shiraha.js.org](https://github.com/js-org/js.org/pull/8312) on [js-org/js.org](https://github.com/js-org/js.org) (1 week ago)
+- [lume.shiraha.js.org](https://github.com/js-org/js.org/pull/8312) on [js-org/js.org](https://github.com/js-org/js.org) (2 weeks ago)
 - [Create 2023-06-04-lume_theme_shiraha.markdown](https://github.com/angeldollface/lume-themes/pull/4) on [angeldollface/lume-themes](https://github.com/angeldollface/lume-themes) (2 weeks ago)
 - [Update themes.json](https://github.com/angeldollface/lume-themes/pull/2) on [angeldollface/lume-themes](https://github.com/angeldollface/lume-themes) (2 weeks ago)
 - [Pre-install TOML Plugin](https://github.com/lumeland/lume/pull/436) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)
@@ -83,8 +80,7 @@
   <br/>
 
 - Blog: https://kwaa.dev
-- Telegram: @kwaabot
-- Discord: 917#1929
+- Matrix: [@kwaa:matrix.org](https://matrix.to/#/@kwaa:matrix.org)
 
 👋 If u want to say hello, I'll be happy to meet u.
 

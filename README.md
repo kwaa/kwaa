@@ -6,8 +6,9 @@
 
 - 藍
 - Earthling, Front-end Developer.
-- Owner at [!mportantImport](https://github.com/importantimport)
-- Contributor at [Lume](https://github.com/lumeland), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss), [ComfyUI](https://github.com/comfyanonymous/ComfyUI), [MDUI](https://github.com/zdhxiong/mdui) and more
+- Owner of [!mportantImport](https://github.com/importantimport)
+- Member of [Lume](https://github.com/lumeland)
+- Contributor of [TailwindCSS](https://github.com/tailwindlabs/tailwindcss), [ComfyUI](https://github.com/comfyanonymous/ComfyUI), [MDUI](https://github.com/zdhxiong/mdui) and more
 
 </details>
 <details>
@@ -15,16 +16,16 @@
   <br/>
 
 
-- [err-require-esm/err-require-esm](https://github.com/err-require-esm/err-require-esm) - [ERR_REQUIRE_ESM]&#39;s Monorepo. (today)
-- [err-require-esm/.github](https://github.com/err-require-esm/.github) -  (1 day ago)
-- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (1 day ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (2 days ago)
-- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (3 days ago)
+- [err-require-esm/err-require-esm](https://github.com/err-require-esm/err-require-esm) - [ERR_REQUIRE_ESM]&#39;s Monorepo. (1 day ago)
+- [oscarotero/vento](https://github.com/oscarotero/vento) - 🌬 A minimal but powerful template engine (1 day ago)
+- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (2 days ago)
+- [err-require-esm/.github](https://github.com/err-require-esm/.github) -  (2 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (3 days ago)
+- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (4 days ago)
 - [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (1 week ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (1 week ago)
 - [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 week ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library (1 week ago)
 
 </details>
 <details>
@@ -49,16 +50,16 @@
   <br/>
 
 
-- [update urara stars](https://github.com/svelte-society/sveltesociety.dev/pull/418) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (2 days ago)
+- [vento.js.org](https://github.com/js-org/js.org/pull/8345) on [js-org/js.org](https://github.com/js-org/js.org) (1 day ago)
+- [Provide npm package via `dnt`](https://github.com/oscarotero/vento/pull/7) on [oscarotero/vento](https://github.com/oscarotero/vento) (1 day ago)
+- [update urara stars](https://github.com/svelte-society/sveltesociety.dev/pull/418) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (3 days ago)
 - [fix: typo](https://github.com/saadeghi/daisyui/pull/2025) on [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (1 week ago)
 - [lume.shiraha.js.org](https://github.com/js-org/js.org/pull/8312) on [js-org/js.org](https://github.com/js-org/js.org) (2 weeks ago)
 - [Create 2023-06-04-lume_theme_shiraha.markdown](https://github.com/angeldollface/lume-themes/pull/4) on [angeldollface/lume-themes](https://github.com/angeldollface/lume-themes) (2 weeks ago)
-- [Update themes.json](https://github.com/angeldollface/lume-themes/pull/2) on [angeldollface/lume-themes](https://github.com/angeldollface/lume-themes) (2 weeks ago)
-- [Pre-install TOML Plugin](https://github.com/lumeland/lume/pull/436) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)
+- [Update themes.json](https://github.com/angeldollface/lume-themes/pull/2) on [angeldollface/lume-themes](https://github.com/angeldollface/lume-themes) (3 weeks ago)
+- [Pre-install TOML Plugin](https://github.com/lumeland/lume/pull/436) on [lumeland/lume](https://github.com/lumeland/lume) (3 weeks ago)
 - [fix remote file url](https://github.com/angeldollface/lume-dark-material/pull/3) on [angeldollface/lume-dark-material](https://github.com/angeldollface/lume-dark-material) (3 weeks ago)
 - [provided as a plugin](https://github.com/angeldollface/lume-dark-material/pull/1) on [angeldollface/lume-dark-material](https://github.com/angeldollface/lume-dark-material) (3 weeks ago)
-- [Frontmatter support for JSON / TOML format](https://github.com/lumeland/lume/pull/434) on [lumeland/lume](https://github.com/lumeland/lume) (3 weeks ago)
-- [Add JSONC support for JSON Plugin](https://github.com/lumeland/lume/pull/433) on [lumeland/lume](https://github.com/lumeland/lume) (3 weeks ago)
 
 </details>
 <details>

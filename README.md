@@ -16,13 +16,13 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your blog to Fediverse. [WIP] (today)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (3 days ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (6 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (today)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (4 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
 - [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (1 week ago)
 - [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (1 week ago)
 - [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (2 weeks ago)
-- [importantimport/kagaya](https://github.com/importantimport/kagaya) - 🎆 An exploration of buildless static blog. (2 weeks ago)
+- [importantimport/kagaya](https://github.com/importantimport/kagaya) - 🎆 An exploration of buildless static blog. (3 weeks ago)
 - [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (3 weeks ago)
 - [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (3 weeks ago)
 - [importantimport/frwr](https://github.com/importantimport/frwr) - 🍋🕸💍 Fresh Webring Starter Kit. [WIP] (3 weeks ago)
@@ -52,8 +52,8 @@
 
 - [update UnoCSS Plugin](https://github.com/lumeland/experimental-plugins/pull/24) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 week ago)
 - [UnoCSS Plugin](https://github.com/lumeland/experimental-plugins/pull/22) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 weeks ago)
-- [vento.js.org](https://github.com/js-org/js.org/pull/8345) on [js-org/js.org](https://github.com/js-org/js.org) (4 weeks ago)
-- [Provide npm package via `dnt`](https://github.com/oscarotero/vento/pull/7) on [oscarotero/vento](https://github.com/oscarotero/vento) (4 weeks ago)
+- [vento.js.org](https://github.com/js-org/js.org/pull/8345) on [js-org/js.org](https://github.com/js-org/js.org) (1 month ago)
+- [Provide npm package via `dnt`](https://github.com/oscarotero/vento/pull/7) on [oscarotero/vento](https://github.com/oscarotero/vento) (1 month ago)
 - [update urara stars](https://github.com/svelte-society/sveltesociety.dev/pull/418) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (1 month ago)
 - [fix: typo](https://github.com/saadeghi/daisyui/pull/2025) on [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (1 month ago)
 - [lume.shiraha.js.org](https://github.com/js-org/js.org/pull/8312) on [js-org/js.org](https://github.com/js-org/js.org) (1 month ago)

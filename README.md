@@ -16,11 +16,11 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (4 days ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (5 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (5 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (6 days ago)
 - [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (1 week ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 weeks ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 weeks ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (3 weeks ago)
 - [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (3 weeks ago)
 - [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 month ago)
 - [importantimport/kagaya](https://github.com/importantimport/kagaya) - 🎆 An exploration of buildless static blog. (1 month ago)

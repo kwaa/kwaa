@@ -16,8 +16,8 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (2 days ago)
-- [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (5 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (3 days ago)
+- [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (6 days ago)
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs! (1 week ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (2 weeks ago)
 - [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (2 weeks ago)

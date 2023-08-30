@@ -16,10 +16,10 @@
   <br/>
 
 
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 day ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 day ago)
-- [importantimport/importantimport.github.io](https://github.com/importantimport/importantimport.github.io) - !mportantImport&#39;s Website. (2 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (3 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (2 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
+- [importantimport/importantimport.github.io](https://github.com/importantimport/importantimport.github.io) - !mportantImport&#39;s Website. (3 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (4 days ago)
 - [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (1 week ago)
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs! (1 week ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (3 weeks ago)
@@ -54,8 +54,8 @@
 - [FFF Plugin](https://github.com/lumeland/experimental-plugins/pull/25) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (3 weeks ago)
 - [update UnoCSS Plugin](https://github.com/lumeland/experimental-plugins/pull/24) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 month ago)
 - [UnoCSS Plugin](https://github.com/lumeland/experimental-plugins/pull/22) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 month ago)
-- [vento.js.org](https://github.com/js-org/js.org/pull/8345) on [js-org/js.org](https://github.com/js-org/js.org) (1 month ago)
-- [Provide npm package via `dnt`](https://github.com/oscarotero/vento/pull/7) on [oscarotero/vento](https://github.com/oscarotero/vento) (1 month ago)
+- [vento.js.org](https://github.com/js-org/js.org/pull/8345) on [js-org/js.org](https://github.com/js-org/js.org) (2 months ago)
+- [Provide npm package via `dnt`](https://github.com/oscarotero/vento/pull/7) on [oscarotero/vento](https://github.com/oscarotero/vento) (2 months ago)
 - [update urara stars](https://github.com/svelte-society/sveltesociety.dev/pull/418) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (2 months ago)
 - [fix: typo](https://github.com/saadeghi/daisyui/pull/2025) on [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (2 months ago)
 - [lume.shiraha.js.org](https://github.com/js-org/js.org/pull/8312) on [js-org/js.org](https://github.com/js-org/js.org) (2 months ago)

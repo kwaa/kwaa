@@ -16,12 +16,12 @@
   <br/>
 
 
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (2 days ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
-- [importantimport/importantimport.github.io](https://github.com/importantimport/importantimport.github.io) - !mportantImport&#39;s Website. (3 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (4 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (today)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (3 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 days ago)
+- [importantimport/importantimport.github.io](https://github.com/importantimport/importantimport.github.io) - !mportantImport&#39;s Website. (4 days ago)
 - [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (1 week ago)
-- [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs! (1 week ago)
+- [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs! (2 weeks ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (3 weeks ago)
 - [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (3 weeks ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (1 month ago)
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [hatsu.cli.rs](https://github.com/zackify/cli.rs/pull/57) on [zackify/cli.rs](https://github.com/zackify/cli.rs) (1 week ago)
+- [hatsu.cli.rs](https://github.com/zackify/cli.rs/pull/57) on [zackify/cli.rs](https://github.com/zackify/cli.rs) (2 weeks ago)
 - [FFF Plugin](https://github.com/lumeland/experimental-plugins/pull/25) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (3 weeks ago)
 - [update UnoCSS Plugin](https://github.com/lumeland/experimental-plugins/pull/24) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 month ago)
 - [UnoCSS Plugin](https://github.com/lumeland/experimental-plugins/pull/22) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 month ago)

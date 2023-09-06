@@ -16,9 +16,9 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (today)
-- [importantimport/literals](https://github.com/importantimport/literals) - Super-fast alternative for minify-html-literals. [WIP] (1 day ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (5 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (1 day ago)
+- [importantimport/literals](https://github.com/importantimport/literals) - Super-fast alternative for minify-html-literals. [WIP] (2 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (6 days ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
 - [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 week ago)
 - [importantimport/importantimport.github.io](https://github.com/importantimport/importantimport.github.io) - !mportantImport&#39;s Website. (1 week ago)

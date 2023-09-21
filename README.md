@@ -16,13 +16,13 @@
   <br/>
 
 
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 day ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (3 days ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (3 days ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (6 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (today)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (2 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (4 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 week ago)
 - [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (1 week ago)
 - [importantimport/literals](https://github.com/importantimport/literals) - Super-fast alternative for minify-html-literals. [WIP] (2 weeks ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (2 weeks ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (3 weeks ago)
 - [importantimport/importantimport.github.io](https://github.com/importantimport/importantimport.github.io) - !mportantImport&#39;s Website. (3 weeks ago)
 - [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (1 month ago)
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs! (1 month ago)
@@ -67,11 +67,11 @@
   <br/>
 
 
-- [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (1 month ago)
+- [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (2 months ago)
 - [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (5 months ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (7 months ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (8 months ago)
-- [2022 总结 &amp; 2023 目标](https://kwaa.dev/2023) (8 months ago)
+- [2022 总结](https://kwaa.dev/2023) (8 months ago)
 
 👉 read more at [./kwaa.dev](https://kwaa.dev)
 

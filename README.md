@@ -16,15 +16,15 @@
   <br/>
 
 
-- [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (today)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (1 day ago)
-- [importantimport/literals](https://github.com/importantimport/literals) - Super-fast alternative for minify-html-literals. [WIP] (1 day ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (2 days ago)
-- [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (3 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (4 days ago)
+- [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (1 day ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 days ago)
+- [importantimport/literals](https://github.com/importantimport/literals) - Super-fast alternative for minify-html-literals. [WIP] (2 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (3 days ago)
+- [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (4 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (5 days ago)
 - [importantimport/momoi](https://github.com/importantimport/momoi) - 🍑 MomoTalk, presented as a Matrix Client. [WIP] (1 week ago)
-- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 week ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 weeks ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 weeks ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 weeks ago)
 - [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (3 weeks ago)
 
 </details>
@@ -51,7 +51,7 @@
 
 
 - [hatsu.cli.rs](https://github.com/zackify/cli.rs/pull/57) on [zackify/cli.rs](https://github.com/zackify/cli.rs) (1 month ago)
-- [FFF Plugin](https://github.com/lumeland/experimental-plugins/pull/25) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 month ago)
+- [FFF Plugin](https://github.com/lumeland/experimental-plugins/pull/25) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 months ago)
 - [update UnoCSS Plugin](https://github.com/lumeland/experimental-plugins/pull/24) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 months ago)
 - [UnoCSS Plugin](https://github.com/lumeland/experimental-plugins/pull/22) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 months ago)
 - [vento.js.org](https://github.com/js-org/js.org/pull/8345) on [js-org/js.org](https://github.com/js-org/js.org) (3 months ago)

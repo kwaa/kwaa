@@ -16,12 +16,12 @@
   <br/>
 
 
-- [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (1 day ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 days ago)
-- [importantimport/literals](https://github.com/importantimport/literals) - Super-fast alternative for minify-html-literals. [WIP] (2 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (3 days ago)
-- [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (4 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (5 days ago)
+- [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (2 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (3 days ago)
+- [importantimport/literals](https://github.com/importantimport/literals) - Super-fast alternative for minify-html-literals. [WIP] (3 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (4 days ago)
+- [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (5 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (6 days ago)
 - [importantimport/momoi](https://github.com/importantimport/momoi) - 🍑 MomoTalk, presented as a Matrix Client. [WIP] (1 week ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 weeks ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 weeks ago)

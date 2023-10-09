@@ -16,14 +16,14 @@
   <br/>
 
 
-- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (today)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (1 day ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (today)
+- [importantimport/momoi](https://github.com/importantimport/momoi) - 🍑 MomoTalk, presented as a Matrix Client. [WIP] (today)
+- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (1 day ago)
 - [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 day ago)
-- [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (4 days ago)
-- [importantimport/literals](https://github.com/importantimport/literals) - Super-fast alternative for minify-html-literals. [WIP] (5 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (6 days ago)
+- [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (5 days ago)
+- [importantimport/literals](https://github.com/importantimport/literals) - Super-fast alternative for minify-html-literals. [WIP] (6 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (1 week ago)
 - [importantimport/tmp](https://github.com/importantimport/tmp) - 📁 Temporary project ideas archive. (1 week ago)
-- [importantimport/momoi](https://github.com/importantimport/momoi) - 🍑 MomoTalk, presented as a Matrix Client. [WIP] (2 weeks ago)
 - [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (2 weeks ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 weeks ago)
 
@@ -53,7 +53,7 @@
 - [hatsu.cli.rs](https://github.com/zackify/cli.rs/pull/57) on [zackify/cli.rs](https://github.com/zackify/cli.rs) (1 month ago)
 - [FFF Plugin](https://github.com/lumeland/experimental-plugins/pull/25) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 months ago)
 - [update UnoCSS Plugin](https://github.com/lumeland/experimental-plugins/pull/24) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 months ago)
-- [UnoCSS Plugin](https://github.com/lumeland/experimental-plugins/pull/22) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 months ago)
+- [UnoCSS Plugin](https://github.com/lumeland/experimental-plugins/pull/22) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (3 months ago)
 - [vento.js.org](https://github.com/js-org/js.org/pull/8345) on [js-org/js.org](https://github.com/js-org/js.org) (3 months ago)
 - [Provide npm package via `dnt`](https://github.com/oscarotero/vento/pull/7) on [oscarotero/vento](https://github.com/oscarotero/vento) (3 months ago)
 - [update urara stars](https://github.com/svelte-society/sveltesociety.dev/pull/418) on [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) (3 months ago)

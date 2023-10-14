@@ -16,16 +16,16 @@
   <br/>
 
 
-- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (1 day ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (3 days ago)
-- [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill) - Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD. (3 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (3 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (4 days ago)
-- [importantimport/momoi](https://github.com/importantimport/momoi) - 🍑 MomoTalk, presented as a Matrix Client. [WIP] (4 days ago)
-- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (5 days ago)
+- [importantimport/ezss](https://github.com/importantimport/ezss) - 🔒️ Easier alternative of react-secure-storage. (today)
+- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (2 days ago)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (4 days ago)
+- [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill) - Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD. (4 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (4 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (5 days ago)
+- [importantimport/momoi](https://github.com/importantimport/momoi) - 🍑 MomoTalk, presented as a Matrix Client. [WIP] (5 days ago)
+- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (6 days ago)
 - [importantimport/seia](https://github.com/importantimport/seia) - 📩 Browser-side Web Component for rendering Webmentions. (1 week ago)
 - [importantimport/literals](https://github.com/importantimport/literals) - Super-fast alternative for minify-html-literals. [WIP] (1 week ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Bring your static site to Fediverse. [WIP] (1 week ago)
 
 </details>
 <details>
@@ -50,8 +50,8 @@
   <br/>
 
 
-- [Markdoc Plugin](https://github.com/lumeland/experimental-plugins/pull/29) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 day ago)
-- [chore: migrate codegen](https://github.com/SukkaW/nolyfill/pull/38) on [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill) (4 days ago)
+- [Markdoc Plugin](https://github.com/lumeland/experimental-plugins/pull/29) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 days ago)
+- [chore: migrate codegen](https://github.com/SukkaW/nolyfill/pull/38) on [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill) (5 days ago)
 - [hatsu.cli.rs](https://github.com/zackify/cli.rs/pull/57) on [zackify/cli.rs](https://github.com/zackify/cli.rs) (1 month ago)
 - [FFF Plugin](https://github.com/lumeland/experimental-plugins/pull/25) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 months ago)
 - [update UnoCSS Plugin](https://github.com/lumeland/experimental-plugins/pull/24) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 months ago)

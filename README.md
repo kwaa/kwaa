@@ -16,10 +16,10 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (today)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 days ago)
-- [importantimport/ezss](https://github.com/importantimport/ezss) - 🔒️ Easier alternative of react-secure-storage. (4 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (5 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (1 day ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (3 days ago)
+- [importantimport/ezss](https://github.com/importantimport/ezss) - 🔒️ Easier alternative of react-secure-storage. (5 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (6 days ago)
 - [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (1 week ago)
 - [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 week ago)
 - [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill) - Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD. (1 week ago)
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [middlewares: support more redirect code](https://github.com/lumeland/lume/pull/499) on [lumeland/lume](https://github.com/lumeland/lume) (2 days ago)
+- [middlewares: support more redirect code](https://github.com/lumeland/lume/pull/499) on [lumeland/lume](https://github.com/lumeland/lume) (3 days ago)
 - [Markdoc Plugin](https://github.com/lumeland/experimental-plugins/pull/29) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 week ago)
 - [chore: migrate codegen](https://github.com/SukkaW/nolyfill/pull/38) on [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill) (1 week ago)
 - [hatsu.cli.rs](https://github.com/zackify/cli.rs/pull/57) on [zackify/cli.rs](https://github.com/zackify/cli.rs) (2 months ago)
@@ -67,7 +67,7 @@
   <br/>
 
 
-- [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (2 months ago)
+- [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (3 months ago)
 - [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (6 months ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (8 months ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (9 months ago)

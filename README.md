@@ -16,16 +16,16 @@
   <br/>
 
 
-- [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (today)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (1 day ago)
-- [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (2 days ago)
-- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (3 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (6 days ago)
+- [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (1 day ago)
+- [sonikjs/sonik](https://github.com/sonikjs/sonik) - [Alpha] The meta-framework for Edges (1 day ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 days ago)
+- [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (3 days ago)
+- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (4 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (1 week ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
-- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (2 weeks ago)
-- [importantimport/hatsu_serve](https://github.com/importantimport/hatsu_serve) - 🩵 Server-side middleware for automated request forwarding to Hatsu instance. [WIP] (3 weeks ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 month ago)
-- [importantimport/ezss](https://github.com/importantimport/ezss) - 🔒️ Easier alternative of react-secure-storage. (1 month ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 week ago)
+- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (3 weeks ago)
+- [importantimport/hatsu_serve](https://github.com/importantimport/hatsu_serve) - 🩵 Server-side middleware for automated request forwarding to Hatsu instance. [WIP] (4 weeks ago)
 
 </details>
 <details>
@@ -50,8 +50,8 @@
   <br/>
 
 
-- [refactor: support async `renderToString`](https://github.com/sonikjs/sonik/pull/13) on [sonikjs/sonik](https://github.com/sonikjs/sonik) (today)
-- [feat(hono-jsx): precompile jsx](https://github.com/lumeland/experimental-plugins/pull/31) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (3 days ago)
+- [refactor: support async `renderToString`](https://github.com/sonikjs/sonik/pull/13) on [sonikjs/sonik](https://github.com/sonikjs/sonik) (1 day ago)
+- [feat(hono-jsx): precompile jsx](https://github.com/lumeland/experimental-plugins/pull/31) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (4 days ago)
 - [update server types](https://github.com/lumeland/lume/pull/507) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
 - [HonoJSX Plugin](https://github.com/lumeland/experimental-plugins/pull/30) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 weeks ago)
 - [refactor(server): use `Deno.serve()`](https://github.com/lumeland/lume/pull/501) on [lumeland/lume](https://github.com/lumeland/lume) (3 weeks ago)

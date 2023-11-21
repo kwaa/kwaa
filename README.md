@@ -16,16 +16,16 @@
   <br/>
 
 
+- [kwaa/sonik-qwik](https://github.com/kwaa/sonik-qwik) - [Alpha] Qwik preset for the Sonik (today)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (1 day ago)
-- [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (1 day ago)
-- [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (3 days ago)
-- [sonikjs/sonik](https://github.com/sonikjs/sonik) - [Alpha] The meta-framework for Edges (3 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (4 days ago)
-- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (6 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (1 day ago)
+- [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (2 days ago)
+- [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (4 days ago)
+- [sonikjs/sonik](https://github.com/sonikjs/sonik) - [Alpha] The meta-framework for Edges (4 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (5 days ago)
+- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (1 week ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 week ago)
-- [importantimport/a2](https://github.com/importantimport/a2) - 📥 A JSON-RPC client and experimental frontend for Aria 2. [WIP] (3 weeks ago)
-- [importantimport/hatsu_serve](https://github.com/importantimport/hatsu_serve) - 🩵 Server-side middleware for automated request forwarding to Hatsu instance. [WIP] (1 month ago)
 
 </details>
 <details>
@@ -33,6 +33,7 @@
   <br/>
 
 
+- [kwaa/sonik-qwik](https://github.com/kwaa/sonik-qwik) - [Alpha] Qwik preset for the Sonik
 - [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP]
 - [kwaa/csgo](https://github.com/kwaa/csgo) - My CS:GO crosshair &amp; scripts.
 - [kwaa/flytosocial](https://github.com/kwaa/flytosocial) - 🪽 An attempt to run a GoToSocial instance at fly.io.
@@ -42,7 +43,6 @@
 - [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo
 - [kwaa/todoli](https://github.com/kwaa/todoli) - 🥔 Yet Another To Do List.
 - [kwaa/bk](https://github.com/kwaa/bk) - ./kwaa.dev/bk
-- [kwaa/urara-netlify-cms](https://github.com/kwaa/urara-netlify-cms) - 
 
 </details>
 <details>
@@ -50,11 +50,11 @@
   <br/>
 
 
-- [refactor: support async `renderToString`](https://github.com/sonikjs/sonik/pull/13) on [sonikjs/sonik](https://github.com/sonikjs/sonik) (3 days ago)
-- [feat(hono-jsx): precompile jsx](https://github.com/lumeland/experimental-plugins/pull/31) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (6 days ago)
+- [refactor: support async `renderToString`](https://github.com/sonikjs/sonik/pull/13) on [sonikjs/sonik](https://github.com/sonikjs/sonik) (4 days ago)
+- [feat(hono-jsx): precompile jsx](https://github.com/lumeland/experimental-plugins/pull/31) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 week ago)
 - [update server types](https://github.com/lumeland/lume/pull/507) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
 - [HonoJSX Plugin](https://github.com/lumeland/experimental-plugins/pull/30) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 weeks ago)
-- [refactor(server): use `Deno.serve()`](https://github.com/lumeland/lume/pull/501) on [lumeland/lume](https://github.com/lumeland/lume) (4 weeks ago)
+- [refactor(server): use `Deno.serve()`](https://github.com/lumeland/lume/pull/501) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 - [middlewares: support more redirect code](https://github.com/lumeland/lume/pull/499) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 - [Markdoc Plugin](https://github.com/lumeland/experimental-plugins/pull/29) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 month ago)
 - [chore: migrate codegen](https://github.com/SukkaW/nolyfill/pull/38) on [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill) (1 month ago)

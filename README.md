@@ -16,16 +16,16 @@
   <br/>
 
 
-- [kwaa/sonik-qwik](https://github.com/kwaa/sonik-qwik) - [Alpha] Qwik preset for the Sonik (today)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (1 day ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (1 day ago)
-- [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (2 days ago)
-- [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (4 days ago)
-- [sonikjs/sonik](https://github.com/sonikjs/sonik) - [Alpha] The meta-framework for Edges (4 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (5 days ago)
+- [kwaa/sonik-qwik](https://github.com/kwaa/sonik-qwik) - [Alpha] Qwik preset for the Sonik (1 day ago)
+- [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [WIP] (1 day ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (2 days ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (2 days ago)
+- [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (3 days ago)
+- [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (5 days ago)
+- [sonikjs/sonik](https://github.com/sonikjs/sonik) - [Alpha] The meta-framework for Edges (5 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (6 days ago)
 - [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (1 week ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 week ago)
 
 </details>
 <details>
@@ -50,10 +50,10 @@
   <br/>
 
 
-- [refactor: support async `renderToString`](https://github.com/sonikjs/sonik/pull/13) on [sonikjs/sonik](https://github.com/sonikjs/sonik) (4 days ago)
+- [refactor: support async `renderToString`](https://github.com/sonikjs/sonik/pull/13) on [sonikjs/sonik](https://github.com/sonikjs/sonik) (5 days ago)
 - [feat(hono-jsx): precompile jsx](https://github.com/lumeland/experimental-plugins/pull/31) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 week ago)
-- [update server types](https://github.com/lumeland/lume/pull/507) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
-- [HonoJSX Plugin](https://github.com/lumeland/experimental-plugins/pull/30) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 weeks ago)
+- [update server types](https://github.com/lumeland/lume/pull/507) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)
+- [HonoJSX Plugin](https://github.com/lumeland/experimental-plugins/pull/30) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (3 weeks ago)
 - [refactor(server): use `Deno.serve()`](https://github.com/lumeland/lume/pull/501) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 - [middlewares: support more redirect code](https://github.com/lumeland/lume/pull/499) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 - [Markdoc Plugin](https://github.com/lumeland/experimental-plugins/pull/29) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 month ago)

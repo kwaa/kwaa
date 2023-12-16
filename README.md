@@ -16,11 +16,11 @@
   <br/>
 
 
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 day ago)
-- [importantimport/mcu-extra](https://github.com/importantimport/mcu-extra) - 🖼️ Additional packages to add new features and bug fixes to Material Color Utilities. (4 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (1 day ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (1 day ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (2 days ago)
+- [importantimport/mcu-extra](https://github.com/importantimport/mcu-extra) - 🖼️ Additional packages to add new features and bug fixes to Material Color Utilities. (5 days ago)
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 week ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (1 week ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (2 weeks ago)
 - [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [WIP] (3 weeks ago)
 - [kwaa/sonik-qwik](https://github.com/kwaa/sonik-qwik) - [Alpha] Qwik preset for the Sonik (3 weeks ago)
 - [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (3 weeks ago)
@@ -50,6 +50,7 @@
   <br/>
 
 
+- [FFF Plugin](https://github.com/lumeland/lume/pull/529) on [lumeland/lume](https://github.com/lumeland/lume) (1 day ago)
 - [feat(mdx): support recma plugins](https://github.com/lumeland/lume/pull/521) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
 - [chore(package): set type module](https://github.com/kwaa/unocss/pull/1) on [kwaa/unocss](https://github.com/kwaa/unocss) (2 weeks ago)
 - [feat!: move to ESM-only and fix package exports](https://github.com/unocss/unocss/pull/3380) on [unocss/unocss](https://github.com/unocss/unocss) (2 weeks ago)
@@ -59,7 +60,6 @@
 - [update server types](https://github.com/lumeland/lume/pull/507) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 - [HonoJSX Plugin](https://github.com/lumeland/experimental-plugins/pull/30) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 month ago)
 - [refactor(server): use `Deno.serve()`](https://github.com/lumeland/lume/pull/501) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
-- [middlewares: support more redirect code](https://github.com/lumeland/lume/pull/499) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 
 </details>
 <details>

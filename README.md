@@ -17,12 +17,12 @@
 
 
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (today)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 day ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (5 days ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (2 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (6 days ago)
 - [importantimport/mcu-extra](https://github.com/importantimport/mcu-extra) - 🖼️ Additional packages to add new features and bug fixes to Material Color Utilities. (1 week ago)
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 weeks ago)
 - [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [WIP] (3 weeks ago)
-- [kwaa/sonik-qwik](https://github.com/kwaa/sonik-qwik) - [Alpha] Qwik preset for the Sonik (4 weeks ago)
+- [kwaa/sonik-qwik](https://github.com/kwaa/sonik-qwik) - [Alpha] Qwik preset for the Sonik (1 month ago)
 - [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (1 month ago)
 - [sonikjs/sonik](https://github.com/sonikjs/sonik) - [Alpha] The meta-framework for Edges (1 month ago)
 - [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (1 month ago)
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [FFF Plugin](https://github.com/lumeland/lume/pull/529) on [lumeland/lume](https://github.com/lumeland/lume) (5 days ago)
+- [FFF Plugin](https://github.com/lumeland/lume/pull/529) on [lumeland/lume](https://github.com/lumeland/lume) (6 days ago)
 - [feat(mdx): support recma plugins](https://github.com/lumeland/lume/pull/521) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)
 - [chore(package): set type module](https://github.com/kwaa/unocss/pull/1) on [kwaa/unocss](https://github.com/kwaa/unocss) (3 weeks ago)
 - [feat!: move to ESM-only and fix package exports](https://github.com/unocss/unocss/pull/3380) on [unocss/unocss](https://github.com/unocss/unocss) (3 weeks ago)
@@ -59,7 +59,7 @@
 - [feat(hono-jsx): precompile jsx](https://github.com/lumeland/experimental-plugins/pull/31) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 month ago)
 - [update server types](https://github.com/lumeland/lume/pull/507) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 - [HonoJSX Plugin](https://github.com/lumeland/experimental-plugins/pull/30) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 month ago)
-- [refactor(server): use `Deno.serve()`](https://github.com/lumeland/lume/pull/501) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
+- [refactor(server): use `Deno.serve()`](https://github.com/lumeland/lume/pull/501) on [lumeland/lume](https://github.com/lumeland/lume) (2 months ago)
 
 </details>
 <details>

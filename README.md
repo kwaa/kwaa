@@ -16,10 +16,10 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (today)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (3 days ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (5 days ago)
-- [importantimport/mcu-extra](https://github.com/importantimport/mcu-extra) - 🖼️ Additional packages to add new features and bug fixes to Material Color Utilities. (1 week ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (1 day ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (4 days ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (6 days ago)
+- [importantimport/mcu-extra](https://github.com/importantimport/mcu-extra) - 🖼️ Additional packages to add new features and bug fixes to Material Color Utilities. (2 weeks ago)
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 weeks ago)
 - [importantimport/hsno](https://github.com/importantimport/hsno) - 🐳 !mportantImport&#39;s Next-Gen Blog Starter. [WIP] (1 month ago)
 - [kwaa/sonik-qwik](https://github.com/kwaa/sonik-qwik) - [Alpha] Qwik preset for the Sonik (1 month ago)
@@ -52,7 +52,7 @@
 
 - [FFF Plugin](https://github.com/lumeland/lume/pull/529) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
 - [feat(mdx): support recma plugins](https://github.com/lumeland/lume/pull/521) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)
-- [chore(package): set type module](https://github.com/kwaa/unocss/pull/1) on [kwaa/unocss](https://github.com/kwaa/unocss) (3 weeks ago)
+- [chore(package): set type module](https://github.com/kwaa/unocss/pull/1) on [kwaa/unocss](https://github.com/kwaa/unocss) (4 weeks ago)
 - [feat!: move to ESM-only and fix package exports](https://github.com/unocss/unocss/pull/3380) on [unocss/unocss](https://github.com/unocss/unocss) (4 weeks ago)
 - [feat(unocss): support css transformers](https://github.com/lumeland/lume/pull/516) on [lumeland/lume](https://github.com/lumeland/lume) (4 weeks ago)
 - [refactor: support async `renderToString`](https://github.com/sonikjs/sonik/pull/13) on [sonikjs/sonik](https://github.com/sonikjs/sonik) (1 month ago)

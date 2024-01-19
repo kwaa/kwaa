@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 day ago)
-- [fedikit/unified](https://github.com/fedikit/unified) - 📝 Collection of unified plugins by FediKit project. (1 day ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (4 days ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (5 days ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (6 days ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (3 days ago)
+- [fedikit/unified](https://github.com/fedikit/unified) - 📝 Collection of unified plugins by FediKit project. (3 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (6 days ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 week ago)
+- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (1 week ago)
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 week ago)
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (2 weeks ago)
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (2 weeks ago)
-- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (2 weeks ago)
-- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (2 weeks ago)
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely. (2 weeks ago)
+- [kwaa/caddy](https://github.com/kwaa/caddy) - 🔒 caddy with my favorite modules. (3 weeks ago)
 
 </details>
 <details>
@@ -50,16 +50,16 @@
   <br/>
 
 
+- [Adaptive favicon](https://github.com/lumeland/lume.land/pull/99) on [lumeland/lume.land](https://github.com/lumeland/lume.land) (1 day ago)
 - [Add `mdx` filter](https://github.com/lumeland/lume/pull/550) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
-- [Add hatsu to COMMUNITY.md](https://github.com/SeaQL/sea-orm/pull/2036) on [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) (2 weeks ago)
-- [Add hatsu to ECOSYSTEM.md](https://github.com/tokio-rs/axum/pull/2462) on [tokio-rs/axum](https://github.com/tokio-rs/axum) (2 weeks ago)
-- [refactor(services/webdav): Add WebdavConfig to implement ConfigDeserializer](https://github.com/apache/incubator-opendal/pull/3846) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (2 weeks ago)
+- [Add hatsu to COMMUNITY.md](https://github.com/SeaQL/sea-orm/pull/2036) on [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) (3 weeks ago)
+- [Add hatsu to ECOSYSTEM.md](https://github.com/tokio-rs/axum/pull/2462) on [tokio-rs/axum](https://github.com/tokio-rs/axum) (3 weeks ago)
+- [refactor(services/webdav): Add WebdavConfig to implement ConfigDeserializer](https://github.com/apache/opendal/pull/3846) on [apache/opendal](https://github.com/apache/opendal) (3 weeks ago)
 - [FFF Plugin](https://github.com/lumeland/lume/pull/529) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 - [feat(mdx): support recma plugins](https://github.com/lumeland/lume/pull/521) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 - [chore(package): set type module](https://github.com/kwaa/unocss/pull/1) on [kwaa/unocss](https://github.com/kwaa/unocss) (1 month ago)
 - [feat!: move to ESM-only and fix package exports](https://github.com/unocss/unocss/pull/3380) on [unocss/unocss](https://github.com/unocss/unocss) (1 month ago)
 - [feat(unocss): support css transformers](https://github.com/lumeland/lume/pull/516) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
-- [refactor: support async `renderToString`](https://github.com/sonikjs/sonik/pull/13) on [sonikjs/sonik](https://github.com/sonikjs/sonik) (2 months ago)
 
 </details>
 <details>
@@ -67,9 +67,9 @@
   <br/>
 
 
-- [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (5 months ago)
+- [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (6 months ago)
 - [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (9 months ago)
-- [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (10 months ago)
+- [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (11 months ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (1 year ago)
 - [2022 总结](https://kwaa.dev/2023) (1 year ago)
 

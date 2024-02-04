@@ -16,9 +16,9 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (today)
-- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 day ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (3 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (1 day ago)
+- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (2 days ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (4 days ago)
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 week ago)
 - [fedikit/unified](https://github.com/fedikit/unified) - 📝 Collection of unified plugins by FediKit project. (1 week ago)
 - [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (2 weeks ago)
@@ -68,7 +68,7 @@
 
 
 - [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (6 months ago)
-- [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (9 months ago)
+- [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (10 months ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (11 months ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (1 year ago)
 - [2022 总结](https://kwaa.dev/2023) (1 year ago)

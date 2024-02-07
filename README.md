@@ -16,14 +16,14 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (today)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 days ago)
-- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (2 days ago)
-- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (4 days ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (6 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (1 day ago)
+- [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (1 day ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (3 days ago)
+- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (3 days ago)
+- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (5 days ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
 - [fedikit/unified](https://github.com/fedikit/unified) - 📝 Collection of unified plugins by FediKit project. (1 week ago)
 - [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (2 weeks ago)
-- [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (2 weeks ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (3 weeks ago)
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (1 month ago)
 
@@ -50,8 +50,8 @@
   <br/>
 
 
-- [docs(readme): remove blockquote](https://github.com/lumeland/lume/pull/564) on [lumeland/lume](https://github.com/lumeland/lume) (2 days ago)
-- [refactor(hono-jsx): import from `deno.land/x`](https://github.com/lumeland/experimental-plugins/pull/34) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 days ago)
+- [docs(readme): remove blockquote](https://github.com/lumeland/lume/pull/564) on [lumeland/lume](https://github.com/lumeland/lume) (3 days ago)
+- [refactor(hono-jsx): import from `deno.land/x`](https://github.com/lumeland/experimental-plugins/pull/34) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (3 days ago)
 - [refactor(plugin/favicon): preferred svg icon](https://github.com/lumeland/lume/pull/562) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
 - [Adaptive favicon](https://github.com/lumeland/lume.land/pull/99) on [lumeland/lume.land](https://github.com/lumeland/lume.land) (2 weeks ago)
 - [Add `mdx` filter](https://github.com/lumeland/lume/pull/550) on [lumeland/lume](https://github.com/lumeland/lume) (4 weeks ago)

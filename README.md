@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 day ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (2 days ago)
-- [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (4 days ago)
-- [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (5 days ago)
+- [kwaa/nixos](https://github.com/kwaa/nixos) - 🌨 藍&#39;s NixOS Config [WIP] (1 day ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (3 days ago)
+- [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (5 days ago)
+- [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (6 days ago)
 - [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (1 week ago)
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 week ago)
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 week ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
 - [fedikit/unified](https://github.com/fedikit/unified) - 📝 Collection of unified plugins by FediKit project. (2 weeks ago)
-- [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (1 month ago)
 
 </details>
 <details>
@@ -33,6 +33,7 @@
   <br/>
 
 
+- [kwaa/nixos](https://github.com/kwaa/nixos) - 🌨 藍&#39;s NixOS Config [WIP]
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog
 - [kwaa/sonik-qwik](https://github.com/kwaa/sonik-qwik) - [Alpha] Qwik preset for the Sonik
 - [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP]
@@ -42,7 +43,6 @@
 - [kwaa/hexo-lightningcss](https://github.com/kwaa/hexo-lightningcss) - ⚡️ LightningCSS Plugin for Hexo
 - [kwaa/naive](https://github.com/kwaa/naive) - 🐸 Dockerized NaiveProxy (Monthly Update)
 - [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo
-- [kwaa/todoli](https://github.com/kwaa/todoli) - 🥔 Yet Another To Do List.
 
 </details>
 <details>

@@ -16,15 +16,15 @@
   <br/>
 
 
-- [kwaa/nixos](https://github.com/kwaa/nixos) - 🌨 藍&#39;s NixOS Config [WIP] (1 day ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (4 days ago)
-- [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (6 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (1 day ago)
+- [kwaa/nixos](https://github.com/kwaa/nixos) - 🌨 藍&#39;s NixOS Config [WIP] (2 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (4 days ago)
+- [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (1 week ago)
 - [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (1 week ago)
 - [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (1 week ago)
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 week ago)
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 week ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (2 weeks ago)
 - [fedikit/unified](https://github.com/fedikit/unified) - 📝 Collection of unified plugins by FediKit project. (2 weeks ago)
 
 </details>
@@ -50,6 +50,7 @@
   <br/>
 
 
+- [robots.txt Plugin](https://github.com/lumeland/lume/pull/570) on [lumeland/lume](https://github.com/lumeland/lume) (1 day ago)
 - [docs(readme): remove blockquote](https://github.com/lumeland/lume/pull/564) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
 - [refactor(hono-jsx): import from `deno.land/x`](https://github.com/lumeland/experimental-plugins/pull/34) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 week ago)
 - [refactor(plugin/favicon): preferred svg icon](https://github.com/lumeland/lume/pull/562) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)
@@ -59,7 +60,6 @@
 - [Add hatsu to ECOSYSTEM.md](https://github.com/tokio-rs/axum/pull/2462) on [tokio-rs/axum](https://github.com/tokio-rs/axum) (1 month ago)
 - [refactor(services/webdav): Add WebdavConfig to implement ConfigDeserializer](https://github.com/apache/opendal/pull/3846) on [apache/opendal](https://github.com/apache/opendal) (1 month ago)
 - [FFF Plugin](https://github.com/lumeland/lume/pull/529) on [lumeland/lume](https://github.com/lumeland/lume) (2 months ago)
-- [feat(mdx): support recma plugins](https://github.com/lumeland/lume/pull/521) on [lumeland/lume](https://github.com/lumeland/lume) (2 months ago)
 
 </details>
 <details>

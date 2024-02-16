@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (2 days ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 days ago)
-- [kwaa/nixos](https://github.com/kwaa/nixos) - 🌨 藍&#39;s NixOS Config [WIP] (3 days ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (5 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (3 days ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (3 days ago)
+- [kwaa/nixos](https://github.com/kwaa/nixos) - 🌨 藍&#39;s NixOS Config [WIP] (4 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (6 days ago)
 - [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (1 week ago)
 - [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (1 week ago)
 - [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (1 week ago)
-- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 week ago)
+- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (2 weeks ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (2 weeks ago)
-- [fedikit/unified](https://github.com/fedikit/unified) - 📝 Collection of unified plugins by FediKit project. (2 weeks ago)
+- [fedikit/unified](https://github.com/fedikit/unified) - 📝 Collection of unified plugins by FediKit project. (3 weeks ago)
 
 </details>
 <details>
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [robots.txt Plugin](https://github.com/lumeland/lume/pull/570) on [lumeland/lume](https://github.com/lumeland/lume) (2 days ago)
+- [robots.txt Plugin](https://github.com/lumeland/lume/pull/570) on [lumeland/lume](https://github.com/lumeland/lume) (3 days ago)
 - [docs(readme): remove blockquote](https://github.com/lumeland/lume/pull/564) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
 - [refactor(hono-jsx): import from `deno.land/x`](https://github.com/lumeland/experimental-plugins/pull/34) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 week ago)
 - [refactor(plugin/favicon): preferred svg icon](https://github.com/lumeland/lume/pull/562) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)

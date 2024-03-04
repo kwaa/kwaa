@@ -16,7 +16,8 @@
   <br/>
 
 
-- [kwaa/nixos](https://github.com/kwaa/nixos) - 🌨 藍&#39;s NixOS Config (today)
+- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (today)
+- [kwaa/nixos](https://github.com/kwaa/nixos) - 🌨 藍&#39;s NixOS Config (1 day ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (1 week ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (1 week ago)
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 week ago)
@@ -25,7 +26,6 @@
 - [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (3 weeks ago)
 - [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (3 weeks ago)
 - [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (4 weeks ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 month ago)
 
 </details>
 <details>

@@ -16,16 +16,16 @@
   <br/>
 
 
-- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (today)
-- [kwaa/nixos](https://github.com/kwaa/nixos) - 🌨 藍&#39;s NixOS Config (1 day ago)
+- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (1 day ago)
+- [kwaa/nixos](https://github.com/kwaa/nixos) - 🌨 藍&#39;s NixOS Config (2 days ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. [WIP] (1 week ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (1 week ago)
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 week ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 weeks ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (3 weeks ago)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 weeks ago)
 - [fedikit/fedikit](https://github.com/fedikit/fedikit) - 🧱 Building Blocks for Fediverse. (3 weeks ago)
-- [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (3 weeks ago)
-- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (4 weeks ago)
+- [fedikit/aoba](https://github.com/fedikit/aoba) - 🍃 Fediverse Integration for Lume &amp; Hono. (4 weeks ago)
+- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (1 month ago)
 
 </details>
 <details>
@@ -51,9 +51,9 @@
 
 
 - [feat: docker compose](https://github.com/lumeland/cms-deploy/pull/1) on [lumeland/cms-deploy](https://github.com/lumeland/cms-deploy) (1 week ago)
-- [robots.txt Plugin](https://github.com/lumeland/lume/pull/570) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)
-- [docs(readme): remove blockquote](https://github.com/lumeland/lume/pull/564) on [lumeland/lume](https://github.com/lumeland/lume) (4 weeks ago)
-- [refactor(hono-jsx): import from `deno.land/x`](https://github.com/lumeland/experimental-plugins/pull/34) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (4 weeks ago)
+- [robots.txt Plugin](https://github.com/lumeland/lume/pull/570) on [lumeland/lume](https://github.com/lumeland/lume) (3 weeks ago)
+- [docs(readme): remove blockquote](https://github.com/lumeland/lume/pull/564) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
+- [refactor(hono-jsx): import from `deno.land/x`](https://github.com/lumeland/experimental-plugins/pull/34) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 month ago)
 - [refactor(plugin/favicon): preferred svg icon](https://github.com/lumeland/lume/pull/562) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 - [Adaptive favicon](https://github.com/lumeland/lume.land/pull/99) on [lumeland/lume.land](https://github.com/lumeland/lume.land) (1 month ago)
 - [Add `mdx` filter](https://github.com/lumeland/lume/pull/550) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
@@ -68,7 +68,7 @@
 
 
 - [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (7 months ago)
-- [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (10 months ago)
+- [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (11 months ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (1 year ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (1 year ago)
 - [2022 总结](https://kwaa.dev/2023) (1 year ago)

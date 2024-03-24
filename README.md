@@ -16,9 +16,9 @@
   <br/>
 
 
-- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (today)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
-- [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (4 days ago)
+- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (1 day ago)
+- [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (5 days ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 week ago)
 - [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (2 weeks ago)

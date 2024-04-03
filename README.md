@@ -16,14 +16,14 @@
   <br/>
 
 
-- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (today)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 day ago)
-- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 day ago)
-- [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for ECMAScript and TypeScript packages (3 days ago)
-- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (6 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (1 day ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (2 days ago)
+- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (2 days ago)
+- [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for ECMAScript and TypeScript packages (4 days ago)
+- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (1 week ago)
 - [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (2 weeks ago)
-- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (4 weeks ago)
+- [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP] (1 month ago)
 - [importantimport/fff](https://github.com/importantimport/fff) - 🌟 The Flexible &amp; Functional Frontmatter Solution. (1 month ago)
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 month ago)
 
@@ -50,9 +50,9 @@
   <br/>
 
 
-- [fix(packages): add types versions](https://github.com/unocss/unocss/pull/3677) on [unocss/unocss](https://github.com/unocss/unocss) (1 day ago)
-- [fix(scope): fix export types &amp; main entry](https://github.com/unocss/unocss/pull/3676) on [unocss/unocss](https://github.com/unocss/unocss) (1 day ago)
-- [docs: fix capitalization](https://github.com/huozhi/bunchee/pull/505) on [huozhi/bunchee](https://github.com/huozhi/bunchee) (4 days ago)
+- [fix(packages): add types versions](https://github.com/unocss/unocss/pull/3677) on [unocss/unocss](https://github.com/unocss/unocss) (2 days ago)
+- [fix(scope): fix export types &amp; main entry](https://github.com/unocss/unocss/pull/3676) on [unocss/unocss](https://github.com/unocss/unocss) (2 days ago)
+- [docs: fix capitalization](https://github.com/huozhi/bunchee/pull/505) on [huozhi/bunchee](https://github.com/huozhi/bunchee) (5 days ago)
 - [FFF preset](https://github.com/lumeland/cms/pull/13) on [lumeland/cms](https://github.com/lumeland/cms) (1 week ago)
 - [feat: docker compose](https://github.com/lumeland/cms-deploy/pull/1) on [lumeland/cms-deploy](https://github.com/lumeland/cms-deploy) (1 month ago)
 - [robots.txt Plugin](https://github.com/lumeland/lume/pull/570) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)

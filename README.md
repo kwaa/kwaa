@@ -16,13 +16,13 @@
   <br/>
 
 
-- [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (1 day ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 days ago)
-- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (2 days ago)
-- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (4 days ago)
-- [sn0wm1x/nur](https://github.com/sn0wm1x/nur) - 🌨 SN0WM1X NUR. [maintainer=@kwaa] (4 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (6 days ago)
-- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (6 days ago)
+- [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (2 days ago)
+- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (3 days ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (3 days ago)
+- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (5 days ago)
+- [sn0wm1x/nur](https://github.com/sn0wm1x/nur) - 🌨 SN0WM1X NUR. [maintainer=@kwaa] (5 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
+- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (1 week ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 week ago)
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for ECMAScript and TypeScript packages (1 week ago)
@@ -50,11 +50,11 @@
   <br/>
 
 
-- [chore(unocss): updated deps](https://github.com/lumeland/lume/pull/596) on [lumeland/lume](https://github.com/lumeland/lume) (2 days ago)
+- [chore(unocss): updated deps](https://github.com/lumeland/lume/pull/596) on [lumeland/lume](https://github.com/lumeland/lume) (3 days ago)
 - [fix(packages): add types versions](https://github.com/unocss/unocss/pull/3677) on [unocss/unocss](https://github.com/unocss/unocss) (1 week ago)
 - [fix(scope): fix export types &amp; main entry](https://github.com/unocss/unocss/pull/3676) on [unocss/unocss](https://github.com/unocss/unocss) (1 week ago)
 - [docs: fix capitalization](https://github.com/huozhi/bunchee/pull/505) on [huozhi/bunchee](https://github.com/huozhi/bunchee) (1 week ago)
-- [FFF preset](https://github.com/lumeland/cms/pull/13) on [lumeland/cms](https://github.com/lumeland/cms) (1 week ago)
+- [FFF preset](https://github.com/lumeland/cms/pull/13) on [lumeland/cms](https://github.com/lumeland/cms) (2 weeks ago)
 - [feat: docker compose](https://github.com/lumeland/cms-deploy/pull/1) on [lumeland/cms-deploy](https://github.com/lumeland/cms-deploy) (1 month ago)
 - [robots.txt Plugin](https://github.com/lumeland/lume/pull/570) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 - [docs(readme): remove blockquote](https://github.com/lumeland/lume/pull/564) on [lumeland/lume](https://github.com/lumeland/lume) (2 months ago)

@@ -16,11 +16,11 @@
   <br/>
 
 
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (today)
-- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (2 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (4 days ago)
-- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (4 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (4 days ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 day ago)
+- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (3 days ago)
+- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (5 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (5 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (5 days ago)
 - [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (1 week ago)
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 week ago)
 - [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (1 week ago)
@@ -51,8 +51,8 @@
 
 
 - [chore(unocss): updated deps](https://github.com/lumeland/lume/pull/596) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
-- [fix(packages): add types versions](https://github.com/unocss/unocss/pull/3677) on [unocss/unocss](https://github.com/unocss/unocss) (1 week ago)
-- [fix(scope): fix export types &amp; main entry](https://github.com/unocss/unocss/pull/3676) on [unocss/unocss](https://github.com/unocss/unocss) (1 week ago)
+- [fix(packages): add types versions](https://github.com/unocss/unocss/pull/3677) on [unocss/unocss](https://github.com/unocss/unocss) (2 weeks ago)
+- [fix(scope): fix export types &amp; main entry](https://github.com/unocss/unocss/pull/3676) on [unocss/unocss](https://github.com/unocss/unocss) (2 weeks ago)
 - [docs: fix capitalization](https://github.com/huozhi/bunchee/pull/505) on [huozhi/bunchee](https://github.com/huozhi/bunchee) (2 weeks ago)
 - [FFF preset](https://github.com/lumeland/cms/pull/13) on [lumeland/cms](https://github.com/lumeland/cms) (2 weeks ago)
 - [feat: docker compose](https://github.com/lumeland/cms-deploy/pull/1) on [lumeland/cms-deploy](https://github.com/lumeland/cms-deploy) (1 month ago)

@@ -17,10 +17,10 @@
 
 
 - [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (today)
-- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (4 days ago)
-- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (6 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (6 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (6 days ago)
+- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (5 days ago)
+- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (1 week ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 week ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
 - [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (1 week ago)
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 week ago)
 - [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (1 week ago)
@@ -50,6 +50,7 @@
   <br/>
 
 
+- [feat(git-changelog): include extensions option](https://github.com/nolebase/integrations/pull/175) on [nolebase/integrations](https://github.com/nolebase/integrations) (today)
 - [chore(unocss): updated deps](https://github.com/lumeland/lume/pull/596) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
 - [fix(packages): add types versions](https://github.com/unocss/unocss/pull/3677) on [unocss/unocss](https://github.com/unocss/unocss) (2 weeks ago)
 - [fix(scope): fix export types &amp; main entry](https://github.com/unocss/unocss/pull/3676) on [unocss/unocss](https://github.com/unocss/unocss) (2 weeks ago)
@@ -59,7 +60,6 @@
 - [robots.txt Plugin](https://github.com/lumeland/lume/pull/570) on [lumeland/lume](https://github.com/lumeland/lume) (2 months ago)
 - [docs(readme): remove blockquote](https://github.com/lumeland/lume/pull/564) on [lumeland/lume](https://github.com/lumeland/lume) (2 months ago)
 - [refactor(hono-jsx): import from `deno.land/x`](https://github.com/lumeland/experimental-plugins/pull/34) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 months ago)
-- [refactor(plugin/favicon): preferred svg icon](https://github.com/lumeland/lume/pull/562) on [lumeland/lume](https://github.com/lumeland/lume) (2 months ago)
 
 </details>
 <details>

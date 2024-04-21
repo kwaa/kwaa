@@ -16,16 +16,16 @@
   <br/>
 
 
-- [moeru-ai/comfyex](https://github.com/moeru-ai/comfyex) - Easy-to-use ComfyUI with IPEX Starter, based on Docker Compose. (today)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 day ago)
-- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (1 day ago)
-- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (3 days ago)
-- [nolebase/integrations](https://github.com/nolebase/integrations) - A collection of diverse documentation engineering tools | 多元化的文档工程工具合集 (3 days ago)
+- [moeru-ai/Moeru-Llama-3-8B](https://github.com/moeru-ai/Moeru-Llama-3-8B) - Work in Progress, Just for Fun. (today)
+- [moeru-ai/comfyex](https://github.com/moeru-ai/comfyex) - Easy-to-use ComfyUI with IPEX Starter, based on Docker Compose. (1 day ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (2 days ago)
+- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (2 days ago)
+- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (4 days ago)
+- [nolebase/integrations](https://github.com/nolebase/integrations) - A collection of diverse documentation engineering tools | 多元化的文档工程工具合集 (4 days ago)
 - [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (1 week ago)
 - [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 week ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
-- [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (1 week ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 weeks ago)
+- [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (2 weeks ago)
 
 </details>
 <details>
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [feat(git-changelog): include extensions option](https://github.com/nolebase/integrations/pull/175) on [nolebase/integrations](https://github.com/nolebase/integrations) (3 days ago)
+- [feat(git-changelog): include extensions option](https://github.com/nolebase/integrations/pull/175) on [nolebase/integrations](https://github.com/nolebase/integrations) (4 days ago)
 - [chore(unocss): updated deps](https://github.com/lumeland/lume/pull/596) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)
 - [fix(packages): add types versions](https://github.com/unocss/unocss/pull/3677) on [unocss/unocss](https://github.com/unocss/unocss) (2 weeks ago)
 - [fix(scope): fix export types &amp; main entry](https://github.com/unocss/unocss/pull/3676) on [unocss/unocss](https://github.com/unocss/unocss) (2 weeks ago)

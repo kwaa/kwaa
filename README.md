@@ -16,15 +16,15 @@
   <br/>
 
 
-- [moeru-ai/Moeru-Llama-3-8B](https://github.com/moeru-ai/Moeru-Llama-3-8B) - Work in Progress, Just for Fun. (today)
-- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (today)
-- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (1 day ago)
-- [moeru-ai/comfyex](https://github.com/moeru-ai/comfyex) - Easy-to-use ComfyUI with IPEX Starter, based on Docker Compose. (2 days ago)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (3 days ago)
-- [nolebase/integrations](https://github.com/nolebase/integrations) - A collection of diverse documentation engineering tools | 多元化的文档工程工具合集 (5 days ago)
-- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (5 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 week ago)
+- [moeru-ai/Moeru-Llama-3-8B](https://github.com/moeru-ai/Moeru-Llama-3-8B) - Work in Progress, Just for Fun. (1 day ago)
+- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (1 day ago)
+- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (2 days ago)
+- [moeru-ai/comfyex](https://github.com/moeru-ai/comfyex) - Easy-to-use ComfyUI with IPEX Starter, based on Docker Compose. (3 days ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (4 days ago)
+- [nolebase/integrations](https://github.com/nolebase/integrations) - A collection of diverse documentation engineering tools | 多元化的文档工程工具合集 (6 days ago)
+- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (6 days ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some ESLint Flat Config for !mportantImport. (1 week ago)
 - [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (2 weeks ago)
 
 </details>
@@ -50,12 +50,12 @@
   <br/>
 
 
-- [feat(git-changelog): include extensions option](https://github.com/nolebase/integrations/pull/175) on [nolebase/integrations](https://github.com/nolebase/integrations) (5 days ago)
+- [feat(git-changelog): include extensions option](https://github.com/nolebase/integrations/pull/175) on [nolebase/integrations](https://github.com/nolebase/integrations) (6 days ago)
 - [chore(unocss): updated deps](https://github.com/lumeland/lume/pull/596) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)
 - [fix(packages): add types versions](https://github.com/unocss/unocss/pull/3677) on [unocss/unocss](https://github.com/unocss/unocss) (3 weeks ago)
 - [fix(scope): fix export types &amp; main entry](https://github.com/unocss/unocss/pull/3676) on [unocss/unocss](https://github.com/unocss/unocss) (3 weeks ago)
 - [docs: fix capitalization](https://github.com/huozhi/bunchee/pull/505) on [huozhi/bunchee](https://github.com/huozhi/bunchee) (3 weeks ago)
-- [FFF preset](https://github.com/lumeland/cms/pull/13) on [lumeland/cms](https://github.com/lumeland/cms) (3 weeks ago)
+- [FFF preset](https://github.com/lumeland/cms/pull/13) on [lumeland/cms](https://github.com/lumeland/cms) (4 weeks ago)
 - [feat: docker compose](https://github.com/lumeland/cms-deploy/pull/1) on [lumeland/cms-deploy](https://github.com/lumeland/cms-deploy) (1 month ago)
 - [robots.txt Plugin](https://github.com/lumeland/lume/pull/570) on [lumeland/lume](https://github.com/lumeland/lume) (2 months ago)
 - [docs(readme): remove blockquote](https://github.com/lumeland/lume/pull/564) on [lumeland/lume](https://github.com/lumeland/lume) (2 months ago)

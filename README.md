@@ -16,16 +16,16 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
-- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 day ago)
-- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (3 days ago)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (4 days ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (5 days ago)
-- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (5 days ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (5 days ago)
-- [importantimport/kkna](https://github.com/importantimport/kkna) -  (1 week ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
+- [importantimport/kkna](https://github.com/importantimport/kkna) - 💬 All-in-One, Easy-to-Use Comment Component. [WIP] (today)
+- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (2 days ago)
+- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (4 days ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (5 days ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (6 days ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (6 days ago)
+- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (6 days ago)
 - [moeru-ai/Moeru-Llama-3-8B](https://github.com/moeru-ai/Moeru-Llama-3-8B) - Work in Progress, Just for Fun. (1 week ago)
-- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (1 week ago)
+- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (2 weeks ago)
 
 </details>
 <details>
@@ -50,10 +50,10 @@
   <br/>
 
 
-- [feat: receive `Announce` activity](https://github.com/importantimport/hatsu/pull/25) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [feat: receive `Like` activity](https://github.com/importantimport/hatsu/pull/24) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [refactor(hono-jsx)!: rename to hono, add html helper](https://github.com/lumeland/experimental-plugins/pull/37) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (3 days ago)
-- [fix(plugin/fff): fix `getGitDate` priority](https://github.com/lumeland/lume/pull/603) on [lumeland/lume](https://github.com/lumeland/lume) (5 days ago)
+- [feat: receive `Announce` activity](https://github.com/importantimport/hatsu/pull/25) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [feat: receive `Like` activity](https://github.com/importantimport/hatsu/pull/24) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [refactor(hono-jsx)!: rename to hono, add html helper](https://github.com/lumeland/experimental-plugins/pull/37) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (4 days ago)
+- [fix(plugin/fff): fix `getGitDate` priority](https://github.com/lumeland/lume/pull/603) on [lumeland/lume](https://github.com/lumeland/lume) (6 days ago)
 - [feat(git-changelog): include extensions option](https://github.com/nolebase/integrations/pull/175) on [nolebase/integrations](https://github.com/nolebase/integrations) (2 weeks ago)
 - [chore(unocss): updated deps](https://github.com/lumeland/lume/pull/596) on [lumeland/lume](https://github.com/lumeland/lume) (4 weeks ago)
 - [fix(packages): add types versions](https://github.com/unocss/unocss/pull/3677) on [unocss/unocss](https://github.com/unocss/unocss) (1 month ago)

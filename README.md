@@ -16,15 +16,15 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (1 day ago)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (4 days ago)
-- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (5 days ago)
+- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (today)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (2 days ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (5 days ago)
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 week ago)
-- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (1 week ago)
+- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (2 weeks ago)
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 weeks ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (2 weeks ago)
-- [moeru-ai/Moeru-Llama-3-8B](https://github.com/moeru-ai/Moeru-Llama-3-8B) - Work in Progress, Just for Fun. (2 weeks ago)
+- [moeru-ai/Moeru-Llama-3-8B](https://github.com/moeru-ai/Moeru-Llama-3-8B) - Work in Progress, Just for Fun. (3 weeks ago)
 - [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (3 weeks ago)
 
 </details>
@@ -50,16 +50,16 @@
   <br/>
 
 
-- [fix(feed): use logo as fallback](https://github.com/importantimport/hatsu/pull/34) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
-- [feat: use `human-panic`](https://github.com/importantimport/hatsu/pull/32) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [refactor(feed): improve structure &amp; compatibility](https://github.com/importantimport/hatsu/pull/29) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [refactor(env): new `HATSU_ENV_FILE` option](https://github.com/importantimport/hatsu/pull/28) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [feat: `_hatsu.aliases` top-level extension](https://github.com/importantimport/hatsu/pull/36) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [refactor(feed)!: improve structure](https://github.com/importantimport/hatsu/pull/35) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [fix(feed): use logo as fallback](https://github.com/importantimport/hatsu/pull/34) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [feat: use `human-panic`](https://github.com/importantimport/hatsu/pull/32) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [refactor(feed): improve structure &amp; compatibility](https://github.com/importantimport/hatsu/pull/29) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [refactor(env): new `HATSU_ENV_FILE` option](https://github.com/importantimport/hatsu/pull/28) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
 - [feat: receive `Announce` activity](https://github.com/importantimport/hatsu/pull/25) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [feat: receive `Like` activity](https://github.com/importantimport/hatsu/pull/24) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [refactor(hono-jsx)!: rename to hono, add html helper](https://github.com/lumeland/experimental-plugins/pull/37) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (1 week ago)
+- [refactor(hono-jsx)!: rename to hono, add html helper](https://github.com/lumeland/experimental-plugins/pull/37) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 weeks ago)
 - [fix(plugin/fff): fix `getGitDate` priority](https://github.com/lumeland/lume/pull/603) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)
-- [feat(git-changelog): include extensions option](https://github.com/nolebase/integrations/pull/175) on [nolebase/integrations](https://github.com/nolebase/integrations) (3 weeks ago)
-- [chore(unocss): updated deps](https://github.com/lumeland/lume/pull/596) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 
 </details>
 <details>

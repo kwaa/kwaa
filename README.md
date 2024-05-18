@@ -16,14 +16,14 @@
   <br/>
 
 
+- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (today)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
-- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (2 days ago)
-- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (4 days ago)
+- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (5 days ago)
 - [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 week ago)
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (2 weeks ago)
 - [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (2 weeks ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 weeks ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (2 weeks ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 weeks ago)
 - [moeru-ai/Moeru-Llama-3-8B](https://github.com/moeru-ai/Moeru-Llama-3-8B) - Work in Progress, Just for Fun. (3 weeks ago)
 - [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (3 weeks ago)
 
@@ -50,16 +50,16 @@
   <br/>
 
 
-- [feat(scheduler): update user info](https://github.com/importantimport/hatsu/pull/37) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [feat: `_hatsu.aliases` top-level extension](https://github.com/importantimport/hatsu/pull/36) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [refactor(feed)!: improve structure](https://github.com/importantimport/hatsu/pull/35) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [fix(feed): use logo as fallback](https://github.com/importantimport/hatsu/pull/34) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [feat: use `human-panic`](https://github.com/importantimport/hatsu/pull/32) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
-- [refactor(feed): improve structure &amp; compatibility](https://github.com/importantimport/hatsu/pull/29) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
-- [refactor(env): new `HATSU_ENV_FILE` option](https://github.com/importantimport/hatsu/pull/28) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
-- [feat: receive `Announce` activity](https://github.com/importantimport/hatsu/pull/25) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
-- [feat: receive `Like` activity](https://github.com/importantimport/hatsu/pull/24) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
-- [refactor(hono-jsx)!: rename to hono, add html helper](https://github.com/lumeland/experimental-plugins/pull/37) on [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) (2 weeks ago)
+- [Add LICENSE](https://github.com/BasedHardware/Friend/pull/174) on [BasedHardware/Friend](https://github.com/BasedHardware/Friend) (today)
+- [refactor(git-changelog): use a 7-digit commit hash instead of a 5-digit](https://github.com/nolebase/integrations/pull/219) on [nolebase/integrations](https://github.com/nolebase/integrations) (today)
+- [refactor(apub): move service to user](https://github.com/importantimport/hatsu/pull/39) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [feat(apub): provide user attachments](https://github.com/importantimport/hatsu/pull/38) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [feat(scheduler): update user info](https://github.com/importantimport/hatsu/pull/37) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [feat: `_hatsu.aliases` top-level extension](https://github.com/importantimport/hatsu/pull/36) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [refactor(feed)!: improve structure](https://github.com/importantimport/hatsu/pull/35) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [fix(feed): use logo as fallback](https://github.com/importantimport/hatsu/pull/34) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [feat: use `human-panic`](https://github.com/importantimport/hatsu/pull/32) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
+- [refactor(feed): improve structure &amp; compatibility](https://github.com/importantimport/hatsu/pull/29) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 
 </details>
 <details>
@@ -67,7 +67,7 @@
   <br/>
 
 
-- [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (9 months ago)
+- [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (10 months ago)
 - [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (1 year ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (1 year ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (1 year ago)

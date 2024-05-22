@@ -16,15 +16,15 @@
   <br/>
 
 
-- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (1 day ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (2 days ago)
-- [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h&#43; battery (3 days ago)
-- [nolebase/integrations](https://github.com/nolebase/integrations) - A collection of diverse documentation engineering tools | 多元化的文档工程工具合集 (3 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (4 days ago)
+- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (2 days ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (3 days ago)
+- [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h&#43; battery (4 days ago)
+- [nolebase/integrations](https://github.com/nolebase/integrations) - A collection of diverse documentation engineering tools | 多元化的文档工程工具合集 (4 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (5 days ago)
 - [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (1 week ago)
 - [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 week ago)
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (2 weeks ago)
-- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (2 weeks ago)
+- [lumeland/experimental-plugins](https://github.com/lumeland/experimental-plugins) - A repo to test and experiment with plugins for Lume (3 weeks ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (3 weeks ago)
 
 </details>
@@ -50,12 +50,12 @@
   <br/>
 
 
-- [kkna.js.org](https://github.com/js-org/js.org/pull/9040) on [js-org/js.org](https://github.com/js-org/js.org) (2 days ago)
-- [Add LICENSE](https://github.com/BasedHardware/Friend/pull/174) on [BasedHardware/Friend](https://github.com/BasedHardware/Friend) (3 days ago)
-- [refactor(git-changelog): use a 7-digit commit hash instead of a 5-digit](https://github.com/nolebase/integrations/pull/219) on [nolebase/integrations](https://github.com/nolebase/integrations) (3 days ago)
-- [refactor(apub): move service to user](https://github.com/importantimport/hatsu/pull/39) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
-- [feat(apub): provide user attachments](https://github.com/importantimport/hatsu/pull/38) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
-- [feat(scheduler): update user info](https://github.com/importantimport/hatsu/pull/37) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
+- [kkna.js.org](https://github.com/js-org/js.org/pull/9040) on [js-org/js.org](https://github.com/js-org/js.org) (3 days ago)
+- [Add LICENSE](https://github.com/BasedHardware/Friend/pull/174) on [BasedHardware/Friend](https://github.com/BasedHardware/Friend) (4 days ago)
+- [refactor(git-changelog): use a 7-digit commit hash instead of a 5-digit](https://github.com/nolebase/integrations/pull/219) on [nolebase/integrations](https://github.com/nolebase/integrations) (4 days ago)
+- [refactor(apub): move service to user](https://github.com/importantimport/hatsu/pull/39) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
+- [feat(apub): provide user attachments](https://github.com/importantimport/hatsu/pull/38) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
+- [feat(scheduler): update user info](https://github.com/importantimport/hatsu/pull/37) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [feat: `_hatsu.aliases` top-level extension](https://github.com/importantimport/hatsu/pull/36) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [refactor(feed)!: improve structure](https://github.com/importantimport/hatsu/pull/35) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [fix(feed): use logo as fallback](https://github.com/importantimport/hatsu/pull/34) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)

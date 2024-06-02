@@ -16,16 +16,16 @@
   <br/>
 
 
-- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (today)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (2 days ago)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (2 days ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (3 days ago)
-- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (4 days ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 week ago)
+- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (1 day ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (3 days ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (3 days ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (4 days ago)
+- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (5 days ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (2 weeks ago)
 - [nolebase/integrations](https://github.com/nolebase/integrations) - A collection of diverse documentation engineering tools | 多元化的文档工程工具合集 (2 weeks ago)
 - [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable necklace (2 weeks ago)
-- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (4 weeks ago)
+- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 month ago)
 
 </details>
 <details>
@@ -50,9 +50,9 @@
   <br/>
 
 
-- [refactor(tracing)!: rename `HATSU_LOG_LEVEL` to `HATSU_LOG`](https://github.com/importantimport/hatsu/pull/42) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
-- [feat: support `tokio-console`](https://github.com/importantimport/hatsu/pull/40) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
-- [kkna.js.org](https://github.com/js-org/js.org/pull/9040) on [js-org/js.org](https://github.com/js-org/js.org) (1 week ago)
+- [refactor(tracing)!: rename `HATSU_LOG_LEVEL` to `HATSU_LOG`](https://github.com/importantimport/hatsu/pull/42) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [feat: support `tokio-console`](https://github.com/importantimport/hatsu/pull/40) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
+- [kkna.js.org](https://github.com/js-org/js.org/pull/9040) on [js-org/js.org](https://github.com/js-org/js.org) (2 weeks ago)
 - [Add LICENSE](https://github.com/BasedHardware/Friend/pull/174) on [BasedHardware/Friend](https://github.com/BasedHardware/Friend) (2 weeks ago)
 - [refactor(git-changelog): use a 7-digit commit hash instead of a 5-digit](https://github.com/nolebase/integrations/pull/219) on [nolebase/integrations](https://github.com/nolebase/integrations) (2 weeks ago)
 - [refactor(apub): move service to user](https://github.com/importantimport/hatsu/pull/39) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)

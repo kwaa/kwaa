@@ -16,12 +16,12 @@
   <br/>
 
 
-- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (2 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
-- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (4 days ago)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (4 days ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (5 days ago)
-- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (6 days ago)
+- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (3 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (3 days ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (5 days ago)
+- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (5 days ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (6 days ago)
+- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (1 week ago)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (2 weeks ago)
 - [nolebase/integrations](https://github.com/nolebase/integrations) - A collection of diverse documentation engineering tools | 多元化的文档工程工具合集 (2 weeks ago)
 - [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable necklace (2 weeks ago)
@@ -50,7 +50,7 @@
   <br/>
 
 
-- [refactor(tracing)!: rename `HATSU_LOG_LEVEL` to `HATSU_LOG`](https://github.com/importantimport/hatsu/pull/42) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [refactor(tracing)!: rename `HATSU_LOG_LEVEL` to `HATSU_LOG`](https://github.com/importantimport/hatsu/pull/42) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
 - [feat: support `tokio-console`](https://github.com/importantimport/hatsu/pull/40) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [kkna.js.org](https://github.com/js-org/js.org/pull/9040) on [js-org/js.org](https://github.com/js-org/js.org) (2 weeks ago)
 - [Add LICENSE](https://github.com/BasedHardware/Friend/pull/174) on [BasedHardware/Friend](https://github.com/BasedHardware/Friend) (2 weeks ago)
@@ -58,8 +58,8 @@
 - [refactor(apub): move service to user](https://github.com/importantimport/hatsu/pull/39) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
 - [feat(apub): provide user attachments](https://github.com/importantimport/hatsu/pull/38) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
 - [feat(scheduler): update user info](https://github.com/importantimport/hatsu/pull/37) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
-- [feat: `_hatsu.aliases` top-level extension](https://github.com/importantimport/hatsu/pull/36) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
-- [refactor(feed)!: improve structure](https://github.com/importantimport/hatsu/pull/35) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
+- [feat: `_hatsu.aliases` top-level extension](https://github.com/importantimport/hatsu/pull/36) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
+- [refactor(feed)!: improve structure](https://github.com/importantimport/hatsu/pull/35) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
 
 </details>
 <details>

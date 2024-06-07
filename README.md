@@ -16,8 +16,8 @@
   <br/>
 
 
-- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (today)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (1 day ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
 - [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 week ago)
 - [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (1 week ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
@@ -50,14 +50,14 @@
   <br/>
 
 
-- [feat: new `generate_204` api](https://github.com/importantimport/hatsu/pull/44) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [refactor(tracing)!: rename `HATSU_LOG_LEVEL` to `HATSU_LOG`](https://github.com/importantimport/hatsu/pull/42) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
+- [feat: new `generate_204` api](https://github.com/importantimport/hatsu/pull/44) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [refactor(tracing)!: rename `HATSU_LOG_LEVEL` to `HATSU_LOG`](https://github.com/importantimport/hatsu/pull/42) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
 - [feat: support `tokio-console`](https://github.com/importantimport/hatsu/pull/40) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [kkna.js.org](https://github.com/js-org/js.org/pull/9040) on [js-org/js.org](https://github.com/js-org/js.org) (2 weeks ago)
 - [Add LICENSE](https://github.com/BasedHardware/Friend/pull/174) on [BasedHardware/Friend](https://github.com/BasedHardware/Friend) (2 weeks ago)
 - [refactor(git-changelog): use a 7-digit commit hash instead of a 5-digit](https://github.com/nolebase/integrations/pull/219) on [nolebase/integrations](https://github.com/nolebase/integrations) (2 weeks ago)
-- [refactor(apub): move service to user](https://github.com/importantimport/hatsu/pull/39) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
-- [feat(apub): provide user attachments](https://github.com/importantimport/hatsu/pull/38) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
+- [refactor(apub): move service to user](https://github.com/importantimport/hatsu/pull/39) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
+- [feat(apub): provide user attachments](https://github.com/importantimport/hatsu/pull/38) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
 - [feat(scheduler): update user info](https://github.com/importantimport/hatsu/pull/37) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
 - [feat: `_hatsu.aliases` top-level extension](https://github.com/importantimport/hatsu/pull/36) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
 

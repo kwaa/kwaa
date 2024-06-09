@@ -16,13 +16,13 @@
   <br/>
 
 
-- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (1 day ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (3 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [sn0wm1x/nixos](https://github.com/sn0wm1x/nixos) - 🌨 SN0WM1X NixOS Config. [maintainer=@kwaa] (2 days ago)
 - [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 week ago)
 - [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (1 week ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
 - [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (1 week ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (2 weeks ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (3 weeks ago)
 - [nolebase/integrations](https://github.com/nolebase/integrations) - A collection of diverse documentation engineering tools | 多元化的文档工程工具合集 (3 weeks ago)
 - [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable necklace (3 weeks ago)
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 month ago)
@@ -50,11 +50,11 @@
   <br/>
 
 
-- [refactor: use flake instead of devbox](https://github.com/importantimport/hatsu/pull/45) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [feat: new `generate_204` api](https://github.com/importantimport/hatsu/pull/44) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [refactor: use flake instead of devbox](https://github.com/importantimport/hatsu/pull/45) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [feat: new `generate_204` api](https://github.com/importantimport/hatsu/pull/44) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
 - [refactor(tracing)!: rename `HATSU_LOG_LEVEL` to `HATSU_LOG`](https://github.com/importantimport/hatsu/pull/42) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [feat: support `tokio-console`](https://github.com/importantimport/hatsu/pull/40) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [kkna.js.org](https://github.com/js-org/js.org/pull/9040) on [js-org/js.org](https://github.com/js-org/js.org) (2 weeks ago)
+- [feat: support `tokio-console`](https://github.com/importantimport/hatsu/pull/40) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
+- [kkna.js.org](https://github.com/js-org/js.org/pull/9040) on [js-org/js.org](https://github.com/js-org/js.org) (3 weeks ago)
 - [Add LICENSE](https://github.com/BasedHardware/Friend/pull/174) on [BasedHardware/Friend](https://github.com/BasedHardware/Friend) (3 weeks ago)
 - [refactor(git-changelog): use a 7-digit commit hash instead of a 5-digit](https://github.com/nolebase/integrations/pull/219) on [nolebase/integrations](https://github.com/nolebase/integrations) (3 weeks ago)
 - [refactor(apub): move service to user](https://github.com/importantimport/hatsu/pull/39) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)

@@ -16,16 +16,16 @@
   <br/>
 
 
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. [maintainer=@kwaa] (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. [maintainer=@kwaa] (today)
-- [sn0wm1x/thinkbook-14-g6plus-ahp](https://github.com/sn0wm1x/thinkbook-14-g6plus-ahp) - Assets related to ThinkBook 14 G6&#43; AHP. (1 day ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (3 days ago)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 week ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. [maintainer=@kwaa] (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. [maintainer=@kwaa] (1 day ago)
+- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (1 day ago)
+- [sn0wm1x/thinkbook-14-g6plus-ahp](https://github.com/sn0wm1x/thinkbook-14-g6plus-ahp) - Assets related to ThinkBook 14 G6&#43; AHP. (2 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (4 days ago)
 - [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (1 week ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 week ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (2 weeks ago)
 - [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (2 weeks ago)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (3 weeks ago)
-- [nolebase/integrations](https://github.com/nolebase/integrations) - A collection of diverse documentation engineering tools | 多元化的文档工程工具合集 (3 weeks ago)
 
 </details>
 <details>
@@ -50,16 +50,16 @@
   <br/>
 
 
-- [refactor(flake)!: setup crane](https://github.com/importantimport/hatsu/pull/46) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [refactor: use flake instead of devbox](https://github.com/importantimport/hatsu/pull/45) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
-- [feat: new `generate_204` api](https://github.com/importantimport/hatsu/pull/44) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
+- [add sn0wm1x repository](https://github.com/nix-community/NUR/pull/723) on [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago)
+- [refactor(flake)!: setup crane](https://github.com/importantimport/hatsu/pull/46) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [refactor: use flake instead of devbox](https://github.com/importantimport/hatsu/pull/45) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
+- [feat: new `generate_204` api](https://github.com/importantimport/hatsu/pull/44) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [refactor(tracing)!: rename `HATSU_LOG_LEVEL` to `HATSU_LOG`](https://github.com/importantimport/hatsu/pull/42) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [feat: support `tokio-console`](https://github.com/importantimport/hatsu/pull/40) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
 - [kkna.js.org](https://github.com/js-org/js.org/pull/9040) on [js-org/js.org](https://github.com/js-org/js.org) (3 weeks ago)
 - [Add LICENSE](https://github.com/BasedHardware/Friend/pull/174) on [BasedHardware/Friend](https://github.com/BasedHardware/Friend) (3 weeks ago)
 - [refactor(git-changelog): use a 7-digit commit hash instead of a 5-digit](https://github.com/nolebase/integrations/pull/219) on [nolebase/integrations](https://github.com/nolebase/integrations) (3 weeks ago)
 - [refactor(apub): move service to user](https://github.com/importantimport/hatsu/pull/39) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
-- [feat(apub): provide user attachments](https://github.com/importantimport/hatsu/pull/38) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
 
 </details>
 <details>

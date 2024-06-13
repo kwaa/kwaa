@@ -16,13 +16,13 @@
   <br/>
 
 
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. [maintainer=@kwaa] (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. [maintainer=@kwaa] (1 day ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (1 day ago)
-- [sn0wm1x/thinkbook-14-g6plus-ahp](https://github.com/sn0wm1x/thinkbook-14-g6plus-ahp) - Assets related to ThinkBook 14 G6&#43; AHP. (2 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (4 days ago)
-- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (1 week ago)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 week ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. [maintainer=@kwaa] (today)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. [maintainer=@kwaa] (2 days ago)
+- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (2 days ago)
+- [sn0wm1x/thinkbook-14-g6plus-ahp](https://github.com/sn0wm1x/thinkbook-14-g6plus-ahp) - Assets related to ThinkBook 14 G6&#43; AHP. (3 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (5 days ago)
+- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (2 weeks ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (2 weeks ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (2 weeks ago)
 - [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (2 weeks ago)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (3 weeks ago)
@@ -50,9 +50,9 @@
   <br/>
 
 
-- [add sn0wm1x repository](https://github.com/nix-community/NUR/pull/723) on [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago)
-- [refactor(flake)!: setup crane](https://github.com/importantimport/hatsu/pull/46) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [refactor: use flake instead of devbox](https://github.com/importantimport/hatsu/pull/45) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
+- [add sn0wm1x repository](https://github.com/nix-community/NUR/pull/723) on [nix-community/NUR](https://github.com/nix-community/NUR) (2 days ago)
+- [refactor(flake)!: setup crane](https://github.com/importantimport/hatsu/pull/46) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [refactor: use flake instead of devbox](https://github.com/importantimport/hatsu/pull/45) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
 - [feat: new `generate_204` api](https://github.com/importantimport/hatsu/pull/44) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [refactor(tracing)!: rename `HATSU_LOG_LEVEL` to `HATSU_LOG`](https://github.com/importantimport/hatsu/pull/42) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [feat: support `tokio-console`](https://github.com/importantimport/hatsu/pull/40) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)

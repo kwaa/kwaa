@@ -16,14 +16,14 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. [maintainer=@kwaa] (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. [maintainer=@kwaa] (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (1 week ago)
 - [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. [maintainer=@kwaa] (1 week ago)
 - [sn0wm1x/thinkbook-14-g6plus-ahp](https://github.com/sn0wm1x/thinkbook-14-g6plus-ahp) - Assets related to ThinkBook 14 G6&#43; AHP. (1 week ago)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (2 weeks ago)
-- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (2 weeks ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (3 weeks ago)
+- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (3 weeks ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (3 weeks ago)
 - [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (3 weeks ago)
 
@@ -50,11 +50,11 @@
   <br/>
 
 
-- [Add Hatsu](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/759) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago)
-- [feat(tracing): trace http response &amp; pretty](https://github.com/importantimport/hatsu/pull/49) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [refactor: allow custom version](https://github.com/importantimport/hatsu/pull/48) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [hatsu: init at 0.2.0](https://github.com/NixOS/nixpkgs/pull/320173) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [fix(ci): enable vendored openssl in normal build](https://github.com/importantimport/hatsu/pull/47) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [Add Hatsu](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/759) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
+- [feat(tracing): trace http response &amp; pretty](https://github.com/importantimport/hatsu/pull/49) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [refactor: allow custom version](https://github.com/importantimport/hatsu/pull/48) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [hatsu: init at 0.2.0](https://github.com/NixOS/nixpkgs/pull/320173) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
+- [fix(ci): enable vendored openssl in normal build](https://github.com/importantimport/hatsu/pull/47) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
 - [add sn0wm1x repository](https://github.com/nix-community/NUR/pull/723) on [nix-community/NUR](https://github.com/nix-community/NUR) (1 week ago)
 - [refactor(flake)!: setup crane](https://github.com/importantimport/hatsu/pull/46) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [refactor: use flake instead of devbox](https://github.com/importantimport/hatsu/pull/45) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)

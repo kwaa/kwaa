@@ -5,10 +5,9 @@
   <br/>
 
 - 藍
-- Earthling, Front-end Developer.
-- Owner of [!mportantImport](https://github.com/importantimport)
-- Member of [Lume](https://github.com/lumeland)
-- Contributor of [TailwindCSS](https://github.com/tailwindlabs/tailwindcss), [ComfyUI](https://github.com/comfyanonymous/ComfyUI), [MDUI](https://github.com/zdhxiong/mdui) and more
+- Owner of [!mportantImport](https://github.com/importantimport), [SN0WM1X](https://github.com/sn0wm1x), [Moeru AI](https://github.com/moeru-ai)
+- Member of [NixOS](https://github.com/nixos), [Lume](https://github.com/lumeland)
+- Contributor of [UnoCSS](https://github.com/unocss), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss), [ComfyUI](https://github.com/comfyanonymous/ComfyUI), [MDUI](https://github.com/zdhxiong/mdui) and more
 
 </details>
 <details>
@@ -16,16 +15,11 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. [maintainer=@kwaa] (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (1 week ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. [maintainer=@kwaa] (1 week ago)
-- [sn0wm1x/thinkbook-14-g6plus-ahp](https://github.com/sn0wm1x/thinkbook-14-g6plus-ahp) - Assets related to ThinkBook 14 G6&#43; AHP. (1 week ago)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (3 weeks ago)
-- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (3 weeks ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (3 weeks ago)
-- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (3 weeks ago)
+- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. [maintainer=@kwaa] (1 day ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. [maintainer=@kwaa] (1 day ago)
+- [sn0wm1x/.github](https://github.com/sn0wm1x/.github) -  (1 day ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
 
 </details>
 <details>
@@ -38,11 +32,6 @@
 - [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP]
 - [kwaa/csgo](https://github.com/kwaa/csgo) - My CS:GO crosshair &amp; scripts.
 - [kwaa/flytosocial](https://github.com/kwaa/flytosocial) - 🪽 An attempt to run a GoToSocial instance at fly.io.
-- [kwaa/ech-playground](https://github.com/kwaa/ech-playground) - 🔒 Play with TLS Encrypted Client Hello
-- [kwaa/hexo-lightningcss](https://github.com/kwaa/hexo-lightningcss) - ⚡️ LightningCSS Plugin for Hexo
-- [kwaa/naive](https://github.com/kwaa/naive) - 🐸 Dockerized NaiveProxy (Monthly Update)
-- [kwaa/hexo-partytown](https://github.com/kwaa/hexo-partytown) - 🎉 Partytown Integration for Hexo
-- [kwaa/todoli](https://github.com/kwaa/todoli) - 🥔 Yet Another To Do List.
 
 </details>
 <details>
@@ -50,16 +39,11 @@
   <br/>
 
 
-- [Add Hatsu](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/759) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 days ago)
-- [feat(tracing): trace http response &amp; pretty](https://github.com/importantimport/hatsu/pull/49) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
-- [refactor: allow custom version](https://github.com/importantimport/hatsu/pull/48) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
-- [hatsu: init at 0.2.0](https://github.com/NixOS/nixpkgs/pull/320173) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
-- [fix(ci): enable vendored openssl in normal build](https://github.com/importantimport/hatsu/pull/47) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
-- [add sn0wm1x repository](https://github.com/nix-community/NUR/pull/723) on [nix-community/NUR](https://github.com/nix-community/NUR) (1 week ago)
-- [refactor(flake)!: setup crane](https://github.com/importantimport/hatsu/pull/46) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [refactor: use flake instead of devbox](https://github.com/importantimport/hatsu/pull/45) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [feat: new `generate_204` api](https://github.com/importantimport/hatsu/pull/44) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
-- [refactor(tracing)!: rename `HATSU_LOG_LEVEL` to `HATSU_LOG`](https://github.com/importantimport/hatsu/pull/42) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
+- [Add Hatsu](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/759) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago)
+- [feat(tracing): trace http response &amp; pretty](https://github.com/importantimport/hatsu/pull/49) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
+- [refactor: allow custom version](https://github.com/importantimport/hatsu/pull/48) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
+- [hatsu: init at 0.2.0](https://github.com/NixOS/nixpkgs/pull/320173) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
+- [fix(ci): enable vendored openssl in normal build](https://github.com/importantimport/hatsu/pull/47) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
 
 </details>
 <details>
@@ -91,19 +75,17 @@
   <br/>
   
 ```
-pub   ed25519/0x4444777733334444 2022-05-16 [C] [expires: 2025-01-07]
+pub   ed25519/0x4444777733334444 2022-05-16 [C] [expires: 2026-06-15]
       Key fingerprint = ABCB A12F 1A8E 3CCC F10B  5109 4444 7777 3333 4444
 uid                   [ultimate] 藍+85CD <kwa[a]kwaa.dev>
 uid                   [ultimate] 藍+85CD (GitHub) &lt;50108258+kwaa[a]users.noreply.github.com>
 uid                   [ultimate] [jpeg image of size 889]
-sub   ed25519/0xBCB0111111111111 2022-12-24 [S] [expires: 2025-01-07]
-sub   ed25519/0x6656222222222222 2022-10-27 [A] [expires: 2025-01-07]
-sub   cv25519/0x6EC06EC06EC06EC0 2022-10-05 [E] [expires: 2025-01-07]
+sub   ed25519/0xBCB0111111111111 2022-12-24 [S] [expires: 2026-06-15]
+sub   ed25519/0x6656222222222222 2022-10-27 [A] [expires: 2026-06-15]
+sub   cv25519/0x6EC06EC06EC06EC0 2022-10-05 [E] [expires: 2026-06-15]
 
 # via keys.openpgp.org
 gpg --keyserver hkps://keys.openpgp.org --recv-keys 4444777733334444
-# via kwaa.dev
-gpg --fetch-keys https://kwaa.dev/pgp/4734.pgp
 ```
 
 </details>

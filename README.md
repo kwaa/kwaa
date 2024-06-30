@@ -15,10 +15,10 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. [maintainer=@kwaa] (1 day ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (5 days ago)
+- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. [maintainer=@kwaa] (2 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (6 days ago)
 - [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. [maintainer=@kwaa] (1 week ago)
-- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 
 </details>
@@ -41,9 +41,9 @@
 
 - [hatsu: 0.2.0 -&gt; 0.2.1](https://github.com/NixOS/nixpkgs/pull/321487) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [Add Hatsu](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/759) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
-- [feat(tracing): trace http response &amp; pretty](https://github.com/importantimport/hatsu/pull/49) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [refactor: allow custom version](https://github.com/importantimport/hatsu/pull/48) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [hatsu: init at 0.2.0](https://github.com/NixOS/nixpkgs/pull/320173) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
+- [feat(tracing): trace http response &amp; pretty](https://github.com/importantimport/hatsu/pull/49) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
+- [refactor: allow custom version](https://github.com/importantimport/hatsu/pull/48) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
+- [hatsu: init at 0.2.0](https://github.com/NixOS/nixpkgs/pull/320173) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 
 </details>
 <details>
@@ -54,7 +54,7 @@
 - [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (11 months ago)
 - [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (1 year ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (1 year ago)
-- [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (1 year ago)
+- [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (2 years ago)
 - [2022 总结](https://kwaa.dev/2023) (2 years ago)
 
 👉 read more at [./kwaa.dev](https://kwaa.dev)

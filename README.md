@@ -16,7 +16,7 @@
 
 
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. [maintainer=@kwaa] (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. [maintainer=@kwaa] (1 day ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
 - [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. [maintainer=@kwaa] (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
@@ -40,7 +40,7 @@
 
 
 - [hatsu: 0.2.0 -&gt; 0.2.1](https://github.com/NixOS/nixpkgs/pull/321487) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [Add Hatsu](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/759) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 week ago)
+- [Add Hatsu](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/759) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
 - [feat(tracing): trace http response &amp; pretty](https://github.com/importantimport/hatsu/pull/49) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
 - [refactor: allow custom version](https://github.com/importantimport/hatsu/pull/48) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
 - [hatsu: init at 0.2.0](https://github.com/NixOS/nixpkgs/pull/320173) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)

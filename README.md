@@ -16,10 +16,10 @@
 
 
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 day ago)
-- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (4 days ago)
-- [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net (5 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (today)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 day ago)
+- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 day ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: setup nix devShell](https://github.com/LemmyNet/activitypub-federation-rust/pull/115) on [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) (today)
+- [chore: add contrib files](https://github.com/importantimport/hatsu/pull/51) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
+- [Add hatsu](https://github.com/rust-unofficial/awesome-rust/pull/1756) on [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) (today)
+- [feat: setup nix devShell](https://github.com/LemmyNet/activitypub-federation-rust/pull/115) on [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) (1 day ago)
 - [hatsu: 0.2.0 -&gt; 0.2.1](https://github.com/NixOS/nixpkgs/pull/321487) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [Add Hatsu](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/759) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
-- [feat(tracing): trace http response &amp; pretty](https://github.com/importantimport/hatsu/pull/49) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
-- [refactor: allow custom version](https://github.com/importantimport/hatsu/pull/48) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
 
 </details>
 <details>

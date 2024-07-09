@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (today)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 day ago)
-- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (today)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [chore: add contrib files](https://github.com/importantimport/hatsu/pull/51) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
-- [Add hatsu](https://github.com/rust-unofficial/awesome-rust/pull/1756) on [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) (today)
-- [feat: setup nix devShell](https://github.com/LemmyNet/activitypub-federation-rust/pull/115) on [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) (1 day ago)
-- [hatsu: 0.2.0 -&gt; 0.2.1](https://github.com/NixOS/nixpkgs/pull/321487) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
-- [Add Hatsu](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/759) on [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (2 weeks ago)
+- [feat: new middleware `hatsu`](https://github.com/lumeland/lume/pull/632) on [lumeland/lume](https://github.com/lumeland/lume) (today)
+- [hatsu: 0.2.1 -&gt; 0.2.2](https://github.com/NixOS/nixpkgs/pull/325584) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [chore(deps): bump version](https://github.com/importantimport/hatsu/pull/53) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [refactor(utils/data): tips for missing env](https://github.com/importantimport/hatsu/pull/52) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [feat: new plugin `hatsu`](https://github.com/lumeland/lume/pull/631) on [lumeland/lume](https://github.com/lumeland/lume) (1 day ago)
 
 </details>
 <details>

@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol (3 days ago)
-- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (4 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (4 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol (4 days ago)
+- [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (5 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (5 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor!: use `rsa` instead of `openssl`](https://github.com/LemmyNet/activitypub-federation-rust/pull/116) on [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) (3 days ago)
-- [feat: new middleware `hatsu`](https://github.com/lumeland/lume/pull/632) on [lumeland/lume](https://github.com/lumeland/lume) (4 days ago)
-- [hatsu: 0.2.1 -&gt; 0.2.2](https://github.com/NixOS/nixpkgs/pull/325584) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
-- [chore(deps): bump version](https://github.com/importantimport/hatsu/pull/53) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
-- [refactor(utils/data): tips for missing env](https://github.com/importantimport/hatsu/pull/52) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
+- [refactor!: use `rsa` instead of `openssl`](https://github.com/LemmyNet/activitypub-federation-rust/pull/116) on [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) (4 days ago)
+- [feat: new middleware `hatsu`](https://github.com/lumeland/lume/pull/632) on [lumeland/lume](https://github.com/lumeland/lume) (5 days ago)
+- [hatsu: 0.2.1 -&gt; 0.2.2](https://github.com/NixOS/nixpkgs/pull/325584) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
+- [chore(deps): bump version](https://github.com/importantimport/hatsu/pull/53) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
+- [refactor(utils/data): tips for missing env](https://github.com/importantimport/hatsu/pull/52) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
 
 </details>
 <details>

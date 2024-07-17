@@ -15,11 +15,11 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) -  (1 day ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
 - [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol (1 day ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 day ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 days ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 days ago)
+- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) -  (2 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor: reduce use of unwrap](https://github.com/importantimport/hatsu/pull/54) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [chore(deps/reqwest): enable `rustls-tls` feature](https://github.com/LemmyNet/activitypub-federation-rust/pull/118) on [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) (1 day ago)
-- [refactor!: use rustls instead of native-tls](https://github.com/LemmyNet/lemmy/pull/4901) on [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) (1 day ago)
-- [refactor!: use `rsa` instead of `openssl`](https://github.com/LemmyNet/activitypub-federation-rust/pull/116) on [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) (6 days ago)
-- [feat: new middleware `redirect_as2`](https://github.com/lumeland/lume/pull/632) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
+- [refactor(flake): use `rust-overlay` instead of `fenix`](https://github.com/importantimport/hatsu/pull/57) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [refactor!: disable `snmalloc` feature by default](https://github.com/importantimport/hatsu/pull/56) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [refactor!: use rustls instead of openssl](https://github.com/importantimport/hatsu/pull/55) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [refactor: reduce use of unwrap](https://github.com/importantimport/hatsu/pull/54) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [chore(deps/reqwest): enable `rustls-tls` feature](https://github.com/LemmyNet/activitypub-federation-rust/pull/118) on [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) (2 days ago)
 
 </details>
 <details>
@@ -51,7 +51,7 @@
   <br/>
 
 
-- [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (11 months ago)
+- [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (1 year ago)
 - [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (1 year ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (1 year ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (2 years ago)

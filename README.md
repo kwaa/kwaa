@@ -15,11 +15,11 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
-- [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol (1 day ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (2 days ago)
-- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) -  (2 days ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (3 days ago)
+- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) -  (1 day ago)
+- [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol (2 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (3 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(flake): use `rust-overlay` instead of `fenix`](https://github.com/importantimport/hatsu/pull/57) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [refactor!: disable `snmalloc` feature by default](https://github.com/importantimport/hatsu/pull/56) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [refactor!: use rustls instead of openssl](https://github.com/importantimport/hatsu/pull/55) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [refactor: reduce use of unwrap](https://github.com/importantimport/hatsu/pull/54) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [chore(deps/reqwest): enable `rustls-tls` feature](https://github.com/LemmyNet/activitypub-federation-rust/pull/118) on [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) (2 days ago)
+- [refactor(flake): cross compiling &amp; improve checks](https://github.com/importantimport/hatsu/pull/58) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [refactor(flake): use `rust-overlay` instead of `fenix`](https://github.com/importantimport/hatsu/pull/57) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [refactor!: disable `snmalloc` feature by default](https://github.com/importantimport/hatsu/pull/56) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [refactor!: use rustls instead of openssl](https://github.com/importantimport/hatsu/pull/55) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [refactor: reduce use of unwrap](https://github.com/importantimport/hatsu/pull/54) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
 
 </details>
 <details>

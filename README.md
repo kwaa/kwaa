@@ -15,11 +15,11 @@
   <br/>
 
 
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
 - [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) -  (1 day ago)
-- [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol (3 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse (2 days ago)
+- [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol (4 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(flake): cross compiling &amp; improve checks](https://github.com/importantimport/hatsu/pull/58) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [refactor(flake): use `rust-overlay` instead of `fenix`](https://github.com/importantimport/hatsu/pull/57) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [refactor!: disable `snmalloc` feature by default](https://github.com/importantimport/hatsu/pull/56) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [refactor!: use rustls instead of openssl](https://github.com/importantimport/hatsu/pull/55) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [refactor: reduce use of unwrap](https://github.com/importantimport/hatsu/pull/54) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [refactor(flake): cross compiling &amp; improve checks](https://github.com/importantimport/hatsu/pull/58) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [refactor(flake): use `rust-overlay` instead of `fenix`](https://github.com/importantimport/hatsu/pull/57) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [refactor!: disable `snmalloc` feature by default](https://github.com/importantimport/hatsu/pull/56) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [refactor!: use rustls instead of openssl](https://github.com/importantimport/hatsu/pull/55) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [refactor: reduce use of unwrap](https://github.com/importantimport/hatsu/pull/54) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
 
 </details>
 <details>

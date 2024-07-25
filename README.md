@@ -15,10 +15,10 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) -  (5 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse (6 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) -  (6 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse (1 week ago)
 - [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol (1 week ago)
 
 </details>
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [refactor: use shutdown_signal instead of `tokio-graceful-shutdown`](https://github.com/importantimport/hatsu/pull/61) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [refactor!: use `apalis` instead of `tokio-cron-scheduler`](https://github.com/importantimport/hatsu/pull/60) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [chore(deps): bump version](https://github.com/importantimport/hatsu/pull/59) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [refactor: use shutdown_signal instead of `tokio-graceful-shutdown`](https://github.com/importantimport/hatsu/pull/61) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [refactor!: use `apalis` instead of `tokio-cron-scheduler`](https://github.com/importantimport/hatsu/pull/60) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [chore(deps): bump version](https://github.com/importantimport/hatsu/pull/59) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
 - [refactor(flake): cross compiling &amp; improve checks](https://github.com/importantimport/hatsu/pull/58) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [refactor(flake): use `rust-overlay` instead of `fenix`](https://github.com/importantimport/hatsu/pull/57) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 

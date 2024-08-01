@@ -15,10 +15,10 @@
   <br/>
 
 
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (today)
-- [importantimport/ssr](https://github.com/importantimport/ssr) -  (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
-- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) -  (4 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (1 day ago)
+- [importantimport/ssr](https://github.com/importantimport/ssr) -  (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
+- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) -  (5 days ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
 
 </details>
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [refactor!: use `activitypub-federation` fork](https://github.com/importantimport/hatsu/pull/62) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
-- [refactor: update dependencies](https://github.com/importantimport/activitypub-federation-rust/pull/2) on [importantimport/activitypub-federation-rust](https://github.com/importantimport/activitypub-federation-rust) (6 days ago)
-- [refactor!: remove `actix-web` feature](https://github.com/importantimport/activitypub-federation-rust/pull/1) on [importantimport/activitypub-federation-rust](https://github.com/importantimport/activitypub-federation-rust) (6 days ago)
-- [refactor!: remove actix-web feature](https://github.com/LemmyNet/activitypub-federation-rust/pull/122) on [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) (6 days ago)
+- [refactor!: use `activitypub-federation` fork](https://github.com/importantimport/hatsu/pull/62) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
+- [refactor: update dependencies](https://github.com/importantimport/activitypub-federation-rust/pull/2) on [importantimport/activitypub-federation-rust](https://github.com/importantimport/activitypub-federation-rust) (1 week ago)
+- [refactor!: remove `actix-web` feature](https://github.com/importantimport/activitypub-federation-rust/pull/1) on [importantimport/activitypub-federation-rust](https://github.com/importantimport/activitypub-federation-rust) (1 week ago)
+- [refactor!: remove actix-web feature](https://github.com/LemmyNet/activitypub-federation-rust/pull/122) on [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) (1 week ago)
 - [refactor: use shutdown_signal instead of `tokio-graceful-shutdown`](https://github.com/importantimport/hatsu/pull/61) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 
 </details>

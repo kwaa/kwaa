@@ -15,10 +15,10 @@
   <br/>
 
 
-- [importantimport/ssr](https://github.com/importantimport/ssr) -  (today)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
-- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) -  (6 days ago)
+- [importantimport/ssr](https://github.com/importantimport/ssr) -  (1 day ago)
+- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) - A series of incomplete WebXR experiences. (1 day ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
 
 </details>

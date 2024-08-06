@@ -15,11 +15,11 @@
   <br/>
 
 
-- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (today)
-- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) - A series of incomplete WebXR experiences. (1 day ago)
-- [importantimport/ssr](https://github.com/importantimport/ssr) -  (3 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (5 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (1 day ago)
+- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) - A series of incomplete WebXR experiences. (2 days ago)
+- [importantimport/ssr](https://github.com/importantimport/ssr) -  (4 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
+- [fix(preset-web-fonts): named export](https://github.com/unocss/unocss/pull/4053) on [unocss/unocss](https://github.com/unocss/unocss) (1 day ago)
 - [refactor!: use `activitypub-federation` fork](https://github.com/importantimport/hatsu/pull/62) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [refactor: update dependencies](https://github.com/importantimport/activitypub-federation-rust/pull/2) on [importantimport/activitypub-federation-rust](https://github.com/importantimport/activitypub-federation-rust) (1 week ago)
 - [refactor!: remove `actix-web` feature](https://github.com/importantimport/activitypub-federation-rust/pull/1) on [importantimport/activitypub-federation-rust](https://github.com/importantimport/activitypub-federation-rust) (1 week ago)
 - [refactor!: remove actix-web feature](https://github.com/LemmyNet/activitypub-federation-rust/pull/122) on [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) (1 week ago)
-- [refactor: use shutdown_signal instead of `tokio-graceful-shutdown`](https://github.com/importantimport/hatsu/pull/61) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 
 </details>
 <details>

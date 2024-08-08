@@ -15,11 +15,11 @@
   <br/>
 
 
-- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) - A series of incomplete WebXR experiences. (3 days ago)
-- [importantimport/ssr](https://github.com/importantimport/ssr) -  (5 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (1 week ago)
+- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (today)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
+- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) - A series of incomplete WebXR experiences. (4 days ago)
+- [importantimport/ssr](https://github.com/importantimport/ssr) -  (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(plugins): named export](https://github.com/lumeland/lume/pull/639) on [lumeland/lume](https://github.com/lumeland/lume) (today)
-- [fix(preset-web-fonts): named export](https://github.com/unocss/unocss/pull/4053) on [unocss/unocss](https://github.com/unocss/unocss) (2 days ago)
+- [refactor(middlewares): named export](https://github.com/lumeland/lume/pull/640) on [lumeland/lume](https://github.com/lumeland/lume) (1 day ago)
+- [refactor(plugins): named export](https://github.com/lumeland/lume/pull/639) on [lumeland/lume](https://github.com/lumeland/lume) (1 day ago)
+- [fix(preset-web-fonts): named export](https://github.com/unocss/unocss/pull/4053) on [unocss/unocss](https://github.com/unocss/unocss) (3 days ago)
 - [refactor!: use `activitypub-federation` fork](https://github.com/importantimport/hatsu/pull/62) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [refactor: update dependencies](https://github.com/importantimport/activitypub-federation-rust/pull/2) on [importantimport/activitypub-federation-rust](https://github.com/importantimport/activitypub-federation-rust) (1 week ago)
-- [refactor!: remove `actix-web` feature](https://github.com/importantimport/activitypub-federation-rust/pull/1) on [importantimport/activitypub-federation-rust](https://github.com/importantimport/activitypub-federation-rust) (1 week ago)
+- [refactor: update dependencies](https://github.com/importantimport/activitypub-federation-rust/pull/2) on [importantimport/activitypub-federation-rust](https://github.com/importantimport/activitypub-federation-rust) (2 weeks ago)
 
 </details>
 <details>

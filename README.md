@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (today)
-- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (1 day ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 day ago)
-- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (2 days ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (3 days ago)
+- [importantimport/ssr](https://github.com/importantimport/ssr) -  (today)
+- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (today)
+- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (1 day ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 day ago)
+- [moeru-ai/easiest](https://github.com/moeru-ai/easiest) - Easy-to-use SillyTavern Starter, based on Docker Compose. (2 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(middlewares): named export](https://github.com/lumeland/lume/pull/640) on [lumeland/lume](https://github.com/lumeland/lume) (3 days ago)
-- [refactor(plugins): named export](https://github.com/lumeland/lume/pull/639) on [lumeland/lume](https://github.com/lumeland/lume) (3 days ago)
-- [fix(preset-web-fonts): named export](https://github.com/unocss/unocss/pull/4053) on [unocss/unocss](https://github.com/unocss/unocss) (5 days ago)
-- [refactor!: use `activitypub-federation` fork](https://github.com/importantimport/hatsu/pull/62) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
-- [refactor: update dependencies](https://github.com/importantimport/activitypub-federation-rust/pull/2) on [importantimport/activitypub-federation-rust](https://github.com/importantimport/activitypub-federation-rust) (2 weeks ago)
+- [chore: use importantimport eslint config](https://github.com/zeitdose/zeitdose/pull/4) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (1 day ago)
+- [chore: use importantimport tsconfig](https://github.com/zeitdose/zeitdose/pull/3) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (1 day ago)
+- [refactor(middlewares): named export](https://github.com/lumeland/lume/pull/640) on [lumeland/lume](https://github.com/lumeland/lume) (4 days ago)
+- [refactor(plugins): named export](https://github.com/lumeland/lume/pull/639) on [lumeland/lume](https://github.com/lumeland/lume) (4 days ago)
+- [fix(preset-web-fonts): named export](https://github.com/unocss/unocss/pull/4053) on [unocss/unocss](https://github.com/unocss/unocss) (6 days ago)
 
 </details>
 <details>

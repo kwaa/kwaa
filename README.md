@@ -15,11 +15,11 @@
   <br/>
 
 
-- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (1 day ago)
-- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (2 days ago)
-- [importantimport/ssr](https://github.com/importantimport/ssr) -  (3 days ago)
-- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (3 days ago)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (4 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (2 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (3 days ago)
+- [importantimport/ssr](https://github.com/importantimport/ssr) -  (4 days ago)
+- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (4 days ago)
 
 </details>
 <details>
@@ -39,8 +39,8 @@
   <br/>
 
 
-- [chore: use importantimport eslint config](https://github.com/zeitdose/zeitdose/pull/4) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (4 days ago)
-- [chore: use importantimport tsconfig](https://github.com/zeitdose/zeitdose/pull/3) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (4 days ago)
+- [chore: use importantimport eslint config](https://github.com/zeitdose/zeitdose/pull/4) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (5 days ago)
+- [chore: use importantimport tsconfig](https://github.com/zeitdose/zeitdose/pull/3) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (5 days ago)
 - [refactor(middlewares): named export](https://github.com/lumeland/lume/pull/640) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
 - [refactor(plugins): named export](https://github.com/lumeland/lume/pull/639) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
 - [fix(preset-web-fonts): named export](https://github.com/unocss/unocss/pull/4053) on [unocss/unocss](https://github.com/unocss/unocss) (1 week ago)
@@ -53,7 +53,7 @@
 
 - [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (1 year ago)
 - [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (1 year ago)
-- [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (1 year ago)
+- [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (2 years ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (2 years ago)
 - [2022 总结](https://kwaa.dev/2023) (2 years ago)
 

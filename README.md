@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (4 days ago)
-- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (5 days ago)
-- [importantimport/ssr](https://github.com/importantimport/ssr) -  (6 days ago)
+- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (today)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 day ago)
+- [importantimport/ssr](https://github.com/importantimport/ssr) -  (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (6 days ago)
 
 </details>
 <details>

@@ -15,10 +15,10 @@
   <br/>
 
 
-- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (today)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (3 days ago)
-- [importantimport/ssr](https://github.com/importantimport/ssr) -  (3 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
+- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (1 day ago)
+- [importantimport/ssr](https://github.com/importantimport/ssr) -  (4 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (4 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (1 week ago)
 
 </details>
@@ -41,8 +41,8 @@
 
 - [chore: use importantimport eslint config](https://github.com/zeitdose/zeitdose/pull/4) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (1 week ago)
 - [chore: use importantimport tsconfig](https://github.com/zeitdose/zeitdose/pull/3) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (1 week ago)
-- [refactor(middlewares): named export](https://github.com/lumeland/lume/pull/640) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
-- [refactor(plugins): named export](https://github.com/lumeland/lume/pull/639) on [lumeland/lume](https://github.com/lumeland/lume) (1 week ago)
+- [refactor(middlewares): named export](https://github.com/lumeland/lume/pull/640) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)
+- [refactor(plugins): named export](https://github.com/lumeland/lume/pull/639) on [lumeland/lume](https://github.com/lumeland/lume) (2 weeks ago)
 - [fix(preset-web-fonts): named export](https://github.com/unocss/unocss/pull/4053) on [unocss/unocss](https://github.com/unocss/unocss) (2 weeks ago)
 
 </details>

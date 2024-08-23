@@ -15,11 +15,11 @@
   <br/>
 
 
-- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (today)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (1 day ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (5 days ago)
-- [importantimport/ssr](https://github.com/importantimport/ssr) -  (5 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
+- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (1 day ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (2 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (6 days ago)
+- [importantimport/ssr](https://github.com/importantimport/ssr) -  (6 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
 </details>
 <details>

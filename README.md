@@ -15,11 +15,11 @@
   <br/>
 
 
-- [importantimport/package-json](https://github.com/importantimport/package-json) -  (today)
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (3 days ago)
-- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (6 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [importantimport/package-json](https://github.com/importantimport/package-json) -  (1 day ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (1 day ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (4 days ago)
+- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (1 week ago)
 
 </details>
 <details>
@@ -39,8 +39,8 @@
   <br/>
 
 
-- [chore: use importantimport eslint config](https://github.com/zeitdose/zeitdose/pull/4) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (2 weeks ago)
-- [chore: use importantimport tsconfig](https://github.com/zeitdose/zeitdose/pull/3) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (2 weeks ago)
+- [chore: use importantimport eslint config](https://github.com/zeitdose/zeitdose/pull/4) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (3 weeks ago)
+- [chore: use importantimport tsconfig](https://github.com/zeitdose/zeitdose/pull/3) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (3 weeks ago)
 - [refactor(middlewares): named export](https://github.com/lumeland/lume/pull/640) on [lumeland/lume](https://github.com/lumeland/lume) (3 weeks ago)
 - [refactor(plugins): named export](https://github.com/lumeland/lume/pull/639) on [lumeland/lume](https://github.com/lumeland/lume) (3 weeks ago)
 - [fix(preset-web-fonts): named export](https://github.com/unocss/unocss/pull/4053) on [unocss/unocss](https://github.com/unocss/unocss) (3 weeks ago)

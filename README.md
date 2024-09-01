@@ -15,10 +15,10 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [importantimport/package-json](https://github.com/importantimport/package-json) -  (1 day ago)
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (1 day ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (4 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [importantimport/package-json](https://github.com/importantimport/package-json) -  (2 days ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (2 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (5 days ago)
 - [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (1 week ago)
 
 </details>

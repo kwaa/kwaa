@@ -15,11 +15,11 @@
   <br/>
 
 
-- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (today)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [Polaris] (today)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (4 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [Polaris] (1 day ago)
+- [importantimport/ulala](https://github.com/importantimport/ulala) -  (1 day ago)
+- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (1 day ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (2 days ago)
 
 </details>
 <details>
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [refactor(eslint): use importantimport config](https://github.com/importantimport/urara/pull/82) on [importantimport/urara](https://github.com/importantimport/urara) (today)
+- [refactor(eslint): use importantimport config](https://github.com/importantimport/urara/pull/82) on [importantimport/urara](https://github.com/importantimport/urara) (1 day ago)
 - [chore: use importantimport eslint config](https://github.com/zeitdose/zeitdose/pull/4) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (1 month ago)
 - [chore: use importantimport tsconfig](https://github.com/zeitdose/zeitdose/pull/3) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (1 month ago)
 - [refactor(middlewares): named export](https://github.com/lumeland/lume/pull/640) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)

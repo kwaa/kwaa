@@ -16,10 +16,10 @@
 
 
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [Polaris] (2 days ago)
-- [importantimport/ulala](https://github.com/importantimport/ulala) -  (2 days ago)
-- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (2 days ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (3 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [Polaris] (3 days ago)
+- [importantimport/ulala](https://github.com/importantimport/ulala) -  (3 days ago)
+- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (3 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor: upgrade sea-orm to v1](https://github.com/importantimport/hatsu/pull/63) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
-- [refactor(eslint): use importantimport config](https://github.com/importantimport/urara/pull/82) on [importantimport/urara](https://github.com/importantimport/urara) (2 days ago)
+- [fix(migration/user_feed): fix alter table](https://github.com/importantimport/hatsu/pull/64) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
+- [refactor: upgrade sea-orm to v1](https://github.com/importantimport/hatsu/pull/63) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [refactor(eslint): use importantimport config](https://github.com/importantimport/urara/pull/82) on [importantimport/urara](https://github.com/importantimport/urara) (3 days ago)
 - [chore: use importantimport eslint config](https://github.com/zeitdose/zeitdose/pull/4) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (1 month ago)
 - [chore: use importantimport tsconfig](https://github.com/zeitdose/zeitdose/pull/3) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (1 month ago)
-- [refactor(middlewares): named export](https://github.com/lumeland/lume/pull/640) on [lumeland/lume](https://github.com/lumeland/lume) (1 month ago)
 
 </details>
 <details>

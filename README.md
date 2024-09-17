@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/hw](https://github.com/sn0wm1x/hw) -  (today)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 day ago)
-- [importantimport/ulala](https://github.com/importantimport/ulala) -  (5 days ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [Polaris] (5 days ago)
+- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (today)
+- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (1 day ago)
+- [sn0wm1x/hw](https://github.com/sn0wm1x/hw) -  (1 day ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (2 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
 
 </details>
 <details>
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [refactor!: upgrade utoipa to v5](https://github.com/importantimport/hatsu/pull/65) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [fix(migration/user_feed): fix alter table](https://github.com/importantimport/hatsu/pull/64) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [refactor: upgrade sea-orm to v1](https://github.com/importantimport/hatsu/pull/63) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [refactor(eslint): use importantimport config](https://github.com/importantimport/urara/pull/82) on [importantimport/urara](https://github.com/importantimport/urara) (5 days ago)
+- [refactor!: upgrade utoipa to v5](https://github.com/importantimport/hatsu/pull/65) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [fix(migration/user_feed): fix alter table](https://github.com/importantimport/hatsu/pull/64) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [refactor: upgrade sea-orm to v1](https://github.com/importantimport/hatsu/pull/63) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [refactor(eslint): use importantimport config](https://github.com/importantimport/urara/pull/82) on [importantimport/urara](https://github.com/importantimport/urara) (6 days ago)
 - [chore: use importantimport eslint config](https://github.com/zeitdose/zeitdose/pull/4) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (1 month ago)
 
 </details>

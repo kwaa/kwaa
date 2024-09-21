@@ -16,10 +16,10 @@
 
 
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (2 days ago)
-- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (3 days ago)
-- [sn0wm1x/hw](https://github.com/sn0wm1x/hw) -  (3 days ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (5 days ago)
+- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (3 days ago)
+- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (4 days ago)
+- [sn0wm1x/hw](https://github.com/sn0wm1x/hw) -  (4 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor!: upgrade utoipa to v5](https://github.com/importantimport/hatsu/pull/65) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
-- [fix(migration/user_feed): fix alter table](https://github.com/importantimport/hatsu/pull/64) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
+- [fix(overlay): remove `gnome` scope &amp; bump to `46-mobile.1`](https://github.com/chuangzhu/nixpkgs-gnome-mobile/pull/4) on [chuangzhu/nixpkgs-gnome-mobile](https://github.com/chuangzhu/nixpkgs-gnome-mobile) (today)
+- [cloud-utils: 0.32 -&gt; 0.33](https://github.com/NixOS/nixpkgs/pull/343424) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [refactor!: upgrade utoipa to v5](https://github.com/importantimport/hatsu/pull/65) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
+- [fix(migration/user_feed): fix alter table](https://github.com/importantimport/hatsu/pull/64) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [refactor: upgrade sea-orm to v1](https://github.com/importantimport/hatsu/pull/63) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [refactor(eslint): use importantimport config](https://github.com/importantimport/urara/pull/82) on [importantimport/urara](https://github.com/importantimport/urara) (1 week ago)
-- [chore: use importantimport eslint config](https://github.com/zeitdose/zeitdose/pull/4) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (1 month ago)
 
 </details>
 <details>

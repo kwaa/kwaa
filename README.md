@@ -15,11 +15,11 @@
   <br/>
 
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (5 days ago)
-- [importantimport/kkna](https://github.com/importantimport/kkna) - 💯 All-in-One, Easy-to-Use Comment Component. (6 days ago)
-- [sn0wm1x/hw](https://github.com/sn0wm1x/hw) -  (6 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
+- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (6 days ago)
+- [sn0wm1x/hw](https://github.com/sn0wm1x/hw) -  (1 week ago)
 
 </details>
 <details>
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [feat: block instances and actors](https://github.com/importantimport/hatsu/pull/67) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [fix(overlay): remove `gnome` scope &amp; bump to `46-mobile.1`](https://github.com/chuangzhu/nixpkgs-gnome-mobile/pull/4) on [chuangzhu/nixpkgs-gnome-mobile](https://github.com/chuangzhu/nixpkgs-gnome-mobile) (2 days ago)
-- [cloud-utils: 0.32 -&gt; 0.33](https://github.com/NixOS/nixpkgs/pull/343424) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [feat: block instances and actors](https://github.com/importantimport/hatsu/pull/67) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [fix(overlay): remove `gnome` scope &amp; bump to `46-mobile.1`](https://github.com/chuangzhu/nixpkgs-gnome-mobile/pull/4) on [chuangzhu/nixpkgs-gnome-mobile](https://github.com/chuangzhu/nixpkgs-gnome-mobile) (3 days ago)
+- [cloud-utils: 0.32 -&gt; 0.33](https://github.com/NixOS/nixpkgs/pull/343424) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
 - [refactor!: upgrade utoipa to v5](https://github.com/importantimport/hatsu/pull/65) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [fix(migration/user_feed): fix alter table](https://github.com/importantimport/hatsu/pull/64) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 

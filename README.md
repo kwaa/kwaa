@@ -16,10 +16,10 @@
 
 
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (3 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (6 days ago)
-- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (1 week ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (4 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [fix(apub/verify_blocked): check actor instead of id](https://github.com/importantimport/hatsu/pull/70) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
-- [refactor(api_admin)!: use query instead of body](https://github.com/importantimport/hatsu/pull/69) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [docs: add block api](https://github.com/importantimport/hatsu/pull/68) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [feat: block instances and actors](https://github.com/importantimport/hatsu/pull/67) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
-- [fix(overlay): remove `gnome` scope &amp; bump to `46-mobile.1`](https://github.com/chuangzhu/nixpkgs-gnome-mobile/pull/4) on [chuangzhu/nixpkgs-gnome-mobile](https://github.com/chuangzhu/nixpkgs-gnome-mobile) (6 days ago)
+- [refactor(utils/error): use uuid v7](https://github.com/importantimport/hatsu/pull/72) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
+- [refactor(api_apub): update openapi docs](https://github.com/importantimport/hatsu/pull/71) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
+- [fix(apub/verify_blocked): check actor instead of id](https://github.com/importantimport/hatsu/pull/70) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [refactor(api_admin)!: use query instead of body](https://github.com/importantimport/hatsu/pull/69) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [docs: add block api](https://github.com/importantimport/hatsu/pull/68) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
 
 </details>
 <details>

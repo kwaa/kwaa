@@ -15,10 +15,10 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (1 day ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (4 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 day ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (2 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(utils/error): use uuid v7](https://github.com/importantimport/hatsu/pull/72) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
-- [refactor(api_apub): update openapi docs](https://github.com/importantimport/hatsu/pull/71) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
-- [fix(apub/verify_blocked): check actor instead of id](https://github.com/importantimport/hatsu/pull/70) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [refactor(api_admin)!: use query instead of body](https://github.com/importantimport/hatsu/pull/69) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [docs: add block api](https://github.com/importantimport/hatsu/pull/68) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [nixos/hatsu: init module](https://github.com/NixOS/nixpkgs/pull/345102) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [refactor(utils/error): use uuid v7](https://github.com/importantimport/hatsu/pull/72) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [refactor(api_apub): update openapi docs](https://github.com/importantimport/hatsu/pull/71) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [fix(apub/verify_blocked): check actor instead of id](https://github.com/importantimport/hatsu/pull/70) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [refactor(api_admin)!: use query instead of body](https://github.com/importantimport/hatsu/pull/69) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
 
 </details>
 <details>

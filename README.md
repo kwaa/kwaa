@@ -15,11 +15,11 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (3 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 day ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [nixos/hatsu: init module](https://github.com/NixOS/nixpkgs/pull/345102) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [refactor(utils/error): use uuid v7](https://github.com/importantimport/hatsu/pull/72) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [refactor(api_apub): update openapi docs](https://github.com/importantimport/hatsu/pull/71) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [fix(apub/verify_blocked): check actor instead of id](https://github.com/importantimport/hatsu/pull/70) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [refactor(api_admin)!: use query instead of body](https://github.com/importantimport/hatsu/pull/69) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [nixos/hatsu: init module](https://github.com/NixOS/nixpkgs/pull/345102) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [refactor(utils/error): use uuid v7](https://github.com/importantimport/hatsu/pull/72) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [refactor(api_apub): update openapi docs](https://github.com/importantimport/hatsu/pull/71) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [fix(apub/verify_blocked): check actor instead of id](https://github.com/importantimport/hatsu/pull/70) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [refactor(api_admin)!: use query instead of body](https://github.com/importantimport/hatsu/pull/69) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
 
 </details>
 <details>
@@ -52,7 +52,7 @@
 
 
 - [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (1 year ago)
-- [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (1 year ago)
+- [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (2 years ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (2 years ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (2 years ago)
 - [2022 总结](https://kwaa.dev/2023) (2 years ago)

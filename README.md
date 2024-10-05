@@ -15,11 +15,11 @@
   <br/>
 
 
-- [importantimport/mikumikumixed](https://github.com/importantimport/mikumikumixed) - 🎼 Experimental WebXR MMD Viewer (1 day ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (2 days ago)
-- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) - A series of incomplete WebXR experiences. (2 days ago)
+- [importantimport/mikumikumixed](https://github.com/importantimport/mikumikumixed) - 🎼 Experimental WebXR MMD Viewer (today)
+- [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber (today)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (2 days ago)
+- [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) - A series of incomplete WebXR experiences. (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [nixos/hatsu: init module](https://github.com/NixOS/nixpkgs/pull/345102) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
-- [refactor(utils/error): use uuid v7](https://github.com/importantimport/hatsu/pull/72) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
-- [refactor(api_apub): update openapi docs](https://github.com/importantimport/hatsu/pull/71) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
+- [docs: fix broken links](https://github.com/pmndrs/uikit/pull/126) on [pmndrs/uikit](https://github.com/pmndrs/uikit) (today)
+- [nixos/hatsu: init module](https://github.com/NixOS/nixpkgs/pull/345102) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
+- [refactor(utils/error): use uuid v7](https://github.com/importantimport/hatsu/pull/72) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
+- [refactor(api_apub): update openapi docs](https://github.com/importantimport/hatsu/pull/71) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [fix(apub/verify_blocked): check actor instead of id](https://github.com/importantimport/hatsu/pull/70) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [refactor(api_admin)!: use query instead of body](https://github.com/importantimport/hatsu/pull/69) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 
 </details>
 <details>

@@ -15,8 +15,8 @@
   <br/>
 
 
-- [importantimport/mikumikumixed](https://github.com/importantimport/mikumikumixed) - 🎼 Experimental WebXR MMD Viewer (4 days ago)
-- [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber (5 days ago)
+- [importantimport/mikumikumixed](https://github.com/importantimport/mikumikumixed) - 🎼 Experimental WebXR MMD Viewer (5 days ago)
+- [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber (6 days ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [importantimport/mixed.lab](https://github.com/importantimport/mixed.lab) - A series of incomplete WebXR experiences. (1 week ago)
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [docs: fix broken links](https://github.com/pmndrs/uikit/pull/126) on [pmndrs/uikit](https://github.com/pmndrs/uikit) (5 days ago)
+- [docs: fix broken links](https://github.com/pmndrs/uikit/pull/126) on [pmndrs/uikit](https://github.com/pmndrs/uikit) (6 days ago)
 - [nixos/hatsu: init module](https://github.com/NixOS/nixpkgs/pull/345102) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [refactor(utils/error): use uuid v7](https://github.com/importantimport/hatsu/pull/72) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [refactor(api_apub): update openapi docs](https://github.com/importantimport/hatsu/pull/71) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [fix(apub/verify_blocked): check actor instead of id](https://github.com/importantimport/hatsu/pull/70) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
+- [fix(apub/verify_blocked): check actor instead of id](https://github.com/importantimport/hatsu/pull/70) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
 
 </details>
 <details>

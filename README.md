@@ -15,10 +15,10 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
 - [importantimport/mikumikumixed](https://github.com/importantimport/mikumikumixed) - 🎼 Experimental WebXR MMD Viewer (1 week ago)
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber (1 week ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (2 weeks ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 weeks ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [fix(db): remove unique](https://github.com/importantimport/hatsu/pull/75) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [chore!: no longer require x86-64-v3](https://github.com/importantimport/hatsu/pull/76) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
+- [fix(db): remove unique](https://github.com/importantimport/hatsu/pull/75) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
 - [docs: fix broken links](https://github.com/pmndrs/uikit/pull/126) on [pmndrs/uikit](https://github.com/pmndrs/uikit) (1 week ago)
 - [nixos/hatsu: init module](https://github.com/NixOS/nixpkgs/pull/345102) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [refactor(utils/error): use uuid v7](https://github.com/importantimport/hatsu/pull/72) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
-- [refactor(api_apub): update openapi docs](https://github.com/importantimport/hatsu/pull/71) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
 
 </details>
 <details>

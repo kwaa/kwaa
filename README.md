@@ -16,8 +16,8 @@
 
 
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
-- [importantimport/mikumikumixed](https://github.com/importantimport/mikumikumixed) - 🎼 Experimental WebXR MMD Viewer (1 week ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (3 days ago)
+- [importantimport/mikumikumixed](https://github.com/importantimport/mikumikumixed) - 🎼 Experimental WebXR MMD Viewer (2 weeks ago)
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber (2 weeks ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (2 weeks ago)
 
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [feat!: use clap](https://github.com/importantimport/hatsu/pull/77) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [chore!: no longer require x86-64-v3](https://github.com/importantimport/hatsu/pull/76) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [fix(db): remove unique](https://github.com/importantimport/hatsu/pull/75) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [feat!: use clap](https://github.com/importantimport/hatsu/pull/77) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [chore!: no longer require x86-64-v3](https://github.com/importantimport/hatsu/pull/76) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
+- [fix(db): remove unique](https://github.com/importantimport/hatsu/pull/75) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
 - [docs: fix broken links](https://github.com/pmndrs/uikit/pull/126) on [pmndrs/uikit](https://github.com/pmndrs/uikit) (2 weeks ago)
 - [nixos/hatsu: init module](https://github.com/NixOS/nixpkgs/pull/345102) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
 

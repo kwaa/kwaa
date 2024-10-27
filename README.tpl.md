@@ -77,3 +77,5 @@ gpg --keyserver hkps://keys.openpgp.org --recv-keys 4444777733334444
 ```
 
 </details>
+
+![sponsors](https://github.com/kwaa/sponsors/blob/main/public/sponsors.svg?raw=true)

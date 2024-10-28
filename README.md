@@ -15,11 +15,11 @@
   <br/>
 
 
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (today)
-- [moeru-ai/L3.1-Moe](https://github.com/moeru-ai/L3.1-Moe) - Mixture of Experts (MoE) made with mergekit-moe. (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 day ago)
+- [moeru-ai/L3.1-Moe](https://github.com/moeru-ai/L3.1-Moe) - Mixture of Experts (MoE) made with mergekit-moe. (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
 
 </details>
 <details>

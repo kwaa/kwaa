@@ -15,10 +15,10 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 day ago)
-- [moeru-ai/L3.1-Moe](https://github.com/moeru-ai/L3.1-Moe) - Mixture of Experts (MoE) made with mergekit-moe. (3 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 days ago)
+- [moeru-ai/L3.1-Moe](https://github.com/moeru-ai/L3.1-Moe) - Mixture of Experts (MoE) made with mergekit-moe. (4 days ago)
 - [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) - ❄️ Material 3-inspired Lume Blog Theme. [WIP] (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
+- [feat: support content map](https://github.com/importantimport/hatsu/pull/79) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
 - [fix: update cms for lume 2.3](https://github.com/importantimport/lume_theme_shiraha/pull/4) on [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) (1 week ago)
 - [feat!: use clap](https://github.com/importantimport/hatsu/pull/77) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [chore!: no longer require x86-64-v3](https://github.com/importantimport/hatsu/pull/76) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [fix(db): remove unique](https://github.com/importantimport/hatsu/pull/75) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [docs: fix broken links](https://github.com/pmndrs/uikit/pull/126) on [pmndrs/uikit](https://github.com/pmndrs/uikit) (3 weeks ago)
+- [fix(db): remove unique](https://github.com/importantimport/hatsu/pull/75) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
 
 </details>
 <details>

@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (3 days ago)
-- [moeru-ai/L3.1-Moe](https://github.com/moeru-ai/L3.1-Moe) - Mixture of Experts (MoE) made with mergekit-moe. (5 days ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (1 day ago)
+- [moeru-ai/L3.1-Moe](https://github.com/moeru-ai/L3.1-Moe) - Mixture of Experts (MoE) made with mergekit-moe. (1 day ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (4 days ago)
 
 </details>
 <details>
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [feat: support content map](https://github.com/importantimport/hatsu/pull/79) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [feat: support content map](https://github.com/importantimport/hatsu/pull/79) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
 - [fix: update cms for lume 2.3](https://github.com/importantimport/lume_theme_shiraha/pull/4) on [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) (1 week ago)
-- [feat!: use clap](https://github.com/importantimport/hatsu/pull/77) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [chore!: no longer require x86-64-v3](https://github.com/importantimport/hatsu/pull/76) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
+- [feat!: use clap](https://github.com/importantimport/hatsu/pull/77) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
+- [chore!: no longer require x86-64-v3](https://github.com/importantimport/hatsu/pull/76) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
 - [fix(db): remove unique](https://github.com/importantimport/hatsu/pull/75) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
 
 </details>

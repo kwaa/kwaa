@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
-- [geofmureithi/apalis](https://github.com/geofmureithi/apalis) - Simple, extensible multithreaded background job and message processing library for Rust  (5 days ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (5 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (6 days ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
+- [geofmureithi/apalis](https://github.com/geofmureithi/apalis) - Simple, extensible multithreaded background job and message processing library for Rust  (6 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (6 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [docs: add hatsu to projects](https://github.com/geofmureithi/apalis/pull/440) on [geofmureithi/apalis](https://github.com/geofmureithi/apalis) (6 days ago)
+- [docs: add hatsu to projects](https://github.com/geofmureithi/apalis/pull/440) on [geofmureithi/apalis](https://github.com/geofmureithi/apalis) (1 week ago)
 - [feat: support content map](https://github.com/importantimport/hatsu/pull/79) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [fix: update cms for lume 2.3](https://github.com/importantimport/lume_theme_shiraha/pull/4) on [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) (2 weeks ago)
-- [feat!: use clap](https://github.com/importantimport/hatsu/pull/77) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
-- [chore!: no longer require x86-64-v3](https://github.com/importantimport/hatsu/pull/76) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
+- [feat!: use clap](https://github.com/importantimport/hatsu/pull/77) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
+- [chore!: no longer require x86-64-v3](https://github.com/importantimport/hatsu/pull/76) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
 
 </details>
 <details>

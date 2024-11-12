@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (1 day ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (2 days ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
 - [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 week ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
-- [geofmureithi/apalis](https://github.com/geofmureithi/apalis) - Simple, extensible multithreaded background job and message processing library for Rust  (1 week ago)
 
 </details>
 <details>
@@ -39,8 +39,8 @@
   <br/>
 
 
-- [refactor: make `whatwg-fetch` optional](https://github.com/ollama/ollama-js/pull/160) on [ollama/ollama-js](https://github.com/ollama/ollama-js) (1 day ago)
-- [hatsu: 0.2.2 -&gt; 0.3.0](https://github.com/NixOS/nixpkgs/pull/354408) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [refactor: make `whatwg-fetch` optional](https://github.com/ollama/ollama-js/pull/160) on [ollama/ollama-js](https://github.com/ollama/ollama-js) (2 days ago)
+- [hatsu: 0.2.2 -&gt; 0.3.0](https://github.com/NixOS/nixpkgs/pull/354408) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
 - [docs: add hatsu to projects](https://github.com/geofmureithi/apalis/pull/440) on [geofmureithi/apalis](https://github.com/geofmureithi/apalis) (1 week ago)
 - [feat: support content map](https://github.com/importantimport/hatsu/pull/79) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
 - [fix: update cms for lume 2.3](https://github.com/importantimport/lume_theme_shiraha/pull/4) on [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) (3 weeks ago)

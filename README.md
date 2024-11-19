@@ -15,9 +15,9 @@
   <br/>
 
 
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (5 days ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (6 days ago)
 - [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (1 week ago)
 - [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 week ago)
 
@@ -43,7 +43,7 @@
 - [hatsu: 0.2.2 -&gt; 0.3.0](https://github.com/NixOS/nixpkgs/pull/354408) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [docs: add hatsu to projects](https://github.com/geofmureithi/apalis/pull/440) on [geofmureithi/apalis](https://github.com/geofmureithi/apalis) (2 weeks ago)
 - [feat: support content map](https://github.com/importantimport/hatsu/pull/79) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 weeks ago)
-- [fix: update cms for lume 2.3](https://github.com/importantimport/lume_theme_shiraha/pull/4) on [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) (4 weeks ago)
+- [fix: update cms for lume 2.3](https://github.com/importantimport/lume_theme_shiraha/pull/4) on [importantimport/lume_theme_shiraha](https://github.com/importantimport/lume_theme_shiraha) (1 month ago)
 
 </details>
 <details>

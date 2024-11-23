@@ -16,7 +16,7 @@
 
 
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 Extra-small AI SDK for any OpenAI-compatible API. (today)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (2 days ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (3 days ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
 - [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (1 week ago)

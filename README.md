@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 Extra-small AI SDK for any OpenAI-compatible API. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (6 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 Ollama as your translator, with DeepLX-compatible API. (2 weeks ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 Extra-small AI SDK for any OpenAI-compatible API. (2 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 week ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor: remove rustdoc bot](https://github.com/g-plane/rustevalbot/pull/1) on [g-plane/rustevalbot](https://github.com/g-plane/rustevalbot) (1 day ago)
+- [refactor: remove rustdoc bot](https://github.com/g-plane/rustevalbot/pull/1) on [g-plane/rustevalbot](https://github.com/g-plane/rustevalbot) (2 days ago)
 - [refactor: make `whatwg-fetch` optional](https://github.com/ollama/ollama-js/pull/160) on [ollama/ollama-js](https://github.com/ollama/ollama-js) (2 weeks ago)
 - [hatsu: 0.2.2 -&gt; 0.3.0](https://github.com/NixOS/nixpkgs/pull/354408) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [docs: add hatsu to projects](https://github.com/geofmureithi/apalis/pull/440) on [geofmureithi/apalis](https://github.com/geofmureithi/apalis) (3 weeks ago)
-- [feat: support content map](https://github.com/importantimport/hatsu/pull/79) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 weeks ago)
+- [feat: support content map](https://github.com/importantimport/hatsu/pull/79) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 month ago)
 
 </details>
 <details>

@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for any OpenAI-compatible API. (2 days ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (3 days ago)
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (5 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 week ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for any OpenAI-compatible API. (1 day ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (4 days ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (6 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: frontend](https://github.com/importantimport/hatsu/pull/83) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (today)
-- [xsai.js.org](https://github.com/js-org/js.org/pull/9416) on [js-org/js.org](https://github.com/js-org/js.org) (3 days ago)
-- [refactor: remove rustdoc bot](https://github.com/g-plane/rustevalbot/pull/1) on [g-plane/rustevalbot](https://github.com/g-plane/rustevalbot) (6 days ago)
+- [fix!: remove todo macro](https://github.com/importantimport/hatsu/pull/84) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [feat: basic frontend](https://github.com/importantimport/hatsu/pull/83) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [xsai.js.org](https://github.com/js-org/js.org/pull/9416) on [js-org/js.org](https://github.com/js-org/js.org) (4 days ago)
+- [refactor: remove rustdoc bot](https://github.com/g-plane/rustevalbot/pull/1) on [g-plane/rustevalbot](https://github.com/g-plane/rustevalbot) (1 week ago)
 - [refactor: make `whatwg-fetch` optional](https://github.com/ollama/ollama-js/pull/160) on [ollama/ollama-js](https://github.com/ollama/ollama-js) (3 weeks ago)
-- [hatsu: 0.2.2 -&gt; 0.3.0](https://github.com/NixOS/nixpkgs/pull/354408) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
 
 </details>
 <details>

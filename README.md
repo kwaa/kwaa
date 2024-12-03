@@ -15,10 +15,10 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for any OpenAI-compatible API. (1 day ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (4 days ago)
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (6 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for any OpenAI-compatible API. (today)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (5 days ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
 </details>
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [fix!: remove todo macro](https://github.com/importantimport/hatsu/pull/84) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [feat: basic frontend](https://github.com/importantimport/hatsu/pull/83) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
-- [xsai.js.org](https://github.com/js-org/js.org/pull/9416) on [js-org/js.org](https://github.com/js-org/js.org) (4 days ago)
+- [fix!: remove todo macro](https://github.com/importantimport/hatsu/pull/84) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [feat: basic frontend](https://github.com/importantimport/hatsu/pull/83) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
+- [xsai.js.org](https://github.com/js-org/js.org/pull/9416) on [js-org/js.org](https://github.com/js-org/js.org) (5 days ago)
 - [refactor: remove rustdoc bot](https://github.com/g-plane/rustevalbot/pull/1) on [g-plane/rustevalbot](https://github.com/g-plane/rustevalbot) (1 week ago)
 - [refactor: make `whatwg-fetch` optional](https://github.com/ollama/ollama-js/pull/160) on [ollama/ollama-js](https://github.com/ollama/ollama-js) (3 weeks ago)
 

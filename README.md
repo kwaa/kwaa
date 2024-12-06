@@ -16,10 +16,10 @@
 
 
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for any OpenAI-compatible API. (today)
+- [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine (1 day ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (4 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (5 days ago)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 week ago)
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [fix!: remove todo macro](https://github.com/importantimport/hatsu/pull/84) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
-- [feat: basic frontend](https://github.com/importantimport/hatsu/pull/83) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [feat: add dockerfile](https://github.com/astramind-ai/Auralis/pull/26) on [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) (1 day ago)
+- [fix!: remove todo macro](https://github.com/importantimport/hatsu/pull/84) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
+- [feat: basic frontend](https://github.com/importantimport/hatsu/pull/83) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
 - [xsai.js.org](https://github.com/js-org/js.org/pull/9416) on [js-org/js.org](https://github.com/js-org/js.org) (1 week ago)
 - [refactor: remove rustdoc bot](https://github.com/g-plane/rustevalbot/pull/1) on [g-plane/rustevalbot](https://github.com/g-plane/rustevalbot) (1 week ago)
-- [refactor: make `whatwg-fetch` optional](https://github.com/ollama/ollama-js/pull/160) on [ollama/ollama-js](https://github.com/ollama/ollama-js) (3 weeks ago)
 
 </details>
 <details>

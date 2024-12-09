@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine (3 days ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine (4 days ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: add dockerfile](https://github.com/astramind-ai/Auralis/pull/26) on [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) (3 days ago)
+- [feat: add dockerfile](https://github.com/astramind-ai/Auralis/pull/26) on [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) (4 days ago)
 - [fix!: remove todo macro](https://github.com/importantimport/hatsu/pull/84) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [feat: basic frontend](https://github.com/importantimport/hatsu/pull/83) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [xsai.js.org](https://github.com/js-org/js.org/pull/9416) on [js-org/js.org](https://github.com/js-org/js.org) (1 week ago)
-- [refactor: remove rustdoc bot](https://github.com/g-plane/rustevalbot/pull/1) on [g-plane/rustevalbot](https://github.com/g-plane/rustevalbot) (1 week ago)
+- [refactor: remove rustdoc bot](https://github.com/g-plane/rustevalbot/pull/1) on [g-plane/rustevalbot](https://github.com/g-plane/rustevalbot) (2 weeks ago)
 
 </details>
 <details>

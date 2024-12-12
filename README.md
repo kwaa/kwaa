@@ -15,11 +15,11 @@
   <br/>
 
 
-- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (1 day ago)
-- [guiiai/logg](https://github.com/guiiai/logg) - ✨ Yet another simple, nearly zero dependency, structural log compliance logger implementation. (1 day ago)
+- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (2 days ago)
+- [guiiai/logg](https://github.com/guiiai/logg) - ✨ Yet another simple, nearly zero dependency, structural log compliance logger implementation. (2 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor!: remove `date-fns`, use `picocolors` instead of `chalk`](https://github.com/guiiai/logg/pull/7) on [guiiai/logg](https://github.com/guiiai/logg) (1 day ago)
-- [feat: add dockerfile](https://github.com/astramind-ai/Auralis/pull/26) on [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) (6 days ago)
+- [refactor!: remove `date-fns`, use `picocolors` instead of `chalk`](https://github.com/guiiai/logg/pull/7) on [guiiai/logg](https://github.com/guiiai/logg) (2 days ago)
+- [feat: add dockerfile](https://github.com/astramind-ai/Auralis/pull/26) on [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) (1 week ago)
 - [fix!: remove todo macro](https://github.com/importantimport/hatsu/pull/84) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [feat: basic frontend](https://github.com/importantimport/hatsu/pull/83) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [xsai.js.org](https://github.com/js-org/js.org/pull/9416) on [js-org/js.org](https://github.com/js-org/js.org) (1 week ago)
+- [xsai.js.org](https://github.com/js-org/js.org/pull/9416) on [js-org/js.org](https://github.com/js-org/js.org) (2 weeks ago)
 
 </details>
 <details>

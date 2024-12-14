@@ -16,10 +16,10 @@
 
 
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (1 day ago)
-- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (2 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (1 day ago)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (2 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (2 days ago)
+- [hama-ui/hama-ui](https://github.com/hama-ui/hama-ui) - Framework-agnostic UnoCSS component library. (3 days ago)
 
 </details>
 <details>
@@ -39,8 +39,8 @@
   <br/>
 
 
-- [feat: basic i18n](https://github.com/moeru-ai/airi/pull/2) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
-- [refactor!: remove `date-fns`, use `picocolors` instead of `chalk`](https://github.com/guiiai/logg/pull/7) on [guiiai/logg](https://github.com/guiiai/logg) (3 days ago)
+- [feat: basic i18n](https://github.com/moeru-ai/airi/pull/2) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
+- [refactor!: remove `date-fns`, use `picocolors` instead of `chalk`](https://github.com/guiiai/logg/pull/7) on [guiiai/logg](https://github.com/guiiai/logg) (4 days ago)
 - [refactor: use `@xsai/model` instead of `openai`](https://github.com/moeru-ai/airi/pull/1) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 - [feat: add dockerfile](https://github.com/astramind-ai/Auralis/pull/26) on [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) (1 week ago)
 - [fix!: remove todo macro](https://github.com/importantimport/hatsu/pull/84) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)

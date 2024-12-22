@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (2 days ago)
-- [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine (6 days ago)
-- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients (6 days ago)
+- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (3 days ago)
+- [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine (1 week ago)
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (1 week ago)
 
 </details>
 <details>
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [chore(dockerfile): remove langid](https://github.com/astramind-ai/Auralis/pull/40) on [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) (6 days ago)
+- [chore(dockerfile): remove langid](https://github.com/astramind-ai/Auralis/pull/40) on [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) (1 week ago)
 - [feat: basic i18n](https://github.com/moeru-ai/airi/pull/2) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 - [refactor!: remove `date-fns`, use `picocolors` instead of `chalk`](https://github.com/guiiai/logg/pull/7) on [guiiai/logg](https://github.com/guiiai/logg) (1 week ago)
 - [refactor: use `@xsai/model` instead of `openai`](https://github.com/moeru-ai/airi/pull/1) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 weeks ago)

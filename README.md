@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/hub](https://github.com/moeru-ai/hub) - @moeru-ai hub. (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (4 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (6 days ago)
-- [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine (1 week ago)
+- [moeru-ai/deck](https://github.com/moeru-ai/deck) - 🃏 Moeru AI&#39;s Character Card Deck. (today)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
+- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 week ago)
 
 </details>
 <details>
@@ -43,7 +43,7 @@
 - [feat: basic i18n](https://github.com/moeru-ai/airi/pull/2) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 - [refactor!: remove `date-fns`, use `picocolors` instead of `chalk`](https://github.com/guiiai/logg/pull/7) on [guiiai/logg](https://github.com/guiiai/logg) (2 weeks ago)
 - [refactor: use `@xsai/model` instead of `openai`](https://github.com/moeru-ai/airi/pull/1) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 weeks ago)
-- [feat: add dockerfile](https://github.com/astramind-ai/Auralis/pull/26) on [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) (2 weeks ago)
+- [feat: add dockerfile](https://github.com/astramind-ai/Auralis/pull/26) on [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) (3 weeks ago)
 
 </details>
 <details>

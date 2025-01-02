@@ -15,11 +15,11 @@
   <br/>
 
 
-- [importantimport/mikumikumixed](https://github.com/importantimport/mikumikumixed) - 🎼 Experimental WebXR MMD Viewer (today)
-- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (4 days ago)
-- [moeru-ai/deck](https://github.com/moeru-ai/deck) - 🃏 Moeru AI&#39;s Character Card Deck. (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
+- [importantimport/mikumikumixed](https://github.com/importantimport/mikumikumixed) - 🎼 Experimental WebXR MMD Viewer (1 day ago)
+- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (2 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (5 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: improve logging](https://github.com/moeru-ai/unspeech/pull/13) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (1 day ago)
-- [feat(backend): extra_body option](https://github.com/moeru-ai/unspeech/pull/12) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (1 day ago)
+- [feat(providers): add unspeech, unelevenlabs](https://github.com/moeru-ai/xsai/pull/14) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat: improve logging](https://github.com/moeru-ai/unspeech/pull/13) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (2 days ago)
+- [feat(backend): extra_body option](https://github.com/moeru-ai/unspeech/pull/12) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (2 days ago)
 - [chore(dockerfile): remove langid](https://github.com/astramind-ai/Auralis/pull/40) on [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) (2 weeks ago)
 - [feat: basic i18n](https://github.com/moeru-ai/airi/pull/2) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 weeks ago)
-- [refactor!: remove `date-fns`, use `picocolors` instead of `chalk`](https://github.com/guiiai/logg/pull/7) on [guiiai/logg](https://github.com/guiiai/logg) (3 weeks ago)
 
 </details>
 <details>

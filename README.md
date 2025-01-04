@@ -15,11 +15,11 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
-- [importantimport/mikumikumixed](https://github.com/importantimport/mikumikumixed) - 🎼 Experimental WebXR MMD Viewer (2 days ago)
-- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (3 days ago)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (1 day ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (2 days ago)
+- [importantimport/mikumikumixed](https://github.com/importantimport/mikumikumixed) - 🎼 Experimental WebXR MMD Viewer (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(providers): add unspeech, unelevenlabs](https://github.com/moeru-ai/xsai/pull/14) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat: improve logging](https://github.com/moeru-ai/unspeech/pull/13) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (3 days ago)
-- [feat(backend): extra_body option](https://github.com/moeru-ai/unspeech/pull/12) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (3 days ago)
-- [chore(dockerfile): remove langid](https://github.com/astramind-ai/Auralis/pull/40) on [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) (2 weeks ago)
-- [feat: basic i18n](https://github.com/moeru-ai/airi/pull/2) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 weeks ago)
+- [hatsu: 0.3.0 -&gt; 0.3.2, update passthru.updateScript](https://github.com/NixOS/nixpkgs/pull/370567) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [fix(feed): set language](https://github.com/importantimport/hatsu/pull/89) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [feat(providers): add unspeech, unelevenlabs](https://github.com/moeru-ai/xsai/pull/14) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat: improve logging](https://github.com/moeru-ai/unspeech/pull/13) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (4 days ago)
+- [feat(backend): extra_body option](https://github.com/moeru-ai/unspeech/pull/12) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (4 days ago)
 
 </details>
 <details>

@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
-- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) -  (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
+- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) -  (1 day ago)
+- [lingticio/neuri-js](https://github.com/lingticio/neuri-js) - 🧠 Simple and easy agent framework, include various of structured data manipulation, agent and function compositing, code editing, fs and more! (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [hatsu: 0.3.0 -&gt; 0.3.2](https://github.com/NixOS/nixpkgs/pull/370567) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [fix(feed): set language](https://github.com/importantimport/hatsu/pull/89) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (3 days ago)
-- [feat(providers): add unspeech, unelevenlabs](https://github.com/moeru-ai/xsai/pull/14) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
-- [feat: improve logging](https://github.com/moeru-ai/unspeech/pull/13) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (6 days ago)
-- [feat(backend): extra_body option](https://github.com/moeru-ai/unspeech/pull/12) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (6 days ago)
+- [docs: add license file](https://github.com/lingticio/neuri-js/pull/31) on [lingticio/neuri-js](https://github.com/lingticio/neuri-js) (1 day ago)
+- [feat: improve error handling](https://github.com/moeru-ai/xsai/pull/17) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [hatsu: 0.3.0 -&gt; 0.3.2](https://github.com/NixOS/nixpkgs/pull/370567) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
+- [fix(feed): set language](https://github.com/importantimport/hatsu/pull/89) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (4 days ago)
+- [feat(providers): add unspeech, unelevenlabs](https://github.com/moeru-ai/xsai/pull/14) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
 
 </details>
 <details>

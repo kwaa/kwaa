@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [lingticio/neuri-js](https://github.com/lingticio/neuri-js) - 🧠 Simple and easy agent framework, include various of structured data manipulation, agent and function compositing, code editing, fs and more! (2 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (2 days ago)
-- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) -  (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
+- [lingticio/neuri-js](https://github.com/lingticio/neuri-js) - 🧠 Simple and easy agent framework, include various of structured data manipulation, agent and function compositing, code editing, fs and more! (3 days ago)
+- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) -  (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [docs: add license file](https://github.com/lingticio/neuri-js/pull/31) on [lingticio/neuri-js](https://github.com/lingticio/neuri-js) (2 days ago)
-- [feat: improve error handling](https://github.com/moeru-ai/xsai/pull/17) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [hatsu: 0.3.0 -&gt; 0.3.2](https://github.com/NixOS/nixpkgs/pull/370567) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
-- [fix(feed): set language](https://github.com/importantimport/hatsu/pull/89) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
-- [feat(providers): add unspeech, unelevenlabs](https://github.com/moeru-ai/xsai/pull/14) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [refactor(providers)!: provider factory](https://github.com/moeru-ai/xsai/pull/19) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat: new package `stream-object`](https://github.com/moeru-ai/xsai/pull/18) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [docs: add license file](https://github.com/lingticio/neuri-js/pull/31) on [lingticio/neuri-js](https://github.com/lingticio/neuri-js) (3 days ago)
+- [feat: improve error handling](https://github.com/moeru-ai/xsai/pull/17) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [hatsu: 0.3.0 -&gt; 0.3.2](https://github.com/NixOS/nixpkgs/pull/370567) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
 
 </details>
 <details>

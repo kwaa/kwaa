@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
-- [lingticio/neuri-js](https://github.com/lingticio/neuri-js) - 🧠 Simple and easy agent framework, include various of structured data manipulation, agent and function compositing, code editing, fs and more! (3 days ago)
-- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) -  (3 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (1 day ago)
+- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) -  (4 days ago)
+- [lingticio/neuri-js](https://github.com/lingticio/neuri-js) - 🧠 Simple and easy agent framework, include various of structured data manipulation, agent and function compositing, code editing, fs and more! (4 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(providers)!: provider factory](https://github.com/moeru-ai/xsai/pull/19) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [feat: new package `stream-object`](https://github.com/moeru-ai/xsai/pull/18) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [docs: add license file](https://github.com/lingticio/neuri-js/pull/31) on [lingticio/neuri-js](https://github.com/lingticio/neuri-js) (3 days ago)
-- [feat: improve error handling](https://github.com/moeru-ai/xsai/pull/17) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [hatsu: 0.3.0 -&gt; 0.3.2](https://github.com/NixOS/nixpkgs/pull/370567) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
+- [chore(providers/google-generative-ai): update model list](https://github.com/moeru-ai/xsai/pull/21) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [chore: bump xsai, update speech params](https://github.com/moeru-ai/airi/pull/12) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
+- [refactor(providers)!: improve structure](https://github.com/moeru-ai/xsai/pull/19) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat: new package `stream-object`](https://github.com/moeru-ai/xsai/pull/18) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [docs: add license file](https://github.com/lingticio/neuri-js/pull/31) on [lingticio/neuri-js](https://github.com/lingticio/neuri-js) (4 days ago)
 
 </details>
 <details>

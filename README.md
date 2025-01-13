@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (3 days ago)
-- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) -  (6 days ago)
-- [lingticio/neuri-js](https://github.com/lingticio/neuri-js) - 🧠 Simple and easy agent framework, include various of structured data manipulation, agent and function compositing, code editing, fs and more! (6 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (4 days ago)
+- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) -  (1 week ago)
+- [lingticio/neuri-js](https://github.com/lingticio/neuri-js) - 🧠 Simple and easy agent framework, include various of structured data manipulation, agent and function compositing, code editing, fs and more! (1 week ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(generate-text): trampoline function](https://github.com/moeru-ai/xsai/pull/25) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [chore(providers/google-generative-ai): update model list](https://github.com/moeru-ai/xsai/pull/21) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [chore: bump xsai, update speech params](https://github.com/moeru-ai/airi/pull/12) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
-- [refactor(providers)!: improve structure](https://github.com/moeru-ai/xsai/pull/19) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [feat: new package `stream-object`](https://github.com/moeru-ai/xsai/pull/18) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [refactor(generate-text): trampoline function](https://github.com/moeru-ai/xsai/pull/25) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [chore(providers/google-generative-ai): update model list](https://github.com/moeru-ai/xsai/pull/21) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [chore: bump xsai, update speech params](https://github.com/moeru-ai/airi/pull/12) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
+- [refactor(providers)!: improve structure](https://github.com/moeru-ai/xsai/pull/19) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [feat: new package `stream-object`](https://github.com/moeru-ai/xsai/pull/18) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
 
 </details>
 <details>
@@ -51,7 +51,7 @@
   <br/>
 
 
-- [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (1 year ago)
+- [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (2 years ago)
 - [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (2 years ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (2 years ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (2 years ago)

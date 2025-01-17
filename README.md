@@ -15,10 +15,10 @@
   <br/>
 
 
-- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (2 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (2 days ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (1 week ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [lingticio/neuri-js](https://github.com/lingticio/neuri-js) - 🧠 Simple and easy agent framework, include various of structured data manipulation, agent and function compositing, code editing, fs and more! (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor!: rename &amp; move](https://github.com/moeru-ai/xsai/pull/28) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(stream-text): add onChunk()](https://github.com/moeru-ai/xsai/pull/27) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(generate-text): add onStepFinish()](https://github.com/moeru-ai/xsai/pull/26) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [refactor(generate-text): trampoline function](https://github.com/moeru-ai/xsai/pull/25) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
-- [chore(providers/google-generative-ai): update model list](https://github.com/moeru-ai/xsai/pull/21) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [refactor!: rename &amp; move](https://github.com/moeru-ai/xsai/pull/28) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat(stream-text): add onChunk()](https://github.com/moeru-ai/xsai/pull/27) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat(generate-text): add onStepFinish()](https://github.com/moeru-ai/xsai/pull/26) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [refactor(generate-text): trampoline function](https://github.com/moeru-ai/xsai/pull/25) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [chore(providers/google-generative-ai): update model list](https://github.com/moeru-ai/xsai/pull/21) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>

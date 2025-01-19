@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (3 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (3 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (1 week ago)
-- [lingticio/neuri-js](https://github.com/lingticio/neuri-js) - 🧠 Simple and easy agent framework, include various of structured data manipulation, agent and function compositing, code editing, fs and more! (1 week ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (4 days ago)
+- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) -  (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor!: rename &amp; move](https://github.com/moeru-ai/xsai/pull/28) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [feat(stream-text): add onChunk()](https://github.com/moeru-ai/xsai/pull/27) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [feat(generate-text): add onStepFinish()](https://github.com/moeru-ai/xsai/pull/26) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [refactor(generate-text): trampoline function](https://github.com/moeru-ai/xsai/pull/25) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [chore(providers/google-generative-ai): update model list](https://github.com/moeru-ai/xsai/pull/21) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [chore: use pnpm v10, update xsai catalog](https://github.com/moeru-ai/airi/pull/15) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
+- [refactor!: rename &amp; move](https://github.com/moeru-ai/xsai/pull/28) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [feat(stream-text): add onChunk()](https://github.com/moeru-ai/xsai/pull/27) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [feat(generate-text): add onStepFinish()](https://github.com/moeru-ai/xsai/pull/26) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [refactor(generate-text): trampoline function](https://github.com/moeru-ai/xsai/pull/25) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>

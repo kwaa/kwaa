@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/airi-minecraft](https://github.com/moeru-ai/airi-minecraft) - An intelligent Minecraft bot powered by LLM. AIRI can understand natural language commands, interact with the world, and assist players in various tasks. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (2 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
-- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (6 days ago)
+- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (today)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (1 day ago)
+- [importantimport/koimi](https://github.com/importantimport/koimi) - 💘 Sweet, Powerful, Blazing-fast Blog Meta-framework. (1 day ago)
+- [moeru-ai/airi-minecraft](https://github.com/moeru-ai/airi-minecraft) - An intelligent Minecraft bot powered by LLM. AIRI can understand natural language commands, interact with the world, and assist players in various tasks. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [docs: add license](https://github.com/moeru-ai/airi-minecraft/pull/3) on [moeru-ai/airi-minecraft](https://github.com/moeru-ai/airi-minecraft) (1 day ago)
-- [chore: use pnpm v10, update xsai catalog](https://github.com/moeru-ai/airi/pull/15) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
-- [refactor!: rename &amp; move](https://github.com/moeru-ai/xsai/pull/28) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [feat(stream-text): add onChunk()](https://github.com/moeru-ai/xsai/pull/27) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [feat(generate-text): add onStepFinish()](https://github.com/moeru-ai/xsai/pull/26) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [docs(eslint-plugin-react-compiler): fix typo](https://github.com/facebook/react/pull/32149) on [facebook/react](https://github.com/facebook/react) (today)
+- [docs: add license](https://github.com/moeru-ai/airi-minecraft/pull/3) on [moeru-ai/airi-minecraft](https://github.com/moeru-ai/airi-minecraft) (2 days ago)
+- [chore: use pnpm v10, update xsai catalog](https://github.com/moeru-ai/airi/pull/15) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [refactor!: rename &amp; move](https://github.com/moeru-ai/xsai/pull/28) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [feat(stream-text): add onChunk()](https://github.com/moeru-ai/xsai/pull/27) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>

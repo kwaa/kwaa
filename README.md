@@ -15,11 +15,11 @@
   <br/>
 
 
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
 - [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
-- [importantimport/koimi](https://github.com/importantimport/koimi) - 💘 Sweet, Powerful, Blazing-fast Blog Meta-framework. (2 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (2 days ago)
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. (2 days ago)
+- [importantimport/koimi](https://github.com/importantimport/koimi) - 💘 Sweet, Powerful, Blazing-fast Blog Meta-framework. (3 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat!: new `utils-{chat,stream}` package](https://github.com/moeru-ai/xsai/pull/36) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(tool): add execute options](https://github.com/moeru-ai/xsai/pull/35) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [docs(eslint-plugin-react-compiler): fix typo](https://github.com/facebook/react/pull/32149) on [facebook/react](https://github.com/facebook/react) (1 day ago)
-- [docs: add license](https://github.com/moeru-ai/airi-minecraft/pull/3) on [moeru-ai/airi-minecraft](https://github.com/moeru-ai/airi-minecraft) (3 days ago)
-- [chore: use pnpm v10, update xsai catalog](https://github.com/moeru-ai/airi/pull/15) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
+- [feat!: new `utils-{chat,stream}` package](https://github.com/moeru-ai/xsai/pull/36) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat(tool): add execute options](https://github.com/moeru-ai/xsai/pull/35) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [docs(eslint-plugin-react-compiler): fix typo](https://github.com/facebook/react/pull/32149) on [facebook/react](https://github.com/facebook/react) (2 days ago)
+- [docs: add license](https://github.com/moeru-ai/airi-minecraft/pull/3) on [moeru-ai/airi-minecraft](https://github.com/moeru-ai/airi-minecraft) (4 days ago)
+- [chore: use pnpm v10, update xsai catalog](https://github.com/moeru-ai/airi/pull/15) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
 
 </details>
 <details>

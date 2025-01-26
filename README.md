@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. (3 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (4 days ago)
-- [moeru-ai/airi-minecraft](https://github.com/moeru-ai/airi-minecraft) - An intelligent Minecraft bot powered by LLM. AIRI can understand natural language commands, interact with the world, and assist players in various tasks. (4 days ago)
+- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (2 days ago)
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. (4 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (5 days ago)
+- [moeru-ai/airi-minecraft](https://github.com/moeru-ai/airi-minecraft) - An intelligent Minecraft bot powered by LLM. AIRI can understand natural language commands, interact with the world, and assist players in various tasks. (5 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat!: new `utils-{chat,stream}` package](https://github.com/moeru-ai/xsai/pull/36) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [feat(tool): add execute options](https://github.com/moeru-ai/xsai/pull/35) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [docs(eslint-plugin-react-compiler): fix typo](https://github.com/facebook/react/pull/32149) on [facebook/react](https://github.com/facebook/react) (3 days ago)
-- [docs: add license](https://github.com/moeru-ai/airi-minecraft/pull/3) on [moeru-ai/airi-minecraft](https://github.com/moeru-ai/airi-minecraft) (5 days ago)
-- [chore: use pnpm v10, update xsai catalog](https://github.com/moeru-ai/airi/pull/15) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (6 days ago)
+- [feat: init database](https://github.com/moeru-ai/talk/pull/1) on [moeru-ai/talk](https://github.com/moeru-ai/talk) (today)
+- [feat!: new `utils-{chat,stream}` package](https://github.com/moeru-ai/xsai/pull/36) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [feat(tool): add execute options](https://github.com/moeru-ai/xsai/pull/35) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [docs(eslint-plugin-react-compiler): fix typo](https://github.com/facebook/react/pull/32149) on [facebook/react](https://github.com/facebook/react) (4 days ago)
+- [docs: add license](https://github.com/moeru-ai/airi-minecraft/pull/3) on [moeru-ai/airi-minecraft](https://github.com/moeru-ai/airi-minecraft) (6 days ago)
 
 </details>
 <details>

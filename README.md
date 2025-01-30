@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (1 day ago)
-- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (2 days ago)
-- [moeru-ai/deck](https://github.com/moeru-ai/deck) - 🃏 Moeru AI&#39;s Character Card Deck. (2 days ago)
-- [moeru-ai/underscore](https://github.com/moeru-ai/underscore) - Free subdomains for related open-source projects. (2 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
+- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (today)
+- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (3 days ago)
+- [moeru-ai/deck](https://github.com/moeru-ai/deck) - 🃏 Moeru AI&#39;s Character Card Deck. (3 days ago)
+- [moeru-ai/underscore](https://github.com/moeru-ai/underscore) - Free subdomains for related open-source projects. (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: init database](https://github.com/moeru-ai/talk/pull/1) on [moeru-ai/talk](https://github.com/moeru-ai/talk) (3 days ago)
+- [feat(generate-text): return messages](https://github.com/moeru-ai/xsai/pull/37) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat: init database](https://github.com/moeru-ai/talk/pull/1) on [moeru-ai/talk](https://github.com/moeru-ai/talk) (4 days ago)
 - [feat!: new `utils-{chat,stream}` package](https://github.com/moeru-ai/xsai/pull/36) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [feat(tool): add execute options](https://github.com/moeru-ai/xsai/pull/35) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [docs(eslint-plugin-react-compiler): fix typo](https://github.com/facebook/react/pull/32149) on [facebook/react](https://github.com/facebook/react) (1 week ago)
-- [docs: add license](https://github.com/moeru-ai/airi-minecraft/pull/3) on [moeru-ai/airi-minecraft](https://github.com/moeru-ai/airi-minecraft) (1 week ago)
 
 </details>
 <details>

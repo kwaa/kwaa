@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (5 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (5 days ago)
+- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (6 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (6 days ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (1 week ago)
-- [moeru-ai/underscore](https://github.com/moeru-ai/underscore) - Free subdomains for related open-source projects. (2 weeks ago)
+- [moeru-ai/deck](https://github.com/moeru-ai/deck) - 🃏 Moeru AI&#39;s Character Card Deck. (2 weeks ago)
 
 </details>
 <details>
@@ -39,8 +39,8 @@
   <br/>
 
 
-- [refactor(tool)!: use common tool type](https://github.com/moeru-ai/xsai/pull/43) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
-- [feat(xsfetch): basic implement](https://github.com/moeru-ai/xsai/pull/42) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [refactor(tool)!: use common tool type](https://github.com/moeru-ai/xsai/pull/43) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [feat(xsfetch): basic implement](https://github.com/moeru-ai/xsai/pull/42) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [feat!: new package `xsschema`](https://github.com/moeru-ai/xsai/pull/40) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [refactor(settings-chat): improve structure](https://github.com/moeru-ai/talk/pull/9) on [moeru-ai/talk](https://github.com/moeru-ai/talk) (1 week ago)
 - [feat(generate-text): step type, step finish reason](https://github.com/moeru-ai/xsai/pull/38) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)

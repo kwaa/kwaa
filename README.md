@@ -15,7 +15,7 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (3 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
 - [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (2 weeks ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 weeks ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (3 weeks ago)
@@ -39,11 +39,11 @@
   <br/>
 
 
+- [refactor(providers-cloud): rename to match ai sdk](https://github.com/moeru-ai/xsai/pull/72) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [refactor(providers)!: improve structure, move to `@xsai-ext` scope](https://github.com/moeru-ai/xsai/pull/71) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [refactor: use publish config with tsup](https://github.com/moeru-ai/xsai/pull/70) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [refactor(tsconfig): reduce duplicate files](https://github.com/moeru-ai/xsai/pull/69) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
 - [refactor(tool)!: use common tool type](https://github.com/moeru-ai/xsai/pull/43) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
-- [feat(xsfetch): basic implement](https://github.com/moeru-ai/xsai/pull/42) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
-- [feat!: new package `xsschema`](https://github.com/moeru-ai/xsai/pull/40) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
-- [refactor(settings-chat): improve structure](https://github.com/moeru-ai/talk/pull/9) on [moeru-ai/talk](https://github.com/moeru-ai/talk) (2 weeks ago)
-- [feat(generate-text): step type, step finish reason](https://github.com/moeru-ai/xsai/pull/38) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 weeks ago)
 
 </details>
 <details>

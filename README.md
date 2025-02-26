@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (1 day ago)
-- [moeru-ai/blog](https://github.com/moeru-ai/blog) - Moeru AI Blog (1 day ago)
-- [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) -  (2 days ago)
-- [moeru-ai/talk](https://github.com/moeru-ai/talk) - 🚧 (2 weeks ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
+- [moeru-ai/blog](https://github.com/moeru-ai/blog) - Moeru AI Blog (2 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (2 days ago)
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries (3 days ago)
+- [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) -  (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: init](https://github.com/moeru-ai/blog/pull/1) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (1 day ago)
-- [feat(xsschema): support arktype](https://github.com/moeru-ai/xsai/pull/78) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [docs: add xsai, xsschema to tools](https://github.com/standard-schema/standard-schema/pull/63) on [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) (2 days ago)
-- [docs: update](https://github.com/moeru-ai/xsai/pull/76) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [refactor(providers-cloud): rename to match ai sdk](https://github.com/moeru-ai/xsai/pull/72) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [feat: init](https://github.com/moeru-ai/blog/pull/1) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (2 days ago)
+- [feat(xsschema): support arktype](https://github.com/moeru-ai/xsai/pull/78) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [docs: add xsai, xsschema to tools](https://github.com/standard-schema/standard-schema/pull/63) on [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) (3 days ago)
+- [docs: update](https://github.com/moeru-ai/xsai/pull/76) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [refactor(providers-cloud): rename to match ai sdk](https://github.com/moeru-ai/xsai/pull/72) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
 
 </details>
 <details>

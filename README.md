@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) -  (today)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (3 days ago)
-- [moeru-ai/blog](https://github.com/moeru-ai/blog) - Moeru AI Blog (5 days ago)
-- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
+- [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) -  (1 day ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (2 days ago)
+- [importantimport/config](https://github.com/importantimport/config) - 🔧 Some Shareable Configs for !mportantImport. (6 days ago)
+- [moeru-ai/blog](https://github.com/moeru-ai/blog) - Moeru AI Blog (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [chore(workspace): use yaml anchors for catalog version](https://github.com/moeru-ai/airi/pull/40) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
-- [feat: init](https://github.com/moeru-ai/blog/pull/1) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (5 days ago)
-- [feat(xsschema): support arktype](https://github.com/moeru-ai/xsai/pull/78) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [docs: add xsai, xsschema to tools](https://github.com/standard-schema/standard-schema/pull/63) on [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) (6 days ago)
-- [docs: update](https://github.com/moeru-ai/xsai/pull/76) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [feat: new package `@xsai-ext/mcp`](https://github.com/moeru-ai/xsai/pull/84) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [refactor(generate-text): `onStepFinish` allow unknown type](https://github.com/moeru-ai/xsai/pull/83) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [chore(workspace): use yaml anchors for catalog version](https://github.com/moeru-ai/airi/pull/40) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
+- [feat: init](https://github.com/moeru-ai/blog/pull/1) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (6 days ago)
+- [feat(xsschema): support arktype](https://github.com/moeru-ai/xsai/pull/78) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>

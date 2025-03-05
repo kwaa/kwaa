@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
-- [moeru-ai/blog](https://github.com/moeru-ai/blog) - Moeru AI Blog (1 day ago)
-- [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) -  (3 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
+- [moeru-ai/blog](https://github.com/moeru-ai/blog) - Moeru AI Blog (today)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (1 day ago)
+- [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) -  (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: new post `introducing-xsai`](https://github.com/moeru-ai/blog/pull/2) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (2 days ago)
-- [feat: new package `@xsai-ext/mcp`](https://github.com/moeru-ai/xsai/pull/84) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [refactor(generate-text): `onStepFinish` allow unknown type](https://github.com/moeru-ai/xsai/pull/83) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [chore(workspace): use yaml anchors for catalog version](https://github.com/moeru-ai/airi/pull/40) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
-- [feat: init](https://github.com/moeru-ai/blog/pull/1) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (1 week ago)
+- [refactor(xsfetch): early return](https://github.com/moeru-ai/xsai/pull/89) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat: new post `introducing-xsai`](https://github.com/moeru-ai/blog/pull/2) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (3 days ago)
+- [feat: new package `@xsai-ext/mcp`](https://github.com/moeru-ai/xsai/pull/84) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [refactor(generate-text): `onStepFinish` allow unknown type](https://github.com/moeru-ai/xsai/pull/83) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [chore(workspace): use yaml anchors for catalog version](https://github.com/moeru-ai/airi/pull/40) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
 
 </details>
 <details>

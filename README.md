@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (1 day ago)
-- [moeru-ai/demodel](https://github.com/moeru-ai/demodel) -  (1 day ago)
-- [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search) - 一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。 (2 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (2 days ago)
-- [lingticio/neuri-js](https://github.com/lingticio/neuri-js) - 🧠 Simple and easy agent framework, include various of structured data manipulation, agent and function compositing, code editing, fs and more! (2 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (2 days ago)
+- [moeru-ai/demodel](https://github.com/moeru-ai/demodel) -  (2 days ago)
+- [lingticio/neuri-js](https://github.com/lingticio/neuri-js) - 🧠 Simple and easy agent framework, include various of structured data manipulation, agent and function compositing, code editing, fs and more! (3 days ago)
+- [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search) - 一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。 (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [chore: setup nix-direnv](https://github.com/moeru-ai/demodel/pull/1) on [moeru-ai/demodel](https://github.com/moeru-ai/demodel) (1 day ago)
-- [perf: use feaxios instead of axios](https://github.com/moeru-ai/airi/pull/57) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
-- [perf: use nolyfill to reduce install size](https://github.com/moeru-ai/airi/pull/56) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
-- [refactor(xsai): use ext-providers instead of providers](https://github.com/GramSearch/telegram-search/pull/78) on [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search) (2 days ago)
-- [refactor!: use xsschema/ext-providers instead of typeschema/providers](https://github.com/moeru-ai/airi/pull/50) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
+- [chore: setup nix-direnv](https://github.com/moeru-ai/demodel/pull/1) on [moeru-ai/demodel](https://github.com/moeru-ai/demodel) (2 days ago)
+- [perf: use feaxios instead of axios](https://github.com/moeru-ai/airi/pull/57) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
+- [perf: use nolyfill to reduce install size](https://github.com/moeru-ai/airi/pull/56) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
+- [refactor(xsai): use ext-providers instead of providers](https://github.com/GramSearch/telegram-search/pull/78) on [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search) (3 days ago)
+- [refactor!: use xsschema/ext-providers instead of typeschema/providers](https://github.com/moeru-ai/airi/pull/50) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
 
 </details>
 <details>

@@ -16,10 +16,10 @@
 
 
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
-- [LemonNekoGH/flow-chat](https://github.com/LemonNekoGH/flow-chat) - This app is a chat interface with a flowchart-like conversation structure. Unlike traditional chat UIs, users don’t need to delete messages to explore different responses—they can simply create new branches. (1 day ago)
-- [moeru-ai/demodel](https://github.com/moeru-ai/demodel) -  (5 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (5 days ago)
-- [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search) - 🚀  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。 (6 days ago)
+- [LemonNekoGH/flow-chat](https://github.com/LemonNekoGH/flow-chat) - This app is a chat interface with a flowchart-like conversation structure. Unlike traditional chat UIs, users don’t need to delete messages to explore different responses—they can simply create new branches. (2 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - アイリ VTuber. LLM powered Live2D/VRM living character, near by you. 💖 (6 days ago)
+- [moeru-ai/demodel](https://github.com/moeru-ai/demodel) -  (6 days ago)
+- [lingticio/neuri-js](https://github.com/lingticio/neuri-js) - 🧠 Simple and easy agent framework, include various of structured data manipulation, agent and function compositing, code editing, fs and more! (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(stream-text): return stepType, finishReason](https://github.com/moeru-ai/xsai/pull/106) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [refactor: simplify fetch type](https://github.com/moeru-ai/xsai/pull/104) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [fix: import from xsai, bump to v0.1.2](https://github.com/LemonNekoGH/flow-chat/pull/11) on [LemonNekoGH/flow-chat](https://github.com/LemonNekoGH/flow-chat) (1 day ago)
-- [docs: update contributing](https://github.com/moeru-ai/xsai/pull/99) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [chore: setup nix-direnv](https://github.com/moeru-ai/demodel/pull/1) on [moeru-ai/demodel](https://github.com/moeru-ai/demodel) (5 days ago)
+- [feat(stream-text): return stepType, finishReason](https://github.com/moeru-ai/xsai/pull/106) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [refactor: simplify fetch type](https://github.com/moeru-ai/xsai/pull/104) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [fix: import from xsai, bump to v0.1.2](https://github.com/LemonNekoGH/flow-chat/pull/11) on [LemonNekoGH/flow-chat](https://github.com/LemonNekoGH/flow-chat) (2 days ago)
+- [docs: update contributing](https://github.com/moeru-ai/xsai/pull/99) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [chore: setup nix-direnv](https://github.com/moeru-ai/demodel/pull/1) on [moeru-ai/demodel](https://github.com/moeru-ai/demodel) (6 days ago)
 
 </details>
 <details>

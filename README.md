@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (3 days ago)
-- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (3 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (5 days ago)
-- [LemonNekoGH/flow-chat](https://github.com/LemonNekoGH/flow-chat) - Chat UI in graph 🌲. Unlike traditional chat UIs, users don’t need to delete messages to explore different responses—they can simply create new branches. (6 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (4 days ago)
+- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (4 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (6 days ago)
+- [LemonNekoGH/flow-chat](https://github.com/LemonNekoGH/flow-chat) - Chat UI in graph 🌲. Unlike traditional chat UIs, users don’t need to delete messages to explore different responses—they can simply create new branches. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(favicon): support dark mode](https://github.com/moeru-ai/airi/pull/80) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
-- [perf(favicon): optimize size](https://github.com/moeru-ai/airi/pull/79) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
-- [feat(stream-text): return stepType, finishReason](https://github.com/moeru-ai/xsai/pull/106) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
-- [refactor: simplify fetch type](https://github.com/moeru-ai/xsai/pull/104) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [fix: import from xsai, bump to v0.1.2](https://github.com/LemonNekoGH/flow-chat/pull/11) on [LemonNekoGH/flow-chat](https://github.com/LemonNekoGH/flow-chat) (6 days ago)
+- [feat(favicon): support dark mode](https://github.com/moeru-ai/airi/pull/80) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
+- [perf(favicon): optimize size](https://github.com/moeru-ai/airi/pull/79) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
+- [feat(stream-text): return stepType, finishReason](https://github.com/moeru-ai/xsai/pull/106) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [refactor: simplify fetch type](https://github.com/moeru-ai/xsai/pull/104) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [fix: import from xsai, bump to v0.1.2](https://github.com/LemonNekoGH/flow-chat/pull/11) on [LemonNekoGH/flow-chat](https://github.com/LemonNekoGH/flow-chat) (1 week ago)
 
 </details>
 <details>

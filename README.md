@@ -15,9 +15,9 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (6 days ago)
-- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (6 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (1 week ago)
+- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [LemonNekoGH/flow-chat](https://github.com/LemonNekoGH/flow-chat) - Chat UI in graph 🌲. Unlike traditional chat UIs, users don’t need to delete messages to explore different responses—they can simply create new branches. (1 week ago)
 
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [feat(xsschema): support effect schema](https://github.com/moeru-ai/xsai/pull/115) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [feat(favicon): support dark mode](https://github.com/moeru-ai/airi/pull/80) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (6 days ago)
-- [perf(favicon): optimize size](https://github.com/moeru-ai/airi/pull/79) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (6 days ago)
+- [feat(xsschema): support effect schema](https://github.com/moeru-ai/xsai/pull/115) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat(favicon): support dark mode](https://github.com/moeru-ai/airi/pull/80) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
+- [perf(favicon): optimize size](https://github.com/moeru-ai/airi/pull/79) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 - [feat(stream-text): return stepType, finishReason](https://github.com/moeru-ai/xsai/pull/106) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [refactor: simplify fetch type](https://github.com/moeru-ai/xsai/pull/104) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 

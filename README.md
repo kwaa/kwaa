@@ -16,8 +16,8 @@
 
 
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (today)
-- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) - 🆚 Measures the similarity between two non-zero vectors, fast and small. (today)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (1 day ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (today)
+- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) - 🆚 Measures the similarity between two non-zero vectors, fast and small. (1 day ago)
 - [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(tool): returns schema](https://github.com/moeru-ai/xsai/pull/118) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [chore(twitter-services): remove preinstall](https://github.com/moeru-ai/airi/pull/93) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
-- [chore(docs): remove ico from head, remove houston](https://github.com/moeru-ai/airi/pull/92) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
-- [feat(docs): add og-image](https://github.com/moeru-ai/airi/pull/91) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
-- [feat(xsschema): support effect schema](https://github.com/moeru-ai/xsai/pull/115) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [feat: prefer publish config when defined](https://github.com/privatenumber/pkgroll/pull/120) on [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) (today)
+- [feat(tool): returns schema](https://github.com/moeru-ai/xsai/pull/118) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [chore(twitter-services): remove preinstall](https://github.com/moeru-ai/airi/pull/93) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
+- [chore(docs): remove ico from head, remove houston](https://github.com/moeru-ai/airi/pull/92) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
+- [feat(docs): add og-image](https://github.com/moeru-ai/airi/pull/91) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
 
 </details>
 <details>

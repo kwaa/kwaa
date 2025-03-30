@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 day ago)
-- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js &#43; TypeScript (1 day ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (3 days ago)
-- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (3 days ago)
-- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) - 🆚 Measures the similarity between two non-zero vectors, fast and small. (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (2 days ago)
+- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js &#43; TypeScript (2 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (4 days ago)
+- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️💬 Your Text-to-Speech Services, All-in-One. (4 days ago)
+- [moeru-ai/cosine-similarity](https://github.com/moeru-ai/cosine-similarity) - 🆚 Measures the similarity between two non-zero vectors, fast and small. (5 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: new package `generate-image`](https://github.com/moeru-ai/xsai/pull/123) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [feat: support pnpm&#39;s `publishConfig`](https://github.com/privatenumber/pkgroll/pull/120) on [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) (3 days ago)
-- [feat(tool): returns schema](https://github.com/moeru-ai/xsai/pull/118) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
-- [chore(twitter-services): remove preinstall](https://github.com/moeru-ai/airi/pull/93) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
-- [chore(docs): remove ico from head, remove houston](https://github.com/moeru-ai/airi/pull/92) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
+- [feat: new package `generate-image`](https://github.com/moeru-ai/xsai/pull/123) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [feat: support pnpm&#39;s `publishConfig`](https://github.com/privatenumber/pkgroll/pull/120) on [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) (4 days ago)
+- [feat(tool): returns schema](https://github.com/moeru-ai/xsai/pull/118) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [chore(twitter-services): remove preinstall](https://github.com/moeru-ai/airi/pull/93) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (6 days ago)
+- [chore(docs): remove ico from head, remove houston](https://github.com/moeru-ai/airi/pull/92) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (6 days ago)
 
 </details>
 <details>

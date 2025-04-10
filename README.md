@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK for quick client/server builds. (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (4 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (6 days ago)
-- [proj-airi/duckdb-wasm](https://github.com/proj-airi/duckdb-wasm) - Easy to use wrapper and Drizzle ORM driver for DuckDB WASM (1 week ago)
+- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK for quick client/server builds. (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (5 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (1 week ago)
 
 </details>
 <details>
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [refactor: bump to edition 2024](https://github.com/importantimport/hatsu/pull/93) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
-- [feat: init client](https://github.com/moeru-ai/xsmcp/pull/2) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (6 days ago)
-- [feat: init](https://github.com/moeru-ai/xsmcp/pull/1) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (6 days ago)
-- [feat: new package `generate-image`](https://github.com/moeru-ai/xsai/pull/123) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [refactor: bump to edition 2024](https://github.com/importantimport/hatsu/pull/93) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
+- [feat: init client](https://github.com/moeru-ai/xsmcp/pull/2) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (1 week ago)
+- [feat: init](https://github.com/moeru-ai/xsmcp/pull/1) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (1 week ago)
+- [feat: new package `generate-image`](https://github.com/moeru-ai/xsai/pull/123) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 - [feat: support pnpm&#39;s `publishConfig`](https://github.com/privatenumber/pkgroll/pull/120) on [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) (2 weeks ago)
 
 </details>

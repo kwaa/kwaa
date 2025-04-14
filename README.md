@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (today)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (2 days ago)
-- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK for quick client/server builds. (3 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (3 days ago)
+- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK for quick client/server builds. (4 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime. (1 week ago)
 
 </details>
 <details>

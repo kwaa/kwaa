@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK for quick client/server builds. (today)
-- [proj-airi/.github](https://github.com/proj-airi/.github) -  (2 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (3 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (5 days ago)
+- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK for quick client/server builds. (1 day ago)
+- [proj-airi/.github](https://github.com/proj-airi/.github) -  (3 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you. (4 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [fix: typo](https://github.com/fuma-nama/fumadocs/pull/1723) on [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) (today)
-- [refactor: bump to edition 2024](https://github.com/importantimport/hatsu/pull/93) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
-- [feat: init client](https://github.com/moeru-ai/xsmcp/pull/2) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (1 week ago)
-- [feat: init](https://github.com/moeru-ai/xsmcp/pull/1) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (1 week ago)
-- [feat: new package `generate-image`](https://github.com/moeru-ai/xsai/pull/123) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
+- [fix: typo](https://github.com/fuma-nama/fumadocs/pull/1723) on [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) (1 day ago)
+- [refactor: bump to edition 2024](https://github.com/importantimport/hatsu/pull/93) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
+- [feat: init client](https://github.com/moeru-ai/xsmcp/pull/2) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (2 weeks ago)
+- [feat: init](https://github.com/moeru-ai/xsmcp/pull/1) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (2 weeks ago)
+- [feat: new package `generate-image`](https://github.com/moeru-ai/xsai/pull/123) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 weeks ago)
 
 </details>
 <details>

@@ -15,9 +15,9 @@
   <br/>
 
 
-- [moeru-ai/xsai-transformers](https://github.com/moeru-ai/xsai-transformers) - Experimental provider implementation of 🤗 Transformers.js for xsai. (1 day ago)
-- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK for quick client/server builds. (1 day ago)
-- [proj-airi/.github](https://github.com/proj-airi/.github) -  (6 days ago)
+- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (today)
+- [moeru-ai/xsai-transformers](https://github.com/moeru-ai/xsai-transformers) - 🤗💬 Experimental Transformers.js provider for xsAI. (2 days ago)
+- [proj-airi/.github](https://github.com/proj-airi/.github) -  (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (1 week ago)
 
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [feat: support resources](https://github.com/moeru-ai/xsmcp/pull/8) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (1 day ago)
-- [feat(server-shared): support prompts](https://github.com/moeru-ai/xsmcp/pull/7) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (1 day ago)
-- [feat(client): support prompts](https://github.com/moeru-ai/xsmcp/pull/6) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (2 days ago)
-- [fix: typo](https://github.com/fuma-nama/fumadocs/pull/1723) on [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) (4 days ago)
+- [feat: support resources, resource templates](https://github.com/moeru-ai/xsmcp/pull/8) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (2 days ago)
+- [feat(server-shared): support prompts](https://github.com/moeru-ai/xsmcp/pull/7) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (2 days ago)
+- [feat(client): support prompts](https://github.com/moeru-ai/xsmcp/pull/6) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (3 days ago)
+- [fix: typo](https://github.com/fuma-nama/fumadocs/pull/1723) on [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) (5 days ago)
 - [refactor: bump to edition 2024](https://github.com/importantimport/hatsu/pull/93) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 weeks ago)
 
 </details>

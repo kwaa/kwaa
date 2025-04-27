@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (1 day ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - Standard TypeScript Library for Moeru AI. (1 day ago)
-- [moeru-ai/xsai-transformers](https://github.com/moeru-ai/xsai-transformers) - 🤗💬 Transformers.js provider for xsAI. Running Embedding, Whisper, and LLMs right in your browser! (3 days ago)
-- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
+- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (2 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - Standard TypeScript Library for Moeru AI. (2 days ago)
+- [moeru-ai/xsai-transformers](https://github.com/moeru-ai/xsai-transformers) - 🤗💬 Transformers.js provider for xsAI. Running Embedding, Whisper, and LLMs right in your browser! (4 days ago)
+- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [chore(core): use latest hono to avoid duplicate dependencies](https://github.com/VoltAgent/voltagent/pull/51) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (today)
-- [chore(packages): add exports, clean files](https://github.com/VoltAgent/voltagent/pull/33) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (2 days ago)
-- [chore(providers-local)!: remove unspeech](https://github.com/moeru-ai/xsai/pull/136) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [feat: reasoning utils](https://github.com/moeru-ai/xsai/pull/133) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [feat(xsschema): support zod 4 beta, zod mini](https://github.com/moeru-ai/xsai/pull/132) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [feat: new post `xsai-0.2`](https://github.com/moeru-ai/blog/pull/3) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (today)
+- [chore(core): use latest hono to avoid duplicate dependencies](https://github.com/VoltAgent/voltagent/pull/51) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (1 day ago)
+- [chore(packages): add exports, clean files](https://github.com/VoltAgent/voltagent/pull/33) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (3 days ago)
+- [chore(providers-local)!: remove unspeech](https://github.com/moeru-ai/xsai/pull/136) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [feat(utils): reasoning](https://github.com/moeru-ai/xsai/pull/133) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
 
 </details>
 <details>

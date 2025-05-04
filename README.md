@@ -15,11 +15,11 @@
   <br/>
 
 
-- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (2 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
-- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (2 days ago)
-- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️🔊 Your Text-to-Speech Services, All-in-One. (3 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (4 days ago)
+- [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) - 🥽🖼️ W38XR 3XP3R1M3N75 G4L4734 (today)
+- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (3 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
+- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (3 days ago)
+- [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) - 🗣️🔊 Your Text-to-Speech Services, All-in-One. (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat!: rewrite it in rust](https://github.com/moeru-ai/unspeech/pull/28) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (1 day ago)
-- [chore(xsai): update description](https://github.com/VoltAgent/voltagent/pull/80) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (2 days ago)
-- [chore(core): add exports](https://github.com/VoltAgent/voltagent/pull/59) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (5 days ago)
-- [chore(package/exports): use default instead of import](https://github.com/moeru-ai/gpuu/pull/1) on [moeru-ai/gpuu](https://github.com/moeru-ai/gpuu) (6 days ago)
-- [feat: new post `xsai-0.2`](https://github.com/moeru-ai/blog/pull/3) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (6 days ago)
+- [docs(providers/xsai): update multi-modal support section](https://github.com/VoltAgent/voltagent/pull/89) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (today)
+- [feat!: rewrite it in rust](https://github.com/moeru-ai/unspeech/pull/28) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (2 days ago)
+- [chore(xsai): update description](https://github.com/VoltAgent/voltagent/pull/80) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (3 days ago)
+- [chore(core): add exports](https://github.com/VoltAgent/voltagent/pull/59) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (6 days ago)
+- [chore(package/exports): use default instead of import](https://github.com/moeru-ai/gpuu/pull/1) on [moeru-ai/gpuu](https://github.com/moeru-ai/gpuu) (1 week ago)
 
 </details>
 <details>

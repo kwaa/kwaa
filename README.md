@@ -15,11 +15,11 @@
   <br/>
 
 
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
 - [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) - 🥽🖼️ W38XR 3XP3R1M3N75 G4L4734 (today)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (today)
-- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (2 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (2 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (5 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 day ago)
+- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [docs(providers/xsai): update multi-modal support section](https://github.com/VoltAgent/voltagent/pull/89) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (2 days ago)
-- [feat!: rewrite it in rust](https://github.com/moeru-ai/unspeech/pull/28) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (4 days ago)
-- [chore(xsai): update description](https://github.com/VoltAgent/voltagent/pull/80) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (5 days ago)
-- [chore(core): add exports](https://github.com/VoltAgent/voltagent/pull/59) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (1 week ago)
-- [chore(package/exports): use default instead of import](https://github.com/moeru-ai/gpuu/pull/1) on [moeru-ai/gpuu](https://github.com/moeru-ai/gpuu) (1 week ago)
+- [refactor(tool)!: remove returns schema](https://github.com/moeru-ai/xsai/pull/147) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [fix(tool)!: force strict, set additional properties to false](https://github.com/moeru-ai/xsai/pull/146) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [fix(xsai): clean toMessage](https://github.com/VoltAgent/voltagent/pull/100) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (today)
+- [docs(providers/xsai): update multi-modal support section](https://github.com/VoltAgent/voltagent/pull/89) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (3 days ago)
+- [feat!: rewrite it in rust](https://github.com/moeru-ai/unspeech/pull/28) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (5 days ago)
 
 </details>
 <details>

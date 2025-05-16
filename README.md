@@ -16,9 +16,9 @@
 
 
 - [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) - 🥽🖼️ W38XR 3XP3R1M3N75 G4L4734 (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [moeru-ai/xsai-transformers](https://github.com/moeru-ai/xsai-transformers) - 🤗💬 Transformers.js provider for xsAI. Running Embedding, Whisper, and LLMs right in your browser! (1 day ago)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [moeru-ai/xsai-transformers](https://github.com/moeru-ai/xsai-transformers) - 🤗💬 Transformers.js provider for xsAI. Running Embedding, Whisper, and LLMs right in your browser! (2 days ago)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (6 days ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
 </details>
@@ -43,7 +43,7 @@
 - [fix(tool)!: force strict, set additional properties to false](https://github.com/moeru-ai/xsai/pull/146) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [fix(xsai): clean toMessage](https://github.com/VoltAgent/voltagent/pull/100) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (1 week ago)
 - [docs(providers/xsai): update multi-modal support section](https://github.com/VoltAgent/voltagent/pull/89) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (1 week ago)
-- [feat!: rewrite it in rust](https://github.com/moeru-ai/unspeech/pull/28) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (1 week ago)
+- [feat!: rewrite it in rust](https://github.com/moeru-ai/unspeech/pull/28) on [moeru-ai/unspeech](https://github.com/moeru-ai/unspeech) (2 weeks ago)
 
 </details>
 <details>

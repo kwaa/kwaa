@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) - 🥽🖼️ W38XR 3XP3R1M3N75 G4L4734 (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
-- [moeru-ai/xsai-transformers](https://github.com/moeru-ai/xsai-transformers) - 🤗💬 Transformers.js provider for xsAI. Running Embedding, Whisper, and LLMs right in your browser! (2 days ago)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (6 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 day ago)
+- [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) - 🥽🖼️ W38XR 3XP3R1M3N75 G4L4734 (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
+- [moeru-ai/xsai-transformers](https://github.com/moeru-ai/xsai-transformers) - 🤗💬 Transformers.js provider for xsAI. Running Embedding, Whisper, and LLMs right in your browser! (3 days ago)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (1 week ago)
 
 </details>
 <details>

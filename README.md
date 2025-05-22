@@ -15,10 +15,10 @@
   <br/>
 
 
-- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (1 day ago)
-- [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) - 🥽🖼️ W38XR 3XP3R1M3N75 G4L4734 (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (5 days ago)
+- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (2 days ago)
+- [moeru-ai/n3p6](https://github.com/moeru-ai/n3p6) - 🥽🖼️ W38XR 3XP3R1M3N75 G4L4734 (2 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (6 days ago)
 - [moeru-ai/xsai-transformers](https://github.com/moeru-ai/xsai-transformers) - 🤗💬 Transformers.js provider for xsAI. Running Embedding, Whisper, and LLMs right in your browser! (1 week ago)
 
 </details>
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [feat(providers-local): add speaches](https://github.com/moeru-ai/xsai/pull/153) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [feat(providers-local): add speaches](https://github.com/moeru-ai/xsai/pull/153) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
 - [refactor(tool)!: remove returns schema](https://github.com/moeru-ai/xsai/pull/147) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 - [fix(tool)!: force strict, set additional properties to false](https://github.com/moeru-ai/xsai/pull/146) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 - [refactor(xsai): support image content](https://github.com/VoltAgent/voltagent/pull/100) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (2 weeks ago)

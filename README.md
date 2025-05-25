@@ -16,9 +16,9 @@
 
 
 - [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
-- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (4 days ago)
-- [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) - 👾💬 Framework bindings for xsAI. Integrate with your React / Vue / Svelte / ... apps! (6 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
+- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (5 days ago)
+- [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) - 👾💬 Framework bindings for xsAI. Integrate with your React / Vue / Svelte / ... apps! (1 week ago)
 - [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
 
 </details>
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [feat(providers-local): add speaches](https://github.com/moeru-ai/xsai/pull/153) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [refactor: improve structures](https://github.com/moeru-ai/xsai-use/pull/2) on [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) (6 days ago)
-- [chore: improve structure](https://github.com/moeru-ai/xsai-use/pull/1) on [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) (6 days ago)
+- [feat(providers-local): add speaches](https://github.com/moeru-ai/xsai/pull/153) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [refactor: improve structures](https://github.com/moeru-ai/xsai-use/pull/2) on [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) (1 week ago)
+- [chore: improve structure](https://github.com/moeru-ai/xsai-use/pull/1) on [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) (1 week ago)
 - [refactor(tool)!: remove returns schema](https://github.com/moeru-ai/xsai/pull/147) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 - [fix(tool)!: force strict, set additional properties to false](https://github.com/moeru-ai/xsai/pull/146) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 

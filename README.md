@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
-- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (5 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (1 day ago)
+- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (1 week ago)
 - [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) - 👾💬 Framework bindings for xsAI. Integrate with your React / Vue / Svelte / ... apps! (1 week ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
 
 </details>
 <details>

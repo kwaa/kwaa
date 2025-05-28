@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 day ago)
 - [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (1 day ago)
-- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (1 week ago)
-- [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) - 👾💬 Framework bindings for xsAI. Integrate with your React / Vue / Svelte / ... apps! (1 week ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
+- [feat(generate-transcription): support segments, words](https://github.com/moeru-ai/xsai/pull/158) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat(tool): raw tool util](https://github.com/moeru-ai/xsai/pull/156) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [docs(readme): update n3p6 link](https://github.com/moeru-ai/airi/pull/183) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
 - [feat(providers-local): add speaches](https://github.com/moeru-ai/xsai/pull/153) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [refactor: improve structures](https://github.com/moeru-ai/xsai-use/pull/2) on [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) (1 week ago)
-- [chore: improve structure](https://github.com/moeru-ai/xsai-use/pull/1) on [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) (1 week ago)
-- [refactor(tool)!: remove returns schema](https://github.com/moeru-ai/xsai/pull/147) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
-- [fix(tool)!: force strict, set additional properties to false](https://github.com/moeru-ai/xsai/pull/146) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 
 </details>
 <details>

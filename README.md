@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (2 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (2 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (2 days ago)
+- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (today)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (3 days ago)
+- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(generate-transcription): opt-in verbose mode](https://github.com/moeru-ai/xsai/pull/159) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(generate-transcription): support segments, words](https://github.com/moeru-ai/xsai/pull/158) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(tool): raw tool util](https://github.com/moeru-ai/xsai/pull/156) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [docs(readme): update n3p6 link](https://github.com/moeru-ai/airi/pull/183) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
-- [feat(providers-local): add speaches](https://github.com/moeru-ai/xsai/pull/153) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [xsmcp.js.org](https://github.com/js-org/js.org/pull/9817) on [js-org/js.org](https://github.com/js-org/js.org) (1 day ago)
+- [feat(generate-transcription): opt-in verbose mode](https://github.com/moeru-ai/xsai/pull/159) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat(generate-transcription): support segments, words](https://github.com/moeru-ai/xsai/pull/158) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat(tool): raw tool util](https://github.com/moeru-ai/xsai/pull/156) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [docs(readme): update n3p6 link](https://github.com/moeru-ai/airi/pull/183) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
 
 </details>
 <details>

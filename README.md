@@ -16,10 +16,10 @@
 
 
 - [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (1 day ago)
-- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (3 days ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (4 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (5 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (6 days ago)
+- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (4 days ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (6 days ago)
+- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: v2](https://github.com/moeru-ai/moeru-ai.github.io/pull/1) on [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) (1 day ago)
-- [refactor: use `uncrypto` instead of dynamic import](https://github.com/crouchcd/pkce-challenge/pull/34) on [crouchcd/pkce-challenge](https://github.com/crouchcd/pkce-challenge) (3 days ago)
-- [docs(readme): add xsmcp, update xsai/xsschema links](https://github.com/standard-schema/standard-schema/pull/93) on [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) (3 days ago)
-- [xsmcp.js.org](https://github.com/js-org/js.org/pull/9817) on [js-org/js.org](https://github.com/js-org/js.org) (4 days ago)
-- [feat(generate-transcription): opt-in verbose mode](https://github.com/moeru-ai/xsai/pull/159) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [feat: opentelemetry](https://github.com/moeru-ai/xsai/pull/161) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat: v2](https://github.com/moeru-ai/moeru-ai.github.io/pull/1) on [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) (2 days ago)
+- [refactor: use `uncrypto` instead of dynamic import](https://github.com/crouchcd/pkce-challenge/pull/34) on [crouchcd/pkce-challenge](https://github.com/crouchcd/pkce-challenge) (4 days ago)
+- [docs(readme): add xsmcp, update xsai/xsschema links](https://github.com/standard-schema/standard-schema/pull/93) on [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) (4 days ago)
+- [xsmcp.js.org](https://github.com/js-org/js.org/pull/9817) on [js-org/js.org](https://github.com/js-org/js.org) (5 days ago)
 
 </details>
 <details>

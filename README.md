@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (1 day ago)
-- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (5 days ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (6 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (2 days ago)
+- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (6 days ago)
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 week ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
-- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: opentelemetry](https://github.com/moeru-ai/xsai/pull/161) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [feat: v2](https://github.com/moeru-ai/moeru-ai.github.io/pull/1) on [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) (3 days ago)
-- [refactor: use `uncrypto` instead of dynamic import](https://github.com/crouchcd/pkce-challenge/pull/34) on [crouchcd/pkce-challenge](https://github.com/crouchcd/pkce-challenge) (5 days ago)
-- [docs(readme): add xsmcp, update xsai/xsschema links](https://github.com/standard-schema/standard-schema/pull/93) on [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) (5 days ago)
-- [xsmcp.js.org](https://github.com/js-org/js.org/pull/9817) on [js-org/js.org](https://github.com/js-org/js.org) (6 days ago)
+- [devops: add main-intel dockerfile](https://github.com/ggml-org/whisper.cpp/pull/3229) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (today)
+- [feat: opentelemetry](https://github.com/moeru-ai/xsai/pull/161) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [feat: v2](https://github.com/moeru-ai/moeru-ai.github.io/pull/1) on [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) (4 days ago)
+- [refactor: use `uncrypto` instead of dynamic import](https://github.com/crouchcd/pkce-challenge/pull/34) on [crouchcd/pkce-challenge](https://github.com/crouchcd/pkce-challenge) (6 days ago)
+- [docs(readme): add xsmcp, update xsai/xsschema links](https://github.com/standard-schema/standard-schema/pull/93) on [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) (6 days ago)
 
 </details>
 <details>

@@ -15,9 +15,9 @@
   <br/>
 
 
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (3 days ago)
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (4 days ago)
 - [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (1 week ago)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 week ago)
 
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [ci(docker): build and publish main-intel image](https://github.com/ggml-org/whisper.cpp/pull/3231) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (today)
-- [devops: add main-intel dockerfile](https://github.com/ggml-org/whisper.cpp/pull/3229) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (1 day ago)
-- [feat: opentelemetry](https://github.com/moeru-ai/xsai/pull/161) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
-- [feat: v2](https://github.com/moeru-ai/moeru-ai.github.io/pull/1) on [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) (5 days ago)
+- [ci(docker): build and publish main-intel image](https://github.com/ggml-org/whisper.cpp/pull/3231) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (1 day ago)
+- [devops: add main-intel dockerfile](https://github.com/ggml-org/whisper.cpp/pull/3229) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (2 days ago)
+- [feat: opentelemetry](https://github.com/moeru-ai/xsai/pull/161) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [feat: v2](https://github.com/moeru-ai/moeru-ai.github.io/pull/1) on [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) (6 days ago)
 - [refactor: use `uncrypto` instead of dynamic import](https://github.com/crouchcd/pkce-challenge/pull/34) on [crouchcd/pkce-challenge](https://github.com/crouchcd/pkce-challenge) (1 week ago)
 
 </details>

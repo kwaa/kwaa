@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (1 day ago)
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 days ago)
-- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (5 days ago)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (1 week ago)
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (today)
+- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (today)
+- [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) - 👾💬 Framework bindings for xsAI. Integrate with your React / Vue / Svelte / ... apps! (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) - @moeru-ai homepage. (6 days ago)
 
 </details>
 <details>
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [refactor(client-shared): remove batch, add generics, return result](https://github.com/moeru-ai/xsmcp/pull/10) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (1 day ago)
-- [ci(docker): build and publish main-intel image](https://github.com/ggml-org/whisper.cpp/pull/3231) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (2 days ago)
-- [devops: add main-intel dockerfile](https://github.com/ggml-org/whisper.cpp/pull/3229) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (3 days ago)
-- [feat: opentelemetry](https://github.com/moeru-ai/xsai/pull/161) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [refactor(client-shared): remove batch, add generics, return result](https://github.com/moeru-ai/xsmcp/pull/10) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (2 days ago)
+- [ci(docker): build and publish main-intel image](https://github.com/ggml-org/whisper.cpp/pull/3231) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (3 days ago)
+- [devops: add main-intel dockerfile](https://github.com/ggml-org/whisper.cpp/pull/3229) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (4 days ago)
+- [feat: opentelemetry](https://github.com/moeru-ai/xsai/pull/161) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [feat: v2](https://github.com/moeru-ai/moeru-ai.github.io/pull/1) on [moeru-ai/moeru-ai.github.io](https://github.com/moeru-ai/moeru-ai.github.io) (1 week ago)
 
 </details>

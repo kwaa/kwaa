@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
-- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (today)
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (3 days ago)
-- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (3 days ago)
-- [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) - 👾💬 Framework bindings for xsAI. Integrate with your React / Vue / Svelte / ... apps! (4 days ago)
+- [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers. (today)
+- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (4 days ago)
+- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(stage-ui): vrm lip-sync](https://github.com/moeru-ai/airi/pull/204) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
-- [feat(server-shared): support pagination](https://github.com/moeru-ai/xsmcp/pull/11) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (3 days ago)
-- [refactor(client-shared): remove batch, add generics, return result](https://github.com/moeru-ai/xsmcp/pull/10) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (5 days ago)
-- [ci(docker): build and publish main-intel image](https://github.com/ggml-org/whisper.cpp/pull/3231) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (6 days ago)
-- [devops: add main-intel dockerfile](https://github.com/ggml-org/whisper.cpp/pull/3229) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (1 week ago)
+- [chore(common/intel_gpus): detect arc a770, a750](https://github.com/containers/ramalama/pull/1517) on [containers/ramalama](https://github.com/containers/ramalama) (1 day ago)
+- [feat(stage-ui): vrm lip-sync](https://github.com/moeru-ai/airi/pull/204) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
+- [feat(server-shared): support pagination](https://github.com/moeru-ai/xsmcp/pull/11) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (4 days ago)
+- [refactor(client-shared): remove batch, add generics, return result](https://github.com/moeru-ai/xsmcp/pull/10) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (6 days ago)
+- [ci(docker): build and publish main-intel image](https://github.com/ggml-org/whisper.cpp/pull/3231) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (1 week ago)
 
 </details>
 <details>

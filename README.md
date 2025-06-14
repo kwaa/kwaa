@@ -15,11 +15,11 @@
   <br/>
 
 
-- [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers. (today)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (today)
+- [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers. (1 day ago)
 - [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (4 days ago)
-- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (4 days ago)
+- [kwaa/blog](https://github.com/kwaa/blog) - ./kwaa.dev (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
 
 </details>
 <details>
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [chore(common/intel_gpus): detect arc a770, a750](https://github.com/containers/ramalama/pull/1517) on [containers/ramalama](https://github.com/containers/ramalama) (1 day ago)
-- [feat(stage-ui): vrm lip-sync](https://github.com/moeru-ai/airi/pull/204) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
-- [feat(server-shared): support pagination](https://github.com/moeru-ai/xsmcp/pull/11) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (4 days ago)
-- [refactor(client-shared): remove batch, add generics, return result](https://github.com/moeru-ai/xsmcp/pull/10) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (6 days ago)
+- [chore(common/intel_gpus): detect arc a770, a750](https://github.com/containers/ramalama/pull/1517) on [containers/ramalama](https://github.com/containers/ramalama) (2 days ago)
+- [feat(stage-ui): vrm lip-sync](https://github.com/moeru-ai/airi/pull/204) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [feat(server-shared): support pagination](https://github.com/moeru-ai/xsmcp/pull/11) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (5 days ago)
+- [refactor(client-shared): remove batch, add generics, return result](https://github.com/moeru-ai/xsmcp/pull/10) on [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) (1 week ago)
 - [ci(docker): build and publish main-intel image](https://github.com/ggml-org/whisper.cpp/pull/3231) on [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) (1 week ago)
 
 </details>

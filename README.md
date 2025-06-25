@@ -15,11 +15,11 @@
   <br/>
 
 
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (today)
 - [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
-- [proj-airi/duckdb-wasm](https://github.com/proj-airi/duckdb-wasm) - 🦆📊 Easy to use wrapper and Drizzle ORM driver for DuckDB WASM (5 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
+- [proj-airi/duckdb-wasm](https://github.com/proj-airi/duckdb-wasm) - 🦆📊 Easy to use wrapper and Drizzle ORM driver for DuckDB WASM (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [perf(stage-ui): buildless](https://github.com/moeru-ai/airi/pull/218) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
-- [perf(ui-transitions): buildless](https://github.com/moeru-ai/airi/pull/217) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
-- [perf(ui-loading-screens): buildless](https://github.com/moeru-ai/airi/pull/216) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
-- [perf(ui): buildless](https://github.com/moeru-ai/airi/pull/215) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
-- [perf(apps): use `rolldown-vite` instead of `vite`](https://github.com/moeru-ai/airi/pull/214) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
+- [perf(eslint): use moeru config &amp; oxlint](https://github.com/moeru-ai/airi/pull/227) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
+- [refactor: use `@moeru/std`](https://github.com/moeru-ai/airi/pull/226) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
+- [feat: eslint-config](https://github.com/moeru-ai/std/pull/4) on [moeru-ai/std](https://github.com/moeru-ai/std) (1 day ago)
+- [perf(stage-ui): buildless](https://github.com/moeru-ai/airi/pull/218) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (6 days ago)
+- [perf(ui-transitions): buildless](https://github.com/moeru-ai/airi/pull/217) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (6 days ago)
 
 </details>
 <details>

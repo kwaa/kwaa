@@ -15,9 +15,9 @@
   <br/>
 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (2 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (3 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (5 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (3 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (6 days ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [proj-airi/duckdb-wasm](https://github.com/proj-airi/duckdb-wasm) - 🦆📊 Easy to use wrapper and Drizzle ORM driver for DuckDB WASM (1 week ago)
 
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [perf(eslint): use moeru config &amp; oxlint](https://github.com/moeru-ai/airi/pull/227) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
-- [refactor: use `@moeru/std`](https://github.com/moeru-ai/airi/pull/226) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
-- [feat: eslint-config](https://github.com/moeru-ai/std/pull/4) on [moeru-ai/std](https://github.com/moeru-ai/std) (4 days ago)
+- [perf(eslint): use moeru config &amp; oxlint](https://github.com/moeru-ai/airi/pull/227) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
+- [refactor: use `@moeru/std`](https://github.com/moeru-ai/airi/pull/226) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
+- [feat: eslint-config](https://github.com/moeru-ai/std/pull/4) on [moeru-ai/std](https://github.com/moeru-ai/std) (5 days ago)
 - [perf(stage-ui): buildless](https://github.com/moeru-ai/airi/pull/218) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 - [perf(ui-transitions): buildless](https://github.com/moeru-ai/airi/pull/217) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 

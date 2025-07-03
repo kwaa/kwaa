@@ -15,9 +15,9 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (1 day ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (6 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (2 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (1 week ago)
 - [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [refactor(stream-text)!: re-implement](https://github.com/moeru-ai/xsai/pull/172) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [refactor: use std](https://github.com/moeru-ai/xsai/pull/171) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [refactor(eslint): use moeru config](https://github.com/moeru-ai/xsai/pull/170) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [refactor(stream-text)!: re-implement](https://github.com/moeru-ai/xsai/pull/172) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [refactor: use std](https://github.com/moeru-ai/xsai/pull/171) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [refactor(eslint): use moeru config](https://github.com/moeru-ai/xsai/pull/170) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
 - [perf(eslint): use moeru config &amp; oxlint](https://github.com/moeru-ai/airi/pull/227) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 - [refactor: use `@moeru/std`](https://github.com/moeru-ai/airi/pull/226) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 

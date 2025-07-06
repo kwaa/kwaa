@@ -15,8 +15,8 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
+- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (5 days ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (1 week ago)
 - [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 weeks ago)
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(shared-chat): improve execute-tool, clean types](https://github.com/moeru-ai/xsai/pull/174) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [refactor!: move step interface, tools option to shared-chat](https://github.com/moeru-ai/xsai/pull/173) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(stream-text): re-implement, return steps, messages](https://github.com/moeru-ai/xsai/pull/172) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [refactor: use std](https://github.com/moeru-ai/xsai/pull/171) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
-- [refactor(eslint): use moeru config](https://github.com/moeru-ai/xsai/pull/170) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [refactor(shared-chat): improve execute-tool, clean types](https://github.com/moeru-ai/xsai/pull/174) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [refactor!: move step interface, tools option to shared-chat](https://github.com/moeru-ai/xsai/pull/173) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat(stream-text): re-implement, return steps, messages](https://github.com/moeru-ai/xsai/pull/172) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [refactor: use std](https://github.com/moeru-ai/xsai/pull/171) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [refactor(eslint): use moeru config](https://github.com/moeru-ai/xsai/pull/170) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
 
 </details>
 <details>

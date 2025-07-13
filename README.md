@@ -16,8 +16,8 @@
 
 
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (3 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (4 days ago)
 - [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. (2 weeks ago)
 
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [chore: use smaller models for test](https://github.com/moeru-ai/xsai/pull/179) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [refactor(packages)!: move to esm-only](https://github.com/VoltAgent/voltagent/pull/372) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (2 days ago)
-- [refactor(stream-text)!: stabilize experimental implement](https://github.com/moeru-ai/xsai/pull/178) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [refactor(std)!: re-implement result, fix/update option methods](https://github.com/moeru-ai/std/pull/7) on [moeru-ai/std](https://github.com/moeru-ai/std) (3 days ago)
-- [feat(std): option](https://github.com/moeru-ai/std/pull/6) on [moeru-ai/std](https://github.com/moeru-ai/std) (3 days ago)
+- [fix(stream-text): always push message](https://github.com/moeru-ai/xsai/pull/181) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [ci(check): testing with ollama](https://github.com/moeru-ai/xsai/pull/180) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [chore: use smaller models for test](https://github.com/moeru-ai/xsai/pull/179) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [refactor(packages)!: move to esm-only](https://github.com/VoltAgent/voltagent/pull/372) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (3 days ago)
+- [refactor(stream-text)!: stabilize experimental implement](https://github.com/moeru-ai/xsai/pull/178) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
 
 </details>
 <details>

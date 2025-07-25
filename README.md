@@ -15,8 +15,8 @@
   <br/>
 
 
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (2 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
 - [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [chore(deps): bump xsai to 0.3.3](https://github.com/VoltAgent/voltagent/pull/411) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (1 day ago)
-- [refactor(docs): migrate to fumadocs](https://github.com/moeru-ai/std/pull/10) on [moeru-ai/std](https://github.com/moeru-ai/std) (1 day ago)
-- [refactor(shared-chat): clean execute-tool result](https://github.com/moeru-ai/xsai/pull/193) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [chore(deps): bump xsai to 0.3.3](https://github.com/VoltAgent/voltagent/pull/411) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (2 days ago)
+- [refactor(docs): migrate to fumadocs](https://github.com/moeru-ai/std/pull/10) on [moeru-ai/std](https://github.com/moeru-ai/std) (2 days ago)
+- [refactor(shared-chat): clean execute-tool result](https://github.com/moeru-ai/xsai/pull/193) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [feat: new post `xsai-0.3`](https://github.com/moeru-ai/blog/pull/8) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (1 week ago)
 - [feat(xsschema): support zod v4.0.0&#43;, bump peer version](https://github.com/moeru-ai/xsai/pull/185) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 

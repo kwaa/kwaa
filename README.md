@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (5 days ago)
-- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (1 week ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 weeks ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [chore: fix embed test](https://github.com/moeru-ai/xsai/pull/199) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [perf: use turborepo for build](https://github.com/moeru-ai/xsai/pull/198) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [refactor!: remove compat package](https://github.com/moeru-ai/xsai/pull/197) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [chore(deps): bump xsai to 0.3.3](https://github.com/VoltAgent/voltagent/pull/411) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (5 days ago)
-- [refactor(docs): migrate to fumadocs](https://github.com/moeru-ai/std/pull/10) on [moeru-ai/std](https://github.com/moeru-ai/std) (5 days ago)
+- [refactor(stage-web): remove chat tabs](https://github.com/moeru-ai/airi/pull/331) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
+- [chore: fix test](https://github.com/moeru-ai/xsai/pull/199) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [perf: use turborepo for build](https://github.com/moeru-ai/xsai/pull/198) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [refactor!: remove compat package](https://github.com/moeru-ai/xsai/pull/197) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [chore(deps): bump xsai to 0.3.3](https://github.com/VoltAgent/voltagent/pull/411) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (6 days ago)
 
 </details>
 <details>

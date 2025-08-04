@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (1 day ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 day ago)
-- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (3 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (2 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 days ago)
+- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (4 days ago)
+- [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(generate-object,stream-object): add strict option](https://github.com/moeru-ai/xsai/pull/205) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(tool): add strict option](https://github.com/moeru-ai/xsai/pull/204) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(xsai): support `fullStream`](https://github.com/VoltAgent/voltagent/pull/443) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (3 days ago)
-- [fix(xsschema): fix strict json schema in nested object](https://github.com/moeru-ai/xsai/pull/203) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [chore(deps): bump xsai, std](https://github.com/moeru-ai/airi/pull/338) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [feat(generate-object,stream-object): add strict option](https://github.com/moeru-ai/xsai/pull/205) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat(tool): add strict option](https://github.com/moeru-ai/xsai/pull/204) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat(xsai): support `fullStream`](https://github.com/VoltAgent/voltagent/pull/443) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (4 days ago)
+- [fix(xsschema): fix strict json schema in nested object](https://github.com/moeru-ai/xsai/pull/203) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [chore(deps): bump xsai, std](https://github.com/moeru-ai/airi/pull/338) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
 
 </details>
 <details>

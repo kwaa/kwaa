@@ -15,8 +15,8 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
-- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
+- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (6 days ago)
 - [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
 - [moeru-ai/xsmcp](https://github.com/moeru-ai/xsmcp) - 🤖📎 extra-small MCP SDK. (1 week ago)
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [feat: support `reasoning_content`](https://github.com/moeru-ai/xsai/pull/206) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [feat: support `reasoning_content`](https://github.com/moeru-ai/xsai/pull/206) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
 - [feat(generate-object,stream-object): add strict option](https://github.com/moeru-ai/xsai/pull/205) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [feat(tool): add strict option](https://github.com/moeru-ai/xsai/pull/204) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [feat(xsai): support `fullStream`](https://github.com/VoltAgent/voltagent/pull/443) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (1 week ago)

@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (1 week ago)
 - [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ XR Voice Call WebUI, Make AI-Powered characters appear to you. (2 weeks ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 weeks ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor: avoid catch twice](https://github.com/moeru-ai/xsai/pull/209) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [fix(memu-js): add wantSummary to retrieveDefaultCategories options](https://github.com/NevaMind-AI/memU/pull/22) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (1 day ago)
+- [fix(memu-js): use globalThis.process instead of process](https://github.com/NevaMind-AI/memU/pull/20) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (1 day ago)
+- [feat(app): memory](https://github.com/moeru-ai/chat/pull/11) on [moeru-ai/chat](https://github.com/moeru-ai/chat) (1 day ago)
+- [refactor: avoid catch twice](https://github.com/moeru-ai/xsai/pull/209) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
 - [fix(xsai): bump to v0.4.0-beta.1, support file &amp; reasoning](https://github.com/VoltAgent/voltagent/pull/494) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (1 week ago)
-- [refactor(shared-chat)!: rewrite types to align with openai](https://github.com/moeru-ai/xsai/pull/207) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
-- [feat: support `reasoning_content`](https://github.com/moeru-ai/xsai/pull/206) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
-- [feat(generate-object,stream-object): add strict option](https://github.com/moeru-ai/xsai/pull/205) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 
 </details>
 <details>

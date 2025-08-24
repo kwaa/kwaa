@@ -15,11 +15,11 @@
   <br/>
 
 
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (2 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (5 days ago)
-- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework (1 week ago)
-- [moeru-ai/chat](https://github.com/moeru-ai/chat) - 🥽🖼️ WebXR Voice Call UI, Make AI-Powered characters appear to you. (3 weeks ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (today)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 day ago)
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (3 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (3 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [fix(memu-js): add wantSummary to retrieveDefaultCategories options](https://github.com/NevaMind-AI/memU/pull/22) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (3 days ago)
-- [fix(memu-js): use globalThis.process instead of process](https://github.com/NevaMind-AI/memU/pull/20) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (3 days ago)
-- [feat(app): memory](https://github.com/moeru-ai/chat/pull/11) on [moeru-ai/chat](https://github.com/moeru-ai/chat) (3 days ago)
-- [refactor: avoid catch twice](https://github.com/moeru-ai/xsai/pull/209) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
-- [fix(xsai): bump to v0.4.0-beta.1, support file &amp; reasoning](https://github.com/VoltAgent/voltagent/pull/494) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (1 week ago)
+- [feat: new experimental loaders](https://github.com/moeru-ai/three-mmd/pull/3) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 day ago)
+- [fix: example with animation](https://github.com/moeru-ai/three-mmd/pull/2) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 day ago)
+- [feat: mmd-loader](https://github.com/moeru-ai/three-mmd/pull/1) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
+- [fix(memu-js): add wantSummary to retrieveDefaultCategories options](https://github.com/NevaMind-AI/memU/pull/22) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (4 days ago)
+- [fix(memu-js): use globalThis.process instead of process](https://github.com/NevaMind-AI/memU/pull/20) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (4 days ago)
 
 </details>
 <details>

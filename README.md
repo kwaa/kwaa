@@ -15,10 +15,10 @@
   <br/>
 
 
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 day ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (2 days ago)
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (4 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (4 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (today)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (3 days ago)
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (5 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (5 days ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: new experimental loaders](https://github.com/moeru-ai/three-mmd/pull/3) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
-- [fix: example with animation](https://github.com/moeru-ai/three-mmd/pull/2) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
-- [feat: mmd-loader](https://github.com/moeru-ai/three-mmd/pull/1) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
-- [fix(memu-js): add wantSummary to retrieveDefaultCategories options](https://github.com/NevaMind-AI/memU/pull/22) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (5 days ago)
-- [fix(memu-js): use globalThis.process instead of process](https://github.com/NevaMind-AI/memU/pull/20) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (5 days ago)
+- [feat: new package `three-mmd-r3f`](https://github.com/moeru-ai/three-mmd/pull/6) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (today)
+- [feat: new experimental loaders](https://github.com/moeru-ai/three-mmd/pull/3) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
+- [fix: example with animation](https://github.com/moeru-ai/three-mmd/pull/2) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
+- [feat: mmd-loader](https://github.com/moeru-ai/three-mmd/pull/1) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (4 days ago)
+- [fix(memu-js): add wantSummary to retrieveDefaultCategories options](https://github.com/NevaMind-AI/memU/pull/22) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (6 days ago)
 
 </details>
 <details>

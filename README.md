@@ -15,10 +15,10 @@
   <br/>
 
 
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (3 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (6 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (3 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [chore(deps): bump xsai to v0.4.0-beta.2](https://github.com/moeru-ai/airi/pull/473) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
-- [feat: new package `three-mmd-r3f`](https://github.com/moeru-ai/three-mmd/pull/6) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
-- [feat: new experimental loaders](https://github.com/moeru-ai/three-mmd/pull/3) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (6 days ago)
-- [fix: example with animation](https://github.com/moeru-ai/three-mmd/pull/2) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (6 days ago)
-- [feat: mmd-loader](https://github.com/moeru-ai/three-mmd/pull/1) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
+- [feat: telemetry](https://github.com/moeru-ai/xsai/pull/212) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [chore(deps): bump xsai to v0.4.0-beta.2](https://github.com/moeru-ai/airi/pull/473) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
+- [feat: new package `three-mmd-r3f`](https://github.com/moeru-ai/three-mmd/pull/6) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (4 days ago)
+- [feat: new experimental loaders](https://github.com/moeru-ai/three-mmd/pull/3) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
+- [fix: example with animation](https://github.com/moeru-ai/three-mmd/pull/2) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
 
 </details>
 <details>

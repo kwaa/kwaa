@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [kwaa/qoo-4b](https://github.com/kwaa/qoo-4b) -  (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
 - [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
 
 </details>
 <details>
@@ -27,11 +27,11 @@
   <br/>
 
 
+- [kwaa/qoo-4b](https://github.com/kwaa/qoo-4b) - 
 - [kwaa/sponsors](https://github.com/kwaa/sponsors) - 
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog
 - [kwaa/sonik-qwik](https://github.com/kwaa/sonik-qwik) - [Alpha] Qwik preset for the Sonik
 - [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP]
-- [kwaa/csgo](https://github.com/kwaa/csgo) - My CS:GO crosshair &amp; scripts.
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: telemetry](https://github.com/moeru-ai/xsai/pull/212) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [feat: initial of xsAI integration](https://github.com/VoltAgent/voltagent/pull/535) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (1 day ago)
+- [feat: telemetry](https://github.com/moeru-ai/xsai/pull/212) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
 - [chore(deps): bump xsai to v0.4.0-beta.2](https://github.com/moeru-ai/airi/pull/473) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 - [feat: new package `three-mmd-r3f`](https://github.com/moeru-ai/three-mmd/pull/6) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
 - [feat: new experimental loaders](https://github.com/moeru-ai/three-mmd/pull/3) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
-- [fix: example with animation](https://github.com/moeru-ai/three-mmd/pull/2) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
 
 </details>
 <details>

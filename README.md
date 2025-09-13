@@ -15,8 +15,8 @@
   <br/>
 
 
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (3 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (3 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (4 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (4 days ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 weeks ago)
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [refactor(eslint-config/moeru-lint): skip build step](https://github.com/moeru-ai/std/pull/13) on [moeru-ai/std](https://github.com/moeru-ai/std) (3 days ago)
+- [refactor(eslint-config/moeru-lint): skip build step](https://github.com/moeru-ai/std/pull/13) on [moeru-ai/std](https://github.com/moeru-ai/std) (4 days ago)
 - [feat: initial of xsAI integration](https://github.com/VoltAgent/voltagent/pull/535) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (1 week ago)
-- [feat: telemetry](https://github.com/moeru-ai/xsai/pull/212) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [feat: telemetry](https://github.com/moeru-ai/xsai/pull/212) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 - [chore(deps): bump xsai to v0.4.0-beta.2](https://github.com/moeru-ai/airi/pull/473) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 weeks ago)
 - [feat: new package `three-mmd-r3f`](https://github.com/moeru-ai/three-mmd/pull/6) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 weeks ago)
 

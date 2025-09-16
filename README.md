@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (1 day ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (6 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (6 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
+- [err-require-esm/.github](https://github.com/err-require-esm/.github) -  (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (1 day ago)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (2 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(types): extract unknown option to with unknown type](https://github.com/moeru-ai/xsai/pull/220) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [refactor(eslint-config/moeru-lint): skip build step](https://github.com/moeru-ai/std/pull/13) on [moeru-ai/std](https://github.com/moeru-ai/std) (6 days ago)
+- [refactor(memu-js): improve structure, modern stack, esm only](https://github.com/NevaMind-AI/memU/pull/36) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (1 day ago)
+- [refactor(types): extract unknown option to with unknown type](https://github.com/moeru-ai/xsai/pull/220) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [refactor(eslint-config/moeru-lint): skip build step](https://github.com/moeru-ai/std/pull/13) on [moeru-ai/std](https://github.com/moeru-ai/std) (1 week ago)
 - [feat: initial of xsAI integration](https://github.com/VoltAgent/voltagent/pull/535) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (1 week ago)
 - [feat: telemetry](https://github.com/moeru-ai/xsai/pull/212) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
-- [chore(deps): bump xsai to v0.4.0-beta.2](https://github.com/moeru-ai/airi/pull/473) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 weeks ago)
 
 </details>
 <details>

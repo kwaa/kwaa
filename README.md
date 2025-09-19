@@ -15,11 +15,11 @@
   <br/>
 
 
-- [err-require-esm/.github](https://github.com/err-require-esm/.github) -  (2 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (3 days ago)
-- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (3 days ago)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (4 days ago)
+- [verre-rs/verre](https://github.com/verre-rs/verre) -  (today)
+- [err-require-esm/.github](https://github.com/err-require-esm/.github) -  (3 days ago)
+- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (4 days ago)
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
 
 </details>
 <details>
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [refactor(memu-js)!: use fetch instead of axios](https://github.com/NevaMind-AI/memU/pull/39) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (today)
-- [refactor(memu-js): improve structure, modern stack, esm only](https://github.com/NevaMind-AI/memU/pull/36) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (3 days ago)
-- [refactor(types): extract unknown option to with unknown type](https://github.com/moeru-ai/xsai/pull/220) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [refactor(memu-js)!: use fetch instead of axios](https://github.com/NevaMind-AI/memU/pull/39) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (1 day ago)
+- [refactor(memu-js): improve structure, modern stack, esm only](https://github.com/NevaMind-AI/memU/pull/36) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (4 days ago)
+- [refactor(types): extract unknown option to with unknown type](https://github.com/moeru-ai/xsai/pull/220) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
 - [refactor(eslint-config/moeru-lint): skip build step](https://github.com/moeru-ai/std/pull/13) on [moeru-ai/std](https://github.com/moeru-ai/std) (1 week ago)
 - [feat: initial of xsAI integration](https://github.com/VoltAgent/voltagent/pull/535) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (2 weeks ago)
 

@@ -15,9 +15,9 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
-- [verre-rs/verre](https://github.com/verre-rs/verre) -  (1 day ago)
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [verre-rs/verre](https://github.com/verre-rs/verre) -  (2 days ago)
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (6 days ago)
 - [err-require-esm/.github](https://github.com/err-require-esm/.github) -  (1 week ago)
 - [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (1 week ago)
 
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [refactor(memu-js)!: use fetch instead of axios](https://github.com/NevaMind-AI/memU/pull/39) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (5 days ago)
+- [refactor(memu-js)!: use fetch instead of axios](https://github.com/NevaMind-AI/memU/pull/39) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (6 days ago)
 - [refactor(memu-js): improve structure, modern stack, esm only](https://github.com/NevaMind-AI/memU/pull/36) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (1 week ago)
 - [refactor(types): extract unknown option to with unknown type](https://github.com/moeru-ai/xsai/pull/220) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [refactor(eslint-config/moeru-lint): skip build step](https://github.com/moeru-ai/std/pull/13) on [moeru-ai/std](https://github.com/moeru-ai/std) (2 weeks ago)

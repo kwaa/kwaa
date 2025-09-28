@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (2 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
-- [verre-rs/verre](https://github.com/verre-rs/verre) -  (5 days ago)
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (1 week ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (3 days ago)
+- [verre-rs/verre](https://github.com/verre-rs/verre) -  (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
+- [feat: experimental babylon-mmd impl](https://github.com/moeru-ai/three-mmd/pull/8) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 day ago)
 - [refactor(memu-js)!: use fetch instead of axios](https://github.com/NevaMind-AI/memU/pull/39) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (1 week ago)
 - [refactor(memu-js): improve structure, modern stack, esm only](https://github.com/NevaMind-AI/memU/pull/36) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (1 week ago)
 - [refactor(types): extract unknown option to with unknown type](https://github.com/moeru-ai/xsai/pull/220) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [refactor(eslint-config/moeru-lint): skip build step](https://github.com/moeru-ai/std/pull/13) on [moeru-ai/std](https://github.com/moeru-ai/std) (2 weeks ago)
-- [feat: initial of xsAI integration](https://github.com/VoltAgent/voltagent/pull/535) on [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (3 weeks ago)
 
 </details>
 <details>

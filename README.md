@@ -15,10 +15,10 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (5 days ago)
 - [verre-rs/verre](https://github.com/verre-rs/verre) -  (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: experimental babylon-mmd impl](https://github.com/moeru-ai/three-mmd/pull/8) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
+- [feat(stage-ui-three): vrm lip-sync](https://github.com/moeru-ai/airi/pull/620) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
+- [feat: experimental babylon-mmd impl](https://github.com/moeru-ai/three-mmd/pull/8) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
 - [refactor(memu-js)!: use fetch instead of axios](https://github.com/NevaMind-AI/memU/pull/39) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (1 week ago)
 - [refactor(memu-js): improve structure, modern stack, esm only](https://github.com/NevaMind-AI/memU/pull/36) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (2 weeks ago)
 - [refactor(types): extract unknown option to with unknown type](https://github.com/moeru-ai/xsai/pull/220) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
-- [refactor(eslint-config/moeru-lint): skip build step](https://github.com/moeru-ai/std/pull/13) on [moeru-ai/std](https://github.com/moeru-ai/std) (2 weeks ago)
 
 </details>
 <details>

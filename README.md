@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (4 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (6 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 day ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (5 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(memu-js): simplify internal structure](https://github.com/NevaMind-AI/memU/pull/46) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (today)
-- [perf: use shallow-ref for web audio api class](https://github.com/moeru-ai/airi/pull/623) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
-- [feat(providers): auto generate from models.dev](https://github.com/moeru-ai/xsai/pull/223) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(stage-ui-three): vrm lip-sync](https://github.com/moeru-ai/airi/pull/620) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
-- [feat: experimental babylon-mmd impl](https://github.com/moeru-ai/three-mmd/pull/8) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (4 days ago)
+- [refactor(memu-js): simplify internal structure](https://github.com/NevaMind-AI/memU/pull/46) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (1 day ago)
+- [perf: use shallow-ref for web audio api class](https://github.com/moeru-ai/airi/pull/623) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
+- [feat(providers): auto generate from models.dev](https://github.com/moeru-ai/xsai/pull/223) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat(stage-ui-three): vrm lip-sync](https://github.com/moeru-ai/airi/pull/620) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [chore: experimental babylon-mmd impl](https://github.com/moeru-ai/three-mmd/pull/8) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (5 days ago)
 
 </details>
 <details>

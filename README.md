@@ -15,9 +15,9 @@
   <br/>
 
 
-- [nolebase/template-monorepo](https://github.com/nolebase/template-monorepo) - A UI component friendly, general TypeScript module first monorepo template repository with Vite, Vitest, unbuild, VitePress that @nolebase/integrations based on. (1 day ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [nolebase/template-monorepo](https://github.com/nolebase/template-monorepo) - A UI component friendly, general TypeScript module first monorepo template repository with Vite, Vitest, unbuild, VitePress that @nolebase/integrations based on. (2 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (2 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
 - [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (1 week ago)
 

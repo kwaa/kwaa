@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 days ago)
-- [nolebase/template-monorepo](https://github.com/nolebase/template-monorepo) - A UI component friendly, general TypeScript module first monorepo template repository with Vite, Vitest, unbuild, VitePress that @nolebase/integrations based on. (6 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (6 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 day ago)
+- [nolebase/template-monorepo](https://github.com/nolebase/template-monorepo) - A UI component friendly, general TypeScript module first monorepo template repository with Vite, Vitest, unbuild, VitePress that @nolebase/integrations based on. (1 week ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (1 week ago)
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (2 weeks ago)
 
 </details>
 <details>
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [chore(three-mmd-b): build material](https://github.com/moeru-ai/three-mmd/pull/11) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
-- [refactor(memu-js): simplify internal structure](https://github.com/NevaMind-AI/memU/pull/46) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (1 week ago)
-- [perf: use shallow-ref for web audio api class](https://github.com/moeru-ai/airi/pull/623) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
+- [chore(three-mmd-b): build material](https://github.com/moeru-ai/three-mmd/pull/11) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (4 days ago)
+- [refactor(memu-js): simplify internal structure](https://github.com/NevaMind-AI/memU/pull/46) on [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (2 weeks ago)
+- [perf: use shallow-ref for web audio api class](https://github.com/moeru-ai/airi/pull/623) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 weeks ago)
 - [feat(providers): auto generate from models.dev](https://github.com/moeru-ai/xsai/pull/223) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 - [feat(stage-ui-three): vrm lip-sync](https://github.com/moeru-ai/airi/pull/620) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 weeks ago)
 

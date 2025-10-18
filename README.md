@@ -16,10 +16,10 @@
 
 
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (today)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 day ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (today)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 days ago)
 - [nolebase/template-monorepo](https://github.com/nolebase/template-monorepo) - A UI component friendly, general TypeScript module first monorepo template repository with Vite, Vitest, unbuild, VitePress that @nolebase/integrations based on. (1 week ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [chore(openai-compatible-builder): clean useless code](https://github.com/moeru-ai/airi/pull/659) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
-- [fix(openai-compatible-builder): ignore embed &amp; gemini-2.5-pro model](https://github.com/moeru-ai/airi/pull/658) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
-- [refactor(server-sdk): use async-retry instead of hand writing retry](https://github.com/moeru-ai/airi/pull/657) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
-- [fix(providers): validate configured providers only](https://github.com/moeru-ai/airi/pull/656) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
-- [docs: remove husbando](https://github.com/moeru-ai/airi/pull/655) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
+- [chore(openai-compatible-builder): clean useless code](https://github.com/moeru-ai/airi/pull/659) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
+- [fix(openai-compatible-builder): ignore embed &amp; gemini-2.5-pro model](https://github.com/moeru-ai/airi/pull/658) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
+- [refactor(server-sdk): use async-retry instead of hand writing retry](https://github.com/moeru-ai/airi/pull/657) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
+- [fix(providers): validate configured providers only](https://github.com/moeru-ai/airi/pull/656) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
+- [docs: remove husbando](https://github.com/moeru-ai/airi/pull/655) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
 
 </details>
 <details>

@@ -15,11 +15,11 @@
   <br/>
 
 
-- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers. (2 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (3 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (4 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (4 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers. (3 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (5 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [fix: bump xsschema to 0.4.0-beta.5](https://github.com/punkpeye/fastmcp/pull/195) on [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) (3 days ago)
-- [chore: update test](https://github.com/moeru-ai/xsai/pull/229) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [chore(telemetry): disable compare test](https://github.com/moeru-ai/xsai/pull/228) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [refactor: partially remove dotenv, dotenvx](https://github.com/moeru-ai/airi/pull/667) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
-- [perf(eslint): add oxlint plugin, use moeru-lint](https://github.com/moeru-ai/airi/pull/666) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
+- [fix: bump xsschema to 0.4.0-beta.5](https://github.com/punkpeye/fastmcp/pull/195) on [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) (4 days ago)
+- [chore: update test](https://github.com/moeru-ai/xsai/pull/229) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [chore(telemetry): disable compare test](https://github.com/moeru-ai/xsai/pull/228) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [refactor: partially remove dotenv, dotenvx](https://github.com/moeru-ai/airi/pull/667) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
+- [perf(eslint): add oxlint plugin, use moeru-lint](https://github.com/moeru-ai/airi/pull/666) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
 
 </details>
 <details>

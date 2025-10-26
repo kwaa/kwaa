@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/reproduction-ort-session-segmentation-fault](https://github.com/moeru-ai/reproduction-ort-session-segmentation-fault) -  (2 days ago)
-- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers. (5 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (6 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (6 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [moeru-ai/reproduction-ort-session-segmentation-fault](https://github.com/moeru-ai/reproduction-ort-session-segmentation-fault) -  (3 days ago)
+- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers. (6 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
 
 </details>
 <details>
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [fix: bump xsschema to 0.4.0-beta.5](https://github.com/punkpeye/fastmcp/pull/195) on [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) (6 days ago)
-- [chore: update test](https://github.com/moeru-ai/xsai/pull/229) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [chore(telemetry): disable compare test](https://github.com/moeru-ai/xsai/pull/228) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [fix: bump xsschema to 0.4.0-beta.5](https://github.com/punkpeye/fastmcp/pull/195) on [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) (1 week ago)
+- [chore: update test](https://github.com/moeru-ai/xsai/pull/229) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [chore(telemetry): disable compare test](https://github.com/moeru-ai/xsai/pull/228) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [refactor: partially remove dotenv, dotenvx](https://github.com/moeru-ai/airi/pull/667) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 - [perf(eslint): add oxlint plugin, use moeru-lint](https://github.com/moeru-ai/airi/pull/666) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 

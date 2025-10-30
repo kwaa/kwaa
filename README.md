@@ -15,10 +15,10 @@
   <br/>
 
 
-- [importantimport/koimi](https://github.com/importantimport/koimi) - 💘 Sweet, Powerful, Blazing-fast Blog Meta-framework. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
-- [moeru-ai/reproduction-ort-session-segmentation-fault](https://github.com/moeru-ai/reproduction-ort-session-segmentation-fault) -  (6 days ago)
+- [importantimport/koimi](https://github.com/importantimport/koimi) - 💘 Sweet, Powerful, Blazing-fast Blog Meta-framework. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
+- [moeru-ai/reproduction-ort-session-segmentation-fault](https://github.com/moeru-ai/reproduction-ort-session-segmentation-fault) -  (1 week ago)
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers. (1 week ago)
 
 </details>

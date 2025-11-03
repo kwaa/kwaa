@@ -16,10 +16,10 @@
 
 
 - [moeru-ai/ortts](https://github.com/moeru-ai/ortts) -  (today)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (today)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [importantimport/koimi](https://github.com/importantimport/koimi) - 💘 Sweet, Powerful, Blazing-fast Blog Meta-framework. (4 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 day ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [importantimport/koimi](https://github.com/importantimport/koimi) - 💘 Sweet, Powerful, Blazing-fast Blog Meta-framework. (5 days ago)
 
 </details>
 <details>
@@ -39,8 +39,8 @@
   <br/>
 
 
-- [chore: remove empty files](https://github.com/moeru-ai/airi/pull/710) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
-- [fix(eslint-config/moeru-lint): use `tinyexec`](https://github.com/moeru-ai/std/pull/14) on [moeru-ai/std](https://github.com/moeru-ai/std) (today)
+- [chore: remove empty files](https://github.com/moeru-ai/airi/pull/710) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
+- [fix(eslint-config/moeru-lint): use `tinyexec`](https://github.com/moeru-ai/std/pull/14) on [moeru-ai/std](https://github.com/moeru-ai/std) (1 day ago)
 - [fix: bump xsschema to 0.4.0-beta.5](https://github.com/punkpeye/fastmcp/pull/195) on [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) (2 weeks ago)
 - [chore: update test](https://github.com/moeru-ai/xsai/pull/229) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 - [chore(telemetry): disable compare test](https://github.com/moeru-ai/xsai/pull/228) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)

@@ -15,10 +15,10 @@
   <br/>
 
 
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (3 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (6 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (6 days ago)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (5 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
 - [importantimport/koimi](https://github.com/importantimport/koimi) - 💘 Sweet, Powerful, Blazing-fast Blog Meta-framework. (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(providers): improve api key process, add openai](https://github.com/moeru-ai/xsai/pull/233) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
-- [docs(providers): docs for new providers package](https://github.com/moeru-ai/xsai/pull/232) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
-- [chore: remove empty files](https://github.com/moeru-ai/airi/pull/710) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (6 days ago)
-- [fix(eslint-config/moeru-lint): use `tinyexec`](https://github.com/moeru-ai/std/pull/14) on [moeru-ai/std](https://github.com/moeru-ai/std) (6 days ago)
-- [fix: bump xsschema to 0.4.0-beta.5](https://github.com/punkpeye/fastmcp/pull/195) on [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) (2 weeks ago)
+- [refactor(providers): improve api key process, add openai](https://github.com/moeru-ai/xsai/pull/233) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [docs(providers): docs for new providers package](https://github.com/moeru-ai/xsai/pull/232) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [chore: remove empty files](https://github.com/moeru-ai/airi/pull/710) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
+- [fix(eslint-config/moeru-lint): use `tinyexec`](https://github.com/moeru-ai/std/pull/14) on [moeru-ai/std](https://github.com/moeru-ai/std) (1 week ago)
+- [fix: bump xsschema to 0.4.0-beta.5](https://github.com/punkpeye/fastmcp/pull/195) on [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) (3 weeks ago)
 
 </details>
 <details>

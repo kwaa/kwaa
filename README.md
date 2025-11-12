@@ -15,8 +15,8 @@
   <br/>
 
 
-- [kwaa/.github](https://github.com/kwaa/.github) - dot github (1 day ago)
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (6 days ago)
+- [kwaa/.github](https://github.com/kwaa/.github) - dot github (2 days ago)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (1 week ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
 - [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)

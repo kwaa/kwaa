@@ -15,11 +15,11 @@
   <br/>
 
 
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 days ago)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (2 days ago)
-- [moeru-ai/citrus-g2p](https://github.com/moeru-ai/citrus-g2p) - 🚧 WIP (2 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (3 days ago)
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (3 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (today)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (3 days ago)
+- [moeru-ai/citrus-g2p](https://github.com/moeru-ai/citrus-g2p) - 🚧 WIP (3 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (3 days ago)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (4 days ago)
 
 </details>
 <details>
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [feat: kokoro](https://github.com/moeru-ai/ortts/pull/4) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (6 days ago)
+- [feat: kokoro](https://github.com/moeru-ai/ortts/pull/4) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 week ago)
 - [refactor(providers): improve api key process, add openai](https://github.com/moeru-ai/xsai/pull/233) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 - [docs(providers): docs for new providers package](https://github.com/moeru-ai/xsai/pull/232) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 - [chore: remove empty files](https://github.com/moeru-ai/airi/pull/710) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 weeks ago)

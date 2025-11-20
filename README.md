@@ -16,10 +16,10 @@
 
 
 - [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (today)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (3 days ago)
-- [moeru-ai/citrus-g2p](https://github.com/moeru-ai/citrus-g2p) - 🚧 WIP (3 days ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (3 days ago)
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (4 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (1 day ago)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (4 days ago)
+- [moeru-ai/citrus-g2p](https://github.com/moeru-ai/citrus-g2p) - 🚧 WIP (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
+- [fix(three-mmd-b): adjust build animation position &amp; rotation](https://github.com/moeru-ai/three-mmd/pull/14) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (today)
 - [feat: kokoro](https://github.com/moeru-ai/ortts/pull/4) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 week ago)
 - [refactor(providers): improve api key process, add openai](https://github.com/moeru-ai/xsai/pull/233) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 - [docs(providers): docs for new providers package](https://github.com/moeru-ai/xsai/pull/232) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 weeks ago)
 - [chore: remove empty files](https://github.com/moeru-ai/airi/pull/710) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 weeks ago)
-- [fix(eslint-config/moeru-lint): use `tinyexec`](https://github.com/moeru-ai/std/pull/14) on [moeru-ai/std](https://github.com/moeru-ai/std) (2 weeks ago)
 
 </details>
 <details>

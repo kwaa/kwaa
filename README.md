@@ -15,9 +15,9 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (today)
-- [insel-null/lemmih](https://github.com/insel-null/lemmih) - 🌐🗄️ A simple, performance-focused Web framework. (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 day ago)
+- [insel-null/lemmih](https://github.com/insel-null/lemmih) - 🌐🗄️ A simple, performance-focused Web framework. (6 days ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (2 weeks ago)
 
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [refactor(three-mmd): physics service](https://github.com/moeru-ai/three-mmd/pull/24) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
-- [refactor(three-mmd)!: replace with babylon-mmd-based impl](https://github.com/moeru-ai/three-mmd/pull/23) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
-- [feat(three-mmd-b): ammo physics](https://github.com/moeru-ai/three-mmd/pull/21) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (4 days ago)
-- [feat(method-router): handle head request](https://github.com/insel-null/lemmih/pull/6) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (5 days ago)
+- [refactor(three-mmd): physics service](https://github.com/moeru-ai/three-mmd/pull/24) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
+- [refactor(three-mmd)!: replace with babylon-mmd-based impl](https://github.com/moeru-ai/three-mmd/pull/23) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
+- [feat(three-mmd-b): ammo physics](https://github.com/moeru-ai/three-mmd/pull/21) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (5 days ago)
+- [feat(method-router): handle head request](https://github.com/insel-null/lemmih/pull/6) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (6 days ago)
 - [feat: method router](https://github.com/insel-null/lemmih/pull/4) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (1 week ago)
 
 </details>

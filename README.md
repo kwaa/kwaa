@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (3 days ago)
-- [insel-null/lemmih](https://github.com/insel-null/lemmih) - 🌐🗄️ A simple, performance-focused Web framework. (3 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (5 days ago)
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (3 weeks ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (4 days ago)
+- [insel-null/lemmih](https://github.com/insel-null/lemmih) - 🌐🗄️ A simple, performance-focused Web framework. (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (6 days ago)
 
 </details>
 <details>
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [refactor: split bun-app, params](https://github.com/insel-null/lemmih/pull/7) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (4 days ago)
+- [refactor: split bun-app, params](https://github.com/insel-null/lemmih/pull/7) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (5 days ago)
 - [refactor(three-mmd): physics service](https://github.com/moeru-ai/three-mmd/pull/24) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
 - [refactor(three-mmd)!: replace with babylon-mmd-based impl](https://github.com/moeru-ai/three-mmd/pull/23) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
 - [feat(three-mmd-b): ammo physics](https://github.com/moeru-ai/three-mmd/pull/21) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)

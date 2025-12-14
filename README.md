@@ -15,11 +15,11 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
-- [insel-null/uuid](https://github.com/insel-null/uuid) - 🔀🆔 A simple, fast UUID implementation. (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
-- [insel-null/lemmih](https://github.com/insel-null/lemmih) - 🌐🗄️ A simple, performance-focused Web framework. (6 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (6 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (today)
+- [insel-null/uuid](https://github.com/insel-null/uuid) - 🔀🆔 A simple, fast UUID implementation. (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
 
 </details>
 <details>
@@ -43,7 +43,7 @@
 - [refactor(three-mmd): physics service](https://github.com/moeru-ai/three-mmd/pull/24) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
 - [refactor(three-mmd)!: replace with babylon-mmd-based impl](https://github.com/moeru-ai/three-mmd/pull/23) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
 - [feat(three-mmd-b): ammo physics](https://github.com/moeru-ai/three-mmd/pull/21) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
-- [feat(method-router): handle head request](https://github.com/insel-null/lemmih/pull/6) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (1 week ago)
+- [feat(method-router): handle head request](https://github.com/insel-null/lemmih/pull/6) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (2 weeks ago)
 
 </details>
 <details>

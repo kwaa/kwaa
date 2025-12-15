@@ -15,10 +15,10 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (today)
-- [insel-null/uuid](https://github.com/insel-null/uuid) - 🔀🆔 A simple, fast UUID implementation. (3 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 day ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
+- [insel-null/uuid](https://github.com/insel-null/uuid) - 🔀🆔 A simple, fast UUID implementation. (4 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
 - [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
 
 </details>
@@ -42,7 +42,7 @@
 - [refactor: split bun-app, params](https://github.com/insel-null/lemmih/pull/7) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (1 week ago)
 - [refactor(three-mmd): physics service](https://github.com/moeru-ai/three-mmd/pull/24) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
 - [refactor(three-mmd)!: replace with babylon-mmd-based impl](https://github.com/moeru-ai/three-mmd/pull/23) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
-- [feat(three-mmd-b): ammo physics](https://github.com/moeru-ai/three-mmd/pull/21) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
+- [feat(three-mmd-b): ammo physics](https://github.com/moeru-ai/three-mmd/pull/21) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 weeks ago)
 - [feat(method-router): handle head request](https://github.com/insel-null/lemmih/pull/6) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (2 weeks ago)
 
 </details>
@@ -55,7 +55,7 @@
 - [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (2 years ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (2 years ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (2 years ago)
-- [2022 总结](https://kwaa.dev/2023) (2 years ago)
+- [2022 总结](https://kwaa.dev/2023) (3 years ago)
 
 👉 read more at [./kwaa.dev](https://kwaa.dev)
 

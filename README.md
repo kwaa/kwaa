@@ -15,10 +15,10 @@
   <br/>
 
 
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 day ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
-- [insel-null/uuid](https://github.com/insel-null/uuid) - 🔀🆔 A simple, fast UUID implementation. (4 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
+- [insel-null/uuid](https://github.com/insel-null/uuid) - 🔀🆔 A simple, fast UUID implementation. (5 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
 
 </details>

@@ -15,11 +15,11 @@
   <br/>
 
 
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (3 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (3 days ago)
-- [insel-null/uuid](https://github.com/insel-null/uuid) - 🔀🆔 A simple, fast UUID implementation. (6 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 day ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (4 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (4 days ago)
+- [insel-null/uuid](https://github.com/insel-null/uuid) - 🔀🆔 A simple, fast UUID implementation. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
+- [refactor: merge watch targets, flatten callback](https://github.com/moeru-ai/airi/pull/812) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
 - [refactor: split bun-app, params](https://github.com/insel-null/lemmih/pull/7) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (1 week ago)
 - [refactor(three-mmd): physics service](https://github.com/moeru-ai/three-mmd/pull/24) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 weeks ago)
 - [refactor(three-mmd)!: replace with babylon-mmd-based impl](https://github.com/moeru-ai/three-mmd/pull/23) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 weeks ago)
 - [feat(three-mmd-b): ammo physics](https://github.com/moeru-ai/three-mmd/pull/21) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 weeks ago)
-- [feat(method-router): handle head request](https://github.com/insel-null/lemmih/pull/6) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (2 weeks ago)
 
 </details>
 <details>

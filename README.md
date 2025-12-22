@@ -15,10 +15,10 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) - 👾💬 Framework bindings for xsAI. Integrate with your React / Vue / Svelte / ... apps! (3 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
+- [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) - 👾💬 Framework bindings for xsAI. Integrate with your React / Vue / Svelte / ... apps! (4 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (5 days ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [ci(check): fix test](https://github.com/moeru-ai/xsai/pull/240) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [refactor(xsschema)!: deprecate to json schema sync, infer alias](https://github.com/moeru-ai/xsai/pull/239) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(xsschema)!: support standard json schema v1](https://github.com/moeru-ai/xsai/pull/238) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [refactor: merge watch targets, flatten callback](https://github.com/moeru-ai/airi/pull/812) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
-- [refactor: split bun-app, params](https://github.com/insel-null/lemmih/pull/7) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (2 weeks ago)
+- [feat(embed): add dimensions option](https://github.com/moeru-ai/xsai/pull/243) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat(stream-text): return reasoning text](https://github.com/moeru-ai/xsai/pull/242) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [fix(generate-text): no longer remove reasoning content](https://github.com/moeru-ai/xsai/pull/241) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [ci(check): fix test](https://github.com/moeru-ai/xsai/pull/240) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [refactor(xsschema)!: deprecate to json schema sync, infer alias](https://github.com/moeru-ai/xsai/pull/239) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
 
 </details>
 <details>
@@ -54,7 +54,7 @@
 - [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (2 years ago)
 - [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (2 years ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (2 years ago)
-- [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (2 years ago)
+- [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (3 years ago)
 - [2022 总结](https://kwaa.dev/2023) (3 years ago)
 
 👉 read more at [./kwaa.dev](https://kwaa.dev)

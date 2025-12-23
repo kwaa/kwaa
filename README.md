@@ -15,10 +15,10 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
-- [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) - 👾💬 Framework bindings for xsAI. Integrate with your React / Vue / Svelte / ... apps! (4 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) - 👾💬 Framework bindings for xsAI. Integrate with your React / Vue / Svelte / ... apps! (5 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (6 days ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(embed): add dimensions option](https://github.com/moeru-ai/xsai/pull/243) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [feat(stream-text): return reasoning text](https://github.com/moeru-ai/xsai/pull/242) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [fix(generate-text): no longer remove reasoning content](https://github.com/moeru-ai/xsai/pull/241) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [ci(check): fix test](https://github.com/moeru-ai/xsai/pull/240) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [refactor(xsschema)!: deprecate to json schema sync, infer alias](https://github.com/moeru-ai/xsai/pull/239) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat: new post `xsai-0.4`](https://github.com/moeru-ai/blog/pull/9) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (today)
+- [docs(spec/json-schema): add xsAI to integrator](https://github.com/standard-schema/standard-schema/pull/145) on [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) (today)
+- [refactor(telemetry)!: gen_ai](https://github.com/moeru-ai/xsai/pull/244) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat(embed): add dimensions option](https://github.com/moeru-ai/xsai/pull/243) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat(stream-text): return reasoning text](https://github.com/moeru-ai/xsai/pull/242) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
 
 </details>
 <details>

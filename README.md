@@ -15,10 +15,10 @@
   <br/>
 
 
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (4 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (6 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [moeru-ai/xsai-use](https://github.com/moeru-ai/xsai-use) - 👾💬 Framework bindings for xsAI. Integrate with your React / Vue / Svelte / ... apps! (1 week ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: new post `xsai-0.4`](https://github.com/moeru-ai/blog/pull/9) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (5 days ago)
-- [docs(spec/json-schema): add xsAI to integrator](https://github.com/standard-schema/standard-schema/pull/145) on [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) (5 days ago)
-- [refactor(telemetry)!: gen_ai](https://github.com/moeru-ai/xsai/pull/244) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [feat(embed): add dimensions option](https://github.com/moeru-ai/xsai/pull/243) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [feat(stream-text): return reasoning text](https://github.com/moeru-ai/xsai/pull/242) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [feat: new post `xsai-0.4`](https://github.com/moeru-ai/blog/pull/9) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (6 days ago)
+- [docs(spec/json-schema): add xsAI to integrator](https://github.com/standard-schema/standard-schema/pull/145) on [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) (6 days ago)
+- [refactor(telemetry)!: gen_ai](https://github.com/moeru-ai/xsai/pull/244) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [feat(embed): add dimensions option](https://github.com/moeru-ai/xsai/pull/243) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [feat(stream-text): return reasoning text](https://github.com/moeru-ai/xsai/pull/242) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>

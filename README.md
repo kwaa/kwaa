@@ -15,9 +15,9 @@
   <br/>
 
 
-- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (6 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (6 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (6 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
+- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (1 week ago)
 - [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(xsschema)!: remove sync method](https://github.com/moeru-ai/xsai/pull/254) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [refactor(providers)!: remove deprecated providers](https://github.com/moeru-ai/xsai/pull/253) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [refactor: migrate to new `providers` package](https://github.com/moeru-ai/airi/pull/846) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
-- [refactor!: remove old providers package](https://github.com/moeru-ai/xsai/pull/252) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
-- [feat(providers)!: special providers, move azure, workers-ai](https://github.com/moeru-ai/xsai/pull/251) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [feat(telemetry): embed, embedMany](https://github.com/moeru-ai/xsai/pull/260) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat: support `reasoning` field](https://github.com/moeru-ai/xsai/pull/259) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat: reasoning effort](https://github.com/moeru-ai/xsai/pull/257) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [refactor(xsschema)!: remove sync method](https://github.com/moeru-ai/xsai/pull/254) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [refactor(providers)!: remove deprecated providers](https://github.com/moeru-ai/xsai/pull/253) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>

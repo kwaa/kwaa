@@ -15,7 +15,7 @@
   <br/>
 
 
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (6 days ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (1 week ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 weeks ago)
 - [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (2 weeks ago)
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [refactor(std)!: deprecate base64 utils](https://github.com/moeru-ai/std/pull/17) on [moeru-ai/std](https://github.com/moeru-ai/std) (6 days ago)
+- [refactor(std)!: deprecate base64 utils](https://github.com/moeru-ai/std/pull/17) on [moeru-ai/std](https://github.com/moeru-ai/std) (1 week ago)
 - [feat(telemetry): embed, embedMany](https://github.com/moeru-ai/xsai/pull/260) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [feat: support `reasoning` field](https://github.com/moeru-ai/xsai/pull/259) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [feat: reasoning effort](https://github.com/moeru-ai/xsai/pull/257) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)

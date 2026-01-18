@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: list](https://github.com/moeru-ai/ortts/pull/13) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (today)
+- [refactor(downloader): improve structure](https://github.com/moeru-ai/ortts/pull/15) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 day ago)
+- [feat: remove](https://github.com/moeru-ai/ortts/pull/14) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 day ago)
+- [feat: list](https://github.com/moeru-ai/ortts/pull/13) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 day ago)
 - [refactor(std)!: deprecate base64 utils](https://github.com/moeru-ai/std/pull/17) on [moeru-ai/std](https://github.com/moeru-ai/std) (1 week ago)
 - [feat(telemetry): embed, embedMany](https://github.com/moeru-ai/xsai/pull/260) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
-- [feat: support `reasoning` field](https://github.com/moeru-ai/xsai/pull/259) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
-- [feat: reasoning effort](https://github.com/moeru-ai/xsai/pull/257) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>

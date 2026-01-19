@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
 - [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (1 week ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 weeks ago)
-- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (2 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(downloader): improve structure](https://github.com/moeru-ai/ortts/pull/15) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 day ago)
-- [feat: remove](https://github.com/moeru-ai/ortts/pull/14) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 day ago)
-- [feat: list](https://github.com/moeru-ai/ortts/pull/13) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 day ago)
+- [feat: openresponses](https://github.com/moeru-ai/xsai/pull/263) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [refactor(downloader): improve structure](https://github.com/moeru-ai/ortts/pull/15) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (2 days ago)
+- [feat: remove](https://github.com/moeru-ai/ortts/pull/14) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (2 days ago)
+- [feat: list](https://github.com/moeru-ai/ortts/pull/13) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (2 days ago)
 - [refactor(std)!: deprecate base64 utils](https://github.com/moeru-ai/std/pull/17) on [moeru-ai/std](https://github.com/moeru-ai/std) (1 week ago)
-- [feat(telemetry): embed, embedMany](https://github.com/moeru-ai/xsai/pull/260) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>

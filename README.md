@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (today)
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (1 week ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 day ago)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - 🌐🦙 LLM as your translator, with DeepLX-compatible API. (2 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor: fix clippy warnings](https://github.com/moeru-ai/ortts/pull/18) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (today)
-- [refactor(onnx): improve structure](https://github.com/moeru-ai/ortts/pull/17) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (today)
-- [refactor: split `shared_chatterbox` crate](https://github.com/moeru-ai/ortts/pull/16) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (today)
-- [fix: lint warnings](https://github.com/moeru-ai/airi/pull/976) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
-- [feat: openresponses](https://github.com/moeru-ai/xsai/pull/263) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [feat: chatterbox-turbo](https://github.com/moeru-ai/ortts/pull/20) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 day ago)
+- [refactor(chatterbox-multilingual): simplify naming, sort](https://github.com/moeru-ai/ortts/pull/19) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 day ago)
+- [refactor: fix clippy warnings](https://github.com/moeru-ai/ortts/pull/18) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 day ago)
+- [refactor(onnx): improve structure](https://github.com/moeru-ai/ortts/pull/17) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 day ago)
+- [refactor: split `shared_chatterbox` crate](https://github.com/moeru-ai/ortts/pull/16) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 day ago)
 
 </details>
 <details>

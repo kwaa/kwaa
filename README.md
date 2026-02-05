@@ -15,8 +15,8 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - Experimental Memory Layer designed for Waifu / Companion / Assistant (4 days ago)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - Experimental Memory Layer designed for Waifu / Companion / Assistant (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
 - [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [chore(deps): bump version](https://github.com/moeru-ai/xsai/pull/265) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [chore(deps): bump version](https://github.com/moeru-ai/xsai/pull/265) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
 - [chore(deps): use vite v8 instead of rolldown-vite](https://github.com/moeru-ai/airi/pull/993) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 - [perf: setup knip, remove unused dependencies](https://github.com/moeru-ai/airi/pull/992) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 - [refactor(chatterbox-multilingual): improve structure, simplify kv](https://github.com/moeru-ai/ortts/pull/21) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 week ago)

@@ -16,10 +16,10 @@
 
 
 - [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - Experimental Memory Layer designed for Waifu / Companion / Assistant (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (1 week ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 weeks ago)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (2 weeks ago)
 
 </details>
 <details>
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [chore(deps): bump version](https://github.com/moeru-ai/xsai/pull/265) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [chore(deps): bump version](https://github.com/moeru-ai/xsai/pull/265) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
 - [chore(deps): use vite v8 instead of rolldown-vite](https://github.com/moeru-ai/airi/pull/993) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 - [perf: setup knip, remove unused dependencies](https://github.com/moeru-ai/airi/pull/992) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
-- [refactor(chatterbox-multilingual): improve structure, simplify kv](https://github.com/moeru-ai/ortts/pull/21) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 week ago)
+- [refactor(chatterbox-multilingual): improve structure, simplify kv](https://github.com/moeru-ai/ortts/pull/21) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (2 weeks ago)
 - [feat: chatterbox-turbo](https://github.com/moeru-ai/ortts/pull/20) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (2 weeks ago)
 
 </details>
@@ -53,7 +53,7 @@
 
 - [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (2 years ago)
 - [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (2 years ago)
-- [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (2 years ago)
+- [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (3 years ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (3 years ago)
 - [2022 总结](https://kwaa.dev/2023) (3 years ago)
 

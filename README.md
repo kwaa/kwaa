@@ -43,7 +43,7 @@
 - [chore(deps): use vite v8 instead of rolldown-vite](https://github.com/moeru-ai/airi/pull/993) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 weeks ago)
 - [perf: setup knip, remove unused dependencies](https://github.com/moeru-ai/airi/pull/992) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 weeks ago)
 - [refactor(chatterbox-multilingual): improve structure, simplify kv](https://github.com/moeru-ai/ortts/pull/21) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (2 weeks ago)
-- [feat: chatterbox-turbo](https://github.com/moeru-ai/ortts/pull/20) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (2 weeks ago)
+- [feat: chatterbox-turbo](https://github.com/moeru-ai/ortts/pull/20) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (3 weeks ago)
 
 </details>
 <details>

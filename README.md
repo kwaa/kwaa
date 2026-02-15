@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor: lint code](https://github.com/moeru-ai/plast-mem/pull/13) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
-- [refactor(server): add openapi](https://github.com/moeru-ai/plast-mem/pull/12) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
-- [refactor: event segmentation](https://github.com/moeru-ai/plast-mem/pull/8) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (3 days ago)
-- [docs: init](https://github.com/moeru-ai/plast-mem/pull/6) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (3 days ago)
-- [chore(deps): bump version](https://github.com/moeru-ai/xsai/pull/265) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [chore(deps): bump version](https://github.com/moeru-ai/std/pull/18) on [moeru-ai/std](https://github.com/moeru-ai/std) (today)
+- [refactor: lint code](https://github.com/moeru-ai/plast-mem/pull/13) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
+- [refactor(server): add openapi](https://github.com/moeru-ai/plast-mem/pull/12) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
+- [refactor: event segmentation](https://github.com/moeru-ai/plast-mem/pull/8) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (4 days ago)
+- [docs: init](https://github.com/moeru-ai/plast-mem/pull/6) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (4 days ago)
 
 </details>
 <details>

@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 day ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (2 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(migration)!: merge migrations, rename content to summary](https://github.com/moeru-ai/plast-mem/pull/19) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (today)
-- [fix(three-mmd/build-material): use `LoaderUtils.resolveURL`](https://github.com/moeru-ai/three-mmd/pull/31) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 day ago)
-- [refactor: improve event segmentation](https://github.com/moeru-ai/plast-mem/pull/15) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
-- [chore(deps): bump version](https://github.com/moeru-ai/std/pull/18) on [moeru-ai/std](https://github.com/moeru-ai/std) (1 day ago)
-- [refactor: lint code](https://github.com/moeru-ai/plast-mem/pull/13) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (3 days ago)
+- [refactor(migration)!: merge migrations, rename content to summary](https://github.com/moeru-ai/plast-mem/pull/19) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
+- [fix(three-mmd/build-material): use `LoaderUtils.resolveURL`](https://github.com/moeru-ai/three-mmd/pull/31) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
+- [refactor: improve event segmentation](https://github.com/moeru-ai/plast-mem/pull/15) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
+- [chore(deps): bump version](https://github.com/moeru-ai/std/pull/18) on [moeru-ai/std](https://github.com/moeru-ai/std) (2 days ago)
+- [refactor: lint code](https://github.com/moeru-ai/plast-mem/pull/13) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (4 days ago)
 
 </details>
 <details>

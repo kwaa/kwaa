@@ -15,10 +15,10 @@
   <br/>
 
 
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (5 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (5 days ago)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (6 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (6 days ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 weeks ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor: haru](https://github.com/moeru-ai/plast-mem/pull/25) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
-- [perf!: add l2 normalize, use inner product instead of cosine](https://github.com/moeru-ai/plast-mem/pull/24) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
-- [refactor: implement semantic memory](https://github.com/moeru-ai/plast-mem/pull/23) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
-- [refactor: implement semantic memory phase 1](https://github.com/moeru-ai/plast-mem/pull/22) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
-- [refactor(migration)!: merge migrations, rename content to summary](https://github.com/moeru-ai/plast-mem/pull/19) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (4 days ago)
+- [refactor(server): recent memory api](https://github.com/moeru-ai/plast-mem/pull/26) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
+- [refactor: wip haru](https://github.com/moeru-ai/plast-mem/pull/25) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
+- [perf!: add l2 normalize, use inner product instead of cosine](https://github.com/moeru-ai/plast-mem/pull/24) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
+- [refactor: implement semantic memory](https://github.com/moeru-ai/plast-mem/pull/23) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (3 days ago)
+- [refactor: implement semantic memory phase 1](https://github.com/moeru-ai/plast-mem/pull/22) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (3 days ago)
 
 </details>
 <details>

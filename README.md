@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (6 days ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 week ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (2 weeks ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 weeks ago)
 
 </details>
 <details>

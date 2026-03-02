@@ -16,7 +16,7 @@
 
 
 - [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
 - [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 week ago)
 - [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (2 weeks ago)
 - [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 weeks ago)
@@ -39,11 +39,11 @@
   <br/>
 
 
+- [refactor: event segmentation](https://github.com/moeru-ai/plast-mem/pull/35) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
 - [refactor(haru): use hooks, loading spinner, dotenv manage](https://github.com/moeru-ai/plast-mem/pull/28) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
 - [refactor(server): recent memory api](https://github.com/moeru-ai/plast-mem/pull/26) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
 - [refactor: wip haru](https://github.com/moeru-ai/plast-mem/pull/25) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
 - [perf!: add l2 normalize, use inner product instead of cosine](https://github.com/moeru-ai/plast-mem/pull/24) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
-- [refactor: implement semantic memory](https://github.com/moeru-ai/plast-mem/pull/23) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
 
 </details>
 <details>

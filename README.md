@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (3 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (5 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (today)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 weeks ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (3 weeks ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (3 weeks ago)
 
 </details>
 <details>
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [refactor: full predict calibrate](https://github.com/moeru-ai/plast-mem/pull/42) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
-- [refactor(locomo): improve structure](https://github.com/moeru-ai/plast-mem/pull/40) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (3 days ago)
-- [refactor: use update instead of update_many](https://github.com/moeru-ai/plast-mem/pull/37) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (6 days ago)
-- [chore: lint code](https://github.com/moeru-ai/plast-mem/pull/36) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (6 days ago)
+- [refactor: full predict calibrate](https://github.com/moeru-ai/plast-mem/pull/42) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
+- [refactor(locomo): improve structure](https://github.com/moeru-ai/plast-mem/pull/40) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (4 days ago)
+- [refactor: use update instead of update_many](https://github.com/moeru-ai/plast-mem/pull/37) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
+- [chore: lint code](https://github.com/moeru-ai/plast-mem/pull/36) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
 - [refactor: event segmentation](https://github.com/moeru-ai/plast-mem/pull/35) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
 
 </details>

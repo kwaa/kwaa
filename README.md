@@ -15,9 +15,9 @@
   <br/>
 
 
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (3 days ago)
-- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (5 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (6 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (4 days ago)
+- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (6 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
@@ -42,8 +42,8 @@
 - [feat: stop when](https://github.com/moeru-ai/xsai/pull/271) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [refactor: full predict calibrate](https://github.com/moeru-ai/plast-mem/pull/42) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 weeks ago)
 - [refactor(locomo): improve structure](https://github.com/moeru-ai/plast-mem/pull/40) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 weeks ago)
-- [refactor: use update instead of update_many](https://github.com/moeru-ai/plast-mem/pull/37) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 weeks ago)
-- [chore: lint code](https://github.com/moeru-ai/plast-mem/pull/36) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 weeks ago)
+- [refactor: use update instead of update_many](https://github.com/moeru-ai/plast-mem/pull/37) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (3 weeks ago)
+- [chore: lint code](https://github.com/moeru-ai/plast-mem/pull/36) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (3 weeks ago)
 
 </details>
 <details>

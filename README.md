@@ -15,8 +15,8 @@
   <br/>
 
 
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (today)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 day ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 day ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 days ago)
 - [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (1 week ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 week ago)
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [fix(nix/common): ignore editor config](https://github.com/moeru-ai/airi/pull/1459) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
+- [fix(nix/common): ignore editor config](https://github.com/moeru-ai/airi/pull/1459) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
 - [feat: stop when](https://github.com/moeru-ai/xsai/pull/271) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [refactor: full predict calibrate](https://github.com/moeru-ai/plast-mem/pull/42) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 weeks ago)
 - [refactor(locomo): improve structure](https://github.com/moeru-ai/plast-mem/pull/40) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 weeks ago)
@@ -52,7 +52,7 @@
 
 
 - [2023 年 7 月：我最近在写什么](https://kwaa.dev/2023/07) (2 years ago)
-- [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (2 years ago)
+- [I 卡也要炼！本地运行 Stable Diffusion &amp; ComfyUI](https://kwaa.dev/stable-diffusion) (3 years ago)
 - [为红米 2 刷入 postmarketOS Edge &#43; GNOME Mobile](https://kwaa.dev/redmi2-pmos) (3 years ago)
 - [为 nRF52840 Dongle 刷入 CanoKey 固件](https://kwaa.dev/canokey-nrf52) (3 years ago)
 - [2022 总结](https://kwaa.dev/2023) (3 years ago)

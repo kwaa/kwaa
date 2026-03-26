@@ -15,11 +15,11 @@
   <br/>
 
 
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 day ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 days ago)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (today)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (3 days ago)
 - [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (1 week ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [fix(nix/common): ignore editor config](https://github.com/moeru-ai/airi/pull/1459) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
+- [refactor: lint code](https://github.com/moeru-ai/plast-mem/pull/49) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (today)
+- [refactor: add dev-only apalis-board](https://github.com/moeru-ai/plast-mem/pull/48) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (today)
+- [fix(nix/common): ignore editor config](https://github.com/moeru-ai/airi/pull/1459) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
 - [feat: stop when](https://github.com/moeru-ai/xsai/pull/271) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [refactor: full predict calibrate](https://github.com/moeru-ai/plast-mem/pull/42) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 weeks ago)
-- [refactor(locomo): improve structure](https://github.com/moeru-ai/plast-mem/pull/40) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 weeks ago)
-- [refactor: use update instead of update_many](https://github.com/moeru-ai/plast-mem/pull/37) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (3 weeks ago)
 
 </details>
 <details>

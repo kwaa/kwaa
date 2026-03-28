@@ -15,9 +15,9 @@
   <br/>
 
 
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 day ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (3 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (4 days ago)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (2 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (4 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (5 days ago)
 - [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (1 week ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(locomo):ingest checkpoint](https://github.com/moeru-ai/plast-mem/pull/50) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
-- [refactor: lint code](https://github.com/moeru-ai/plast-mem/pull/49) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
-- [refactor: add dev-only apalis-board](https://github.com/moeru-ai/plast-mem/pull/48) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
-- [fix(nix/common): ignore editor config](https://github.com/moeru-ai/airi/pull/1459) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
-- [feat: stop when](https://github.com/moeru-ai/xsai/pull/271) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [refactor(locomo): use clack prompts, add full context, partial run](https://github.com/moeru-ai/plast-mem/pull/51) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (today)
+- [refactor(locomo):ingest checkpoint](https://github.com/moeru-ai/plast-mem/pull/50) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
+- [refactor: lint code](https://github.com/moeru-ai/plast-mem/pull/49) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
+- [refactor: add dev-only apalis-board](https://github.com/moeru-ai/plast-mem/pull/48) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
+- [fix(nix/common): ignore editor config](https://github.com/moeru-ai/airi/pull/1459) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
 
 </details>
 <details>

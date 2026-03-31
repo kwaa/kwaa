@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (today)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (6 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 day ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
-- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (1 week ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 weeks ago)
+- [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (2 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor: predict calibrate](https://github.com/moeru-ai/plast-mem/pull/54) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (today)
-- [refactor(ai): add seed](https://github.com/moeru-ai/plast-mem/pull/53) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (today)
-- [refactor: remove keywords, search_text](https://github.com/moeru-ai/plast-mem/pull/52) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
-- [refactor(locomo): use clack prompts, add full context, partial run](https://github.com/moeru-ai/plast-mem/pull/51) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 days ago)
-- [refactor(locomo):ingest checkpoint](https://github.com/moeru-ai/plast-mem/pull/50) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (4 days ago)
+- [refactor(stream-text): use eventsource-parser](https://github.com/moeru-ai/xsai/pull/276) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat: prepare step](https://github.com/moeru-ai/xsai/pull/275) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [refactor: predict calibrate](https://github.com/moeru-ai/plast-mem/pull/54) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
+- [refactor(ai): add seed](https://github.com/moeru-ai/plast-mem/pull/53) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
+- [refactor: remove keywords, search_text](https://github.com/moeru-ai/plast-mem/pull/52) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (3 days ago)
 
 </details>
 <details>

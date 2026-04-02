@@ -15,8 +15,8 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (2 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (3 days ago)
 - [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
 - [importantimport/package-json](https://github.com/importantimport/package-json) - {...} Command-line tools and libraries for package.json. (2 weeks ago)
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [fix(telemetry): align](https://github.com/moeru-ai/xsai/pull/280) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [fix(stream-text): use tool call id instead of index](https://github.com/moeru-ai/xsai/pull/279) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat: typed error](https://github.com/moeru-ai/xsai/pull/277) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [refactor(stream-text): use eventsource-parser](https://github.com/moeru-ai/xsai/pull/276) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat: prepare step](https://github.com/moeru-ai/xsai/pull/275) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [perf: new `shared-stream` package](https://github.com/moeru-ai/xsai/pull/283) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [refactor(stream-transcription): use eventsource-parser](https://github.com/moeru-ai/xsai/pull/282) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat(providers): sync upstream](https://github.com/moeru-ai/xsai/pull/281) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [fix(telemetry): align](https://github.com/moeru-ai/xsai/pull/280) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [fix(stream-text): use tool call id instead of index](https://github.com/moeru-ai/xsai/pull/279) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
 
 </details>
 <details>

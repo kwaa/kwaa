@@ -15,10 +15,10 @@
   <br/>
 
 
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (5 days ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (6 days ago)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (6 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (3 weeks ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor!: event segmentation rework](https://github.com/moeru-ai/plast-mem/pull/64) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (today)
-- [chore: fix build, test step](https://github.com/moeru-ai/xsai/pull/285) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [refactor: split event to new crate](https://github.com/moeru-ai/plast-mem/pull/65) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
+- [refactor!: event segmentation rework](https://github.com/moeru-ai/plast-mem/pull/64) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
+- [chore: fix build, test step](https://github.com/moeru-ai/xsai/pull/285) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
 - [refactor: event segmentation v2.1](https://github.com/moeru-ai/plast-mem/pull/63) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
 - [refactor(locomo): adjust prompt](https://github.com/moeru-ai/plast-mem/pull/61) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
-- [refactor!: event segmentation v2](https://github.com/moeru-ai/plast-mem/pull/60) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
 
 </details>
 <details>

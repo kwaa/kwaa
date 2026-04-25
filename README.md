@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (4 days ago)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (5 days ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
+- [refactor(worker): use event segmenter instead of queue](https://github.com/moeru-ai/plast-mem/pull/67) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
+- [refactor: new event segmenter](https://github.com/moeru-ai/plast-mem/pull/66) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 day ago)
 - [refactor: split event to new crate](https://github.com/moeru-ai/plast-mem/pull/65) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
 - [refactor!: event segmentation rework](https://github.com/moeru-ai/plast-mem/pull/64) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
 - [chore: fix build, test step](https://github.com/moeru-ai/xsai/pull/285) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
-- [refactor: event segmentation v2.1](https://github.com/moeru-ai/plast-mem/pull/63) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 weeks ago)
-- [refactor(locomo): adjust prompt](https://github.com/moeru-ai/plast-mem/pull/61) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 weeks ago)
 
 </details>
 <details>

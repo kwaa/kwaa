@@ -15,9 +15,9 @@
   <br/>
 
 
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (5 days ago)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (6 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (6 days ago)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (6 days ago)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (1 week ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (2 weeks ago)
 
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [feat(responses): camel case, use chat tool, typed error](https://github.com/moeru-ai/xsai/pull/286) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
+- [feat(responses): camel case, use chat tool, typed error](https://github.com/moeru-ai/xsai/pull/286) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [refactor(worker): use event segmenter instead of queue](https://github.com/moeru-ai/plast-mem/pull/67) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
 - [refactor: new event segmenter](https://github.com/moeru-ai/plast-mem/pull/66) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (1 week ago)
 - [refactor: split event to new crate](https://github.com/moeru-ai/plast-mem/pull/65) on [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) (2 weeks ago)

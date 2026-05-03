@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (6 days ago)
+- [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 week ago)
 - [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (1 week ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (2 weeks ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (3 weeks ago)
 
 </details>
 <details>

@@ -16,10 +16,10 @@
 
 
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (2 days ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (3 days ago)
 - [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (1 week ago)
 - [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (1 week ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor!: new responses-style usage](https://github.com/moeru-ai/xsai/pull/297) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [refactor(responses): use completion step](https://github.com/moeru-ai/xsai/pull/296) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [refactor!: remove step type](https://github.com/moeru-ai/xsai/pull/295) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [refactor(responses): update event data](https://github.com/moeru-ai/xsai/pull/294) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [feat(responses): reasoning text stream](https://github.com/moeru-ai/xsai/pull/293) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat(responses): return input](https://github.com/moeru-ai/xsai/pull/302) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat(responses): hooks](https://github.com/moeru-ai/xsai/pull/301) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [refactor!: rename prepare step options, reuse](https://github.com/moeru-ai/xsai/pull/300) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [refactor(responses): reuse execute tool](https://github.com/moeru-ai/xsai/pull/299) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [refactor!: reuse stop condition](https://github.com/moeru-ai/xsai/pull/298) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
 
 </details>
 <details>

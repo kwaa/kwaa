@@ -15,9 +15,9 @@
   <br/>
 
 
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (3 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (4 days ago)
 - [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
 - [moeru-ai/plast-mem](https://github.com/moeru-ai/plast-mem) - ♻️💾 Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu (2 weeks ago)
 
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(shared): allow custom error code](https://github.com/moeru-ai/xsai/pull/307) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [perf: reduce size](https://github.com/moeru-ai/xsai/pull/306) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [fix: correctly clean request body](https://github.com/moeru-ai/xsai/pull/305) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [feat(generate-text): support total usage](https://github.com/moeru-ai/xsai/pull/304) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [refactor(stream-text)!: rename event stream, add new full stream](https://github.com/moeru-ai/xsai/pull/303) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [refactor(shared): allow custom error code](https://github.com/moeru-ai/xsai/pull/307) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [perf: reduce size](https://github.com/moeru-ai/xsai/pull/306) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [fix: correctly clean request body](https://github.com/moeru-ai/xsai/pull/305) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [feat(generate-text): support total usage](https://github.com/moeru-ai/xsai/pull/304) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [refactor(stream-text)!: rename event stream, add new full stream](https://github.com/moeru-ai/xsai/pull/303) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
 
 </details>
 <details>

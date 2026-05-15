@@ -15,10 +15,10 @@
   <br/>
 
 
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (today)
 - [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (today)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
-- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (5 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
+- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (6 days ago)
 - [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: new agent implement](https://github.com/moeru-ai/apeira/pull/1) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
-- [refactor(shared): allow custom error code](https://github.com/moeru-ai/xsai/pull/307) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
-- [perf: reduce size](https://github.com/moeru-ai/xsai/pull/306) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
-- [fix: correctly clean request body](https://github.com/moeru-ai/xsai/pull/305) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
-- [feat(generate-text): support total usage](https://github.com/moeru-ai/xsai/pull/304) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [feat: add model-visible turn abort boundary](https://github.com/moeru-ai/apeira/pull/7) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
+- [refactor: thread store](https://github.com/moeru-ai/apeira/pull/6) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
+- [feat: interrupt](https://github.com/moeru-ai/apeira/pull/5) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
+- [refactor: split pending input](https://github.com/moeru-ai/apeira/pull/4) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
+- [refactor: agent runtime](https://github.com/moeru-ai/apeira/pull/3) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
 
 </details>
 <details>

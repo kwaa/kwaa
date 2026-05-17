@@ -15,9 +15,9 @@
   <br/>
 
 
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (today)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (5 days ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 day ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (6 days ago)
 - [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (1 week ago)
 - [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
 
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: unstorage plugin](https://github.com/moeru-ai/apeira/pull/10) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
-- [feat: plugin api](https://github.com/moeru-ai/apeira/pull/9) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
-- [feat!: agent thread](https://github.com/moeru-ai/apeira/pull/8) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [feat: add model-visible turn abort boundary](https://github.com/moeru-ai/apeira/pull/7) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [refactor: thread store](https://github.com/moeru-ai/apeira/pull/6) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [feat: unstorage plugin](https://github.com/moeru-ai/apeira/pull/10) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [feat: plugin api](https://github.com/moeru-ai/apeira/pull/9) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [feat!: agent thread](https://github.com/moeru-ai/apeira/pull/8) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
+- [feat: add model-visible turn abort boundary](https://github.com/moeru-ai/apeira/pull/7) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
+- [refactor: thread store](https://github.com/moeru-ai/apeira/pull/6) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
 
 </details>
 <details>

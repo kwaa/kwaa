@@ -16,10 +16,10 @@
 
 
 - [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (today)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (today)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (1 week ago)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: ag-ui plugin, copilot example](https://github.com/moeru-ai/apeira/pull/11) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
-- [feat: unstorage plugin](https://github.com/moeru-ai/apeira/pull/10) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
-- [feat: plugin api](https://github.com/moeru-ai/apeira/pull/9) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
-- [feat!: agent thread](https://github.com/moeru-ai/apeira/pull/8) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
-- [feat: add model-visible turn abort boundary](https://github.com/moeru-ai/apeira/pull/7) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
+- [feat: skills](https://github.com/moeru-ai/apeira/pull/13) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
+- [chore: add pi-tui example](https://github.com/moeru-ai/apeira/pull/12) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [feat: ag-ui plugin, copilot example](https://github.com/moeru-ai/apeira/pull/11) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [feat: unstorage plugin](https://github.com/moeru-ai/apeira/pull/10) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
+- [feat: plugin api](https://github.com/moeru-ai/apeira/pull/9) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
 
 </details>
 <details>

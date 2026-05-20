@@ -15,9 +15,9 @@
   <br/>
 
 
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
 - [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 day ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (1 week ago)
 
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: skills](https://github.com/moeru-ai/apeira/pull/13) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
-- [chore: add pi-tui example](https://github.com/moeru-ai/apeira/pull/12) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [feat: ag-ui plugin, copilot example](https://github.com/moeru-ai/apeira/pull/11) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [feat: unstorage plugin](https://github.com/moeru-ai/apeira/pull/10) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
-- [feat: plugin api](https://github.com/moeru-ai/apeira/pull/9) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
+- [refactor(examples/pi-tui): improve display, support agents.md](https://github.com/moeru-ai/apeira/pull/14) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [feat: skills](https://github.com/moeru-ai/apeira/pull/13) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [chore: add pi-tui example](https://github.com/moeru-ai/apeira/pull/12) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
+- [feat: ag-ui plugin, copilot example](https://github.com/moeru-ai/apeira/pull/11) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
+- [feat: unstorage plugin](https://github.com/moeru-ai/apeira/pull/10) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (4 days ago)
 
 </details>
 <details>

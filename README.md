@@ -15,10 +15,10 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 day ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
 - [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (2 weeks ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: extend instructions](https://github.com/moeru-ai/apeira/pull/15) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
-- [refactor(examples/pi-tui): improve display, support agents.md](https://github.com/moeru-ai/apeira/pull/14) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (4 days ago)
-- [feat: skills](https://github.com/moeru-ai/apeira/pull/13) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (4 days ago)
-- [chore: add pi-tui example](https://github.com/moeru-ai/apeira/pull/12) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (5 days ago)
-- [feat: ag-ui plugin, copilot example](https://github.com/moeru-ai/apeira/pull/11) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (5 days ago)
+- [refactor(core)!: unified subscribe method](https://github.com/moeru-ai/apeira/pull/20) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
+- [feat(plugin-mcp): support ws transport](https://github.com/moeru-ai/apeira/pull/19) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
+- [refactor(plugin-mcp)!: support json config, ptd](https://github.com/moeru-ai/apeira/pull/18) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
+- [feat: extend instructions](https://github.com/moeru-ai/apeira/pull/15) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
+- [refactor(examples/pi-tui): improve display, support agents.md](https://github.com/moeru-ai/apeira/pull/14) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (5 days ago)
 
 </details>
 <details>

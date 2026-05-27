@@ -15,10 +15,10 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (today)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (today)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
 - [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (2 weeks ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(core)!: unified subscribe method](https://github.com/moeru-ai/apeira/pull/20) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [feat(plugin-mcp): support ws transport](https://github.com/moeru-ai/apeira/pull/19) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [refactor(plugin-mcp)!: support json config, ptd](https://github.com/moeru-ai/apeira/pull/18) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [feat: extend instructions](https://github.com/moeru-ai/apeira/pull/15) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (4 days ago)
-- [refactor(examples/pi-tui): improve display, support agents.md](https://github.com/moeru-ai/apeira/pull/14) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (6 days ago)
+- [chore: chat sdk example](https://github.com/moeru-ai/apeira/pull/24) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
+- [feat(core)!: episodic](https://github.com/moeru-ai/apeira/pull/22) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
+- [refactor(core)!: unified subscribe method](https://github.com/moeru-ai/apeira/pull/20) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
+- [feat(plugin-mcp): support ws transport](https://github.com/moeru-ai/apeira/pull/19) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
+- [refactor(plugin-mcp)!: support json config, ptd](https://github.com/moeru-ai/apeira/pull/18) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
 
 </details>
 <details>

@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 day ago)
-- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (2 weeks ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 days ago)
+- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (3 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: hitl plugin](https://github.com/moeru-ai/apeira/pull/27) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
-- [refactor(core)!: split, use name as default session id](https://github.com/moeru-ai/apeira/pull/26) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [feat: proactive plugin](https://github.com/moeru-ai/apeira/pull/25) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
-- [chore: chat sdk example](https://github.com/moeru-ai/apeira/pull/24) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
-- [feat(core)!: episodic](https://github.com/moeru-ai/apeira/pull/22) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (4 days ago)
+- [refactor(core): improve structure](https://github.com/moeru-ai/apeira/pull/28) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [feat: hitl plugin](https://github.com/moeru-ai/apeira/pull/27) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [refactor(core)!: split, use name as default session id](https://github.com/moeru-ai/apeira/pull/26) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
+- [feat: proactive plugin](https://github.com/moeru-ai/apeira/pull/25) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
+- [chore: chat sdk example](https://github.com/moeru-ai/apeira/pull/24) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
 
 </details>
 <details>

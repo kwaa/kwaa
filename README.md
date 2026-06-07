@@ -15,8 +15,8 @@
   <br/>
 
 
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (2 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
 - [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (1 week ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (4 weeks ago)
@@ -39,8 +39,8 @@
   <br/>
 
 
-- [feat: compact plugin](https://github.com/moeru-ai/apeira/pull/30) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [refactor(core)!: rewrite](https://github.com/moeru-ai/apeira/pull/29) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
+- [feat: compact plugin](https://github.com/moeru-ai/apeira/pull/30) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
+- [refactor(core)!: rewrite](https://github.com/moeru-ai/apeira/pull/29) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (4 days ago)
 - [refactor(core): improve structure](https://github.com/moeru-ai/apeira/pull/28) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 - [feat: hitl plugin](https://github.com/moeru-ai/apeira/pull/27) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 - [refactor(core)!: split, use name as default session id](https://github.com/moeru-ai/apeira/pull/26) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)

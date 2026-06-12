@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (today)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 weeks ago)
-- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (1 month ago)
 
 </details>
 <details>
@@ -27,11 +27,11 @@
   <br/>
 
 
+- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber
 - [kwaa/sponsors](https://github.com/kwaa/sponsors) - 
 - [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog
 - [kwaa/sonik-qwik](https://github.com/kwaa/sonik-qwik) - [Alpha] Qwik preset for the Sonik
 - [kwaa/comet](https://github.com/kwaa/comet) - 🌠 Comet Gateway - 实验性 Naiveproxy 透明网关. [WIP]
-- [kwaa/csgo](https://github.com/kwaa/csgo) - My CS:GO crosshair &amp; scripts.
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(core): chat completion support](https://github.com/moeru-ai/apeira/pull/32) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [feat!: new event stream](https://github.com/moeru-ai/xsai/pull/311) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [feat: stream speech, update speech options](https://github.com/moeru-ai/xsai/pull/310) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [feat: roleplay plugin](https://github.com/moeru-ai/apeira/pull/31) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
-- [feat: compact plugin](https://github.com/moeru-ai/apeira/pull/30) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (6 days ago)
+- [feat(core): chat completion support](https://github.com/moeru-ai/apeira/pull/32) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
+- [feat!: new event stream](https://github.com/moeru-ai/xsai/pull/311) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [feat: stream speech, update speech options](https://github.com/moeru-ai/xsai/pull/310) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [feat: roleplay plugin](https://github.com/moeru-ai/apeira/pull/31) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (4 days ago)
+- [feat: compact plugin](https://github.com/moeru-ai/apeira/pull/30) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 
 </details>
 <details>

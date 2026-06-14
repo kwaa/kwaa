@@ -15,10 +15,10 @@
   <br/>
 
 
-- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (today)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (2 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (1 day ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (3 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (5 days ago)
 - [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 weeks ago)
 
 </details>
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [feat(core): chat completion support](https://github.com/moeru-ai/apeira/pull/32) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
-- [feat!: new event stream](https://github.com/moeru-ai/xsai/pull/311) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
-- [feat: stream speech, update speech options](https://github.com/moeru-ai/xsai/pull/310) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
-- [feat: roleplay plugin](https://github.com/moeru-ai/apeira/pull/31) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (5 days ago)
+- [feat(core): chat completion support](https://github.com/moeru-ai/apeira/pull/32) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (4 days ago)
+- [feat!: new event stream](https://github.com/moeru-ai/xsai/pull/311) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [feat: stream speech, update speech options](https://github.com/moeru-ai/xsai/pull/310) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [feat: roleplay plugin](https://github.com/moeru-ai/apeira/pull/31) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (6 days ago)
 - [feat: compact plugin](https://github.com/moeru-ai/apeira/pull/30) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 
 </details>
@@ -80,9 +80,9 @@ pub   ed25519/0x4444777733334444 2022-05-16 [C] [expires: 2026-06-15]
 uid                   [ultimate] 藍+85CD <kwa[a]kwaa.dev>
 uid                   [ultimate] 藍+85CD (GitHub) &lt;50108258+kwaa[a]users.noreply.github.com>
 uid                   [ultimate] [jpeg image of size 889]
-sub   ed25519/0xBCB0111111111111 2022-12-24 [S] [expires: 2026-06-15]
-sub   ed25519/0x6656222222222222 2022-10-27 [A] [expires: 2026-06-15]
-sub   cv25519/0x6EC06EC06EC06EC0 2022-10-05 [E] [expires: 2026-06-15]
+sub   ed25519/0xBCB0111111111111 2022-12-24 [S] [expires: 2028-06-15]
+sub   ed25519/0x6656222222222222 2022-10-27 [A] [expires: 2028-06-15]
+sub   cv25519/0x6EC06EC06EC06EC0 2022-10-05 [E] [expires: 2028-06-15]
 
 # via keys.openpgp.org
 gpg --keyserver hkps://keys.openpgp.org --recv-keys 4444777733334444

@@ -68,9 +68,9 @@ pub   ed25519/0x4444777733334444 2022-05-16 [C] [expires: 2026-06-15]
 uid                   [ultimate] 藍+85CD <kwa[a]kwaa.dev>
 uid                   [ultimate] 藍+85CD (GitHub) <50108258+kwaa[a]users.noreply.github.com>
 uid                   [ultimate] [jpeg image of size 889]
-sub   ed25519/0xBCB0111111111111 2022-12-24 [S] [expires: 2026-06-15]
-sub   ed25519/0x6656222222222222 2022-10-27 [A] [expires: 2026-06-15]
-sub   cv25519/0x6EC06EC06EC06EC0 2022-10-05 [E] [expires: 2026-06-15]
+sub   ed25519/0xBCB0111111111111 2022-12-24 [S] [expires: 2028-06-15]
+sub   ed25519/0x6656222222222222 2022-10-27 [A] [expires: 2028-06-15]
+sub   cv25519/0x6EC06EC06EC06EC0 2022-10-05 [E] [expires: 2028-06-15]
 
 # via keys.openpgp.org
 gpg --keyserver hkps://keys.openpgp.org --recv-keys 4444777733334444

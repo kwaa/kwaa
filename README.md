@@ -15,10 +15,10 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
 - [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (today)
-- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (6 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (2 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 - [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 weeks ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat!: store](https://github.com/moeru-ai/apeira/pull/33) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
-- [feat(core): chat completion support](https://github.com/moeru-ai/apeira/pull/32) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (5 days ago)
-- [feat!: new event stream](https://github.com/moeru-ai/xsai/pull/311) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [feat: stream speech, update speech options](https://github.com/moeru-ai/xsai/pull/310) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [feat: roleplay plugin](https://github.com/moeru-ai/apeira/pull/31) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
+- [feat(core): fork](https://github.com/moeru-ai/apeira/pull/34) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
+- [feat!: storage](https://github.com/moeru-ai/apeira/pull/33) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [feat(core): chat completion support](https://github.com/moeru-ai/apeira/pull/32) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (6 days ago)
+- [feat!: new event stream](https://github.com/moeru-ai/xsai/pull/311) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [feat: stream speech, update speech options](https://github.com/moeru-ai/xsai/pull/310) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>

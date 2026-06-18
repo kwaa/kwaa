@@ -16,10 +16,10 @@
 
 
 - [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
+- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (4 days ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 weeks ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (3 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(core)!: wait, isIdle](https://github.com/moeru-ai/apeira/pull/35) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
-- [feat(core): fork](https://github.com/moeru-ai/apeira/pull/34) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [feat!: storage](https://github.com/moeru-ai/apeira/pull/33) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
+- [feat(core)!: entry](https://github.com/moeru-ai/apeira/pull/36) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
+- [feat(core)!: wait, isIdle](https://github.com/moeru-ai/apeira/pull/35) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [feat(core): fork](https://github.com/moeru-ai/apeira/pull/34) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
+- [feat!: storage](https://github.com/moeru-ai/apeira/pull/33) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
 - [feat(core): chat completion support](https://github.com/moeru-ai/apeira/pull/32) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
-- [feat!: new event stream](https://github.com/moeru-ai/xsai/pull/311) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>

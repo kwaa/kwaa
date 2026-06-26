@@ -15,9 +15,9 @@
   <br/>
 
 
-- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (5 days ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (6 days ago)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (6 days ago)
+- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (6 days ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 week ago)
+- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 - [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (1 week ago)
 
@@ -39,8 +39,8 @@
   <br/>
 
 
-- [refactor(core)!: initial input, initial state](https://github.com/moeru-ai/apeira/pull/39) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (6 days ago)
-- [feat(storage): jsonl append, strict load](https://github.com/moeru-ai/apeira/pull/38) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (6 days ago)
+- [refactor(core)!: initial input, initial state](https://github.com/moeru-ai/apeira/pull/39) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
+- [feat(storage): jsonl append, strict load](https://github.com/moeru-ai/apeira/pull/38) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 - [feat: session, improve compact](https://github.com/moeru-ai/apeira/pull/37) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 - [feat(core)!: entry](https://github.com/moeru-ai/apeira/pull/36) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 - [feat(core)!: wait, isIdle](https://github.com/moeru-ai/apeira/pull/35) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)

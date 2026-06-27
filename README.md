@@ -15,7 +15,7 @@
   <br/>
 
 
-- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (6 days ago)
+- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (1 week ago)
 - [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 week ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)

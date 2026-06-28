@@ -19,7 +19,7 @@
 - [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 week ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
-- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (1 week ago)
+- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (2 weeks ago)
 
 </details>
 <details>

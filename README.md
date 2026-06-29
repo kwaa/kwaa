@@ -15,11 +15,11 @@
   <br/>
 
 
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (today)
 - [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (1 week ago)
 - [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 week ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
-- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (2 weeks ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
+- [feat(auv-driver-linux): atspi backend](https://github.com/moeru-ai/auv/pull/67) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (today)
+- [feat(auv-driver-linux): implement basic driver](https://github.com/moeru-ai/auv/pull/66) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (today)
+- [fix(flake): update build inputs](https://github.com/moeru-ai/auv/pull/65) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (today)
 - [refactor(core)!: initial input, initial state](https://github.com/moeru-ai/apeira/pull/39) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 - [feat(storage): jsonl append, strict load](https://github.com/moeru-ai/apeira/pull/38) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
-- [feat: session, improve compact](https://github.com/moeru-ai/apeira/pull/37) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
-- [feat(core)!: entry](https://github.com/moeru-ai/apeira/pull/36) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
-- [feat(core)!: wait, isIdle](https://github.com/moeru-ai/apeira/pull/35) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 
 </details>
 <details>

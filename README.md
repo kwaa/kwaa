@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(auv-driver-linux): atspi backend](https://github.com/moeru-ai/auv/pull/67) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (today)
-- [feat(auv-driver-linux): implement basic driver](https://github.com/moeru-ai/auv/pull/66) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (today)
-- [fix(flake): update build inputs](https://github.com/moeru-ai/auv/pull/65) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (today)
+- [feat(auv-driver-linux): leptess ocr](https://github.com/moeru-ai/auv/pull/68) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
+- [feat(auv-driver-linux): atspi backend](https://github.com/moeru-ai/auv/pull/67) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
+- [feat(auv-driver-linux): implement basic driver](https://github.com/moeru-ai/auv/pull/66) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
+- [fix(flake): update build inputs](https://github.com/moeru-ai/auv/pull/65) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
 - [refactor(core)!: initial input, initial state](https://github.com/moeru-ai/apeira/pull/39) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
-- [feat(storage): jsonl append, strict load](https://github.com/moeru-ai/apeira/pull/38) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 
 </details>
 <details>

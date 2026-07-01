@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (1 day ago)
 - [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (1 week ago)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 week ago)
 - [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (1 week ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 weeks ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 week ago)
 
 </details>
 <details>
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [feat(auv-driver-linux): leptess ocr](https://github.com/moeru-ai/auv/pull/68) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
-- [feat(auv-driver-linux): atspi backend](https://github.com/moeru-ai/auv/pull/67) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
-- [feat(auv-driver-linux): implement basic driver](https://github.com/moeru-ai/auv/pull/66) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
-- [fix(flake): update build inputs](https://github.com/moeru-ai/auv/pull/65) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
+- [feat(auv-driver-linux): leptess ocr](https://github.com/moeru-ai/auv/pull/68) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
+- [feat(auv-driver-linux): atspi backend](https://github.com/moeru-ai/auv/pull/67) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
+- [feat(auv-driver-linux): implement basic driver](https://github.com/moeru-ai/auv/pull/66) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
+- [fix(flake): update build inputs](https://github.com/moeru-ai/auv/pull/65) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
 - [refactor(core)!: initial input, initial state](https://github.com/moeru-ai/apeira/pull/39) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 
 </details>

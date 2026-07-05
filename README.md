@@ -15,11 +15,11 @@
   <br/>
 
 
+- [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices! (today)
 - [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
-- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (2 weeks ago)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (2 weeks ago)
-- [importantimport/.github](https://github.com/importantimport/.github) - :octocat: GitHub Configurations for !mportantImport (2 weeks ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
+- [vieval-dev/vieval](https://github.com/vieval-dev/vieval) - 🧪💥 Evaluation framework based on Vitest, the testing framework you familiar with, for agents, models, and more. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(driver-linux): reuse session](https://github.com/moeru-ai/auv/pull/76) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (today)
-- [feat(driver-linux): control, screencast](https://github.com/moeru-ai/auv/pull/75) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
-- [feat(driver-linux): clipboard, xdg desktop portal session](https://github.com/moeru-ai/auv/pull/73) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
-- [refactor(driver-linux): use wayland client instead of xcap](https://github.com/moeru-ai/auv/pull/72) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
-- [feat(auv-driver-linux): leptess ocr](https://github.com/moeru-ai/auv/pull/68) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (5 days ago)
+- [feat(tool): validate schema](https://github.com/moeru-ai/xsai/pull/314) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat(tool): define tool](https://github.com/moeru-ai/xsai/pull/312) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat: add oneplus-enchilada module](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos/pull/16) on [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) (today)
+- [feat(oneplus-sdm845-firmware): init](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos/pull/15) on [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) (1 day ago)
+- [feat: add oneplus-enchilada uboot](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos/pull/14) on [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) (1 day ago)
 
 </details>
 <details>

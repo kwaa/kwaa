@@ -15,11 +15,11 @@
   <br/>
 
 
-- [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices! (today)
-- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
-- [vieval-dev/vieval](https://github.com/vieval-dev/vieval) - 🧪💥 Evaluation framework based on Vitest, the testing framework you familiar with, for agents, models, and more. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices! (1 day ago)
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [vieval-dev/vieval](https://github.com/vieval-dev/vieval) - 🧪💥 Evaluation framework based on Vitest, the testing framework you familiar with, for agents, models, and more. (2 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(tool): validate schema](https://github.com/moeru-ai/xsai/pull/314) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [feat(tool): define tool](https://github.com/moeru-ai/xsai/pull/312) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [feat: add oneplus-enchilada module](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos/pull/16) on [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) (today)
-- [feat(oneplus-sdm845-firmware): init](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos/pull/15) on [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) (1 day ago)
-- [feat: add oneplus-enchilada uboot](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos/pull/14) on [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) (1 day ago)
+- [feat(driver-linux): click, scroll window point](https://github.com/moeru-ai/auv/pull/85) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
+- [feat(driver-linux): find, wait window text](https://github.com/moeru-ai/auv/pull/84) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
+- [feat(driver-linux): copy, paste](https://github.com/moeru-ai/auv/pull/83) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
+- [feat(tool): validate schema](https://github.com/moeru-ai/xsai/pull/314) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat(tool): define tool](https://github.com/moeru-ai/xsai/pull/312) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
 
 </details>
 <details>

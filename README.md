@@ -15,11 +15,11 @@
   <br/>
 
 
-- [kwaa/codexify](https://github.com/kwaa/codexify) -  (1 day ago)
-- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (2 days ago)
-- [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices! (3 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
-- [vieval-dev/vieval](https://github.com/vieval-dev/vieval) - 🧪💥 Evaluation framework based on Vitest, the testing framework you familiar with, for agents, models, and more. (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [kwaa/codexify](https://github.com/kwaa/codexify) -  (2 days ago)
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (3 days ago)
+- [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices! (4 days ago)
+- [vieval-dev/vieval](https://github.com/vieval-dev/vieval) - 🧪💥 Evaluation framework based on Vitest, the testing framework you familiar with, for agents, models, and more. (5 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(auv-gnome-control-center): init](https://github.com/moeru-ai/auv/pull/86) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
-- [feat(driver-linux): click, scroll window point](https://github.com/moeru-ai/auv/pull/85) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
-- [feat(driver-linux): find, wait window text](https://github.com/moeru-ai/auv/pull/84) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
-- [feat(driver-linux): copy, paste](https://github.com/moeru-ai/auv/pull/83) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
-- [feat(tool): validate schema](https://github.com/moeru-ai/xsai/pull/314) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [chore(test): use `qwen3.5:0.8b`](https://github.com/moeru-ai/xsai/pull/317) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [fix(stream): remove controller](https://github.com/moeru-ai/xsai/pull/316) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [refactor: use `Promise.withResolvers` instead of `DelayedPromise`](https://github.com/moeru-ai/xsai/pull/315) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat(std/error): to error, rewrite](https://github.com/moeru-ai/std/pull/24) on [moeru-ai/std](https://github.com/moeru-ai/std) (1 day ago)
+- [feat(std): defer](https://github.com/moeru-ai/std/pull/23) on [moeru-ai/std](https://github.com/moeru-ai/std) (1 day ago)
 
 </details>
 <details>

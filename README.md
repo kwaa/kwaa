@@ -15,11 +15,11 @@
   <br/>
 
 
-- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
-- [kwaa/codexify](https://github.com/kwaa/codexify) -  (3 days ago)
+- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/std](https://github.com/moeru-ai/std) - ⚖️📚 Standard for Moeru AI. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
+- [kwaa/codexify](https://github.com/kwaa/codexify) -  (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(react): complete direct simulation bindings and docs](https://github.com/kwaa/three-steam-audio/pull/3) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (today)
-- [feat(audio)!: complete direct spatialization controls](https://github.com/kwaa/three-steam-audio/pull/2) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (today)
-- [feat!: align public options with Steam Audio naming](https://github.com/kwaa/three-steam-audio/pull/1) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (1 day ago)
-- [chore(test): use `qwen3.5:0.8b`](https://github.com/moeru-ai/xsai/pull/317) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
-- [fix(stream): remove controller](https://github.com/moeru-ai/xsai/pull/316) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat: add Steam Audio perspective correction support](https://github.com/kwaa/three-steam-audio/pull/5) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (1 day ago)
+- [feat(hrtf): add custom SOFA HRTF support via ArrayBuffer](https://github.com/kwaa/three-steam-audio/pull/4) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (1 day ago)
+- [feat(react): complete direct simulation bindings and docs](https://github.com/kwaa/three-steam-audio/pull/3) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (1 day ago)
+- [feat(audio)!: complete direct spatialization controls](https://github.com/kwaa/three-steam-audio/pull/2) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (1 day ago)
+- [feat!: align public options with Steam Audio naming](https://github.com/kwaa/three-steam-audio/pull/1) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (2 days ago)
 
 </details>
 <details>

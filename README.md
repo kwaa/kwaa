@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [sn0wm1x/vmnw](https://github.com/sn0wm1x/vmnw) - Vanilla Mobile NixOS Workshop (2 days ago)
-- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (5 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [kwaa/yuru](https://github.com/kwaa/yuru) -  (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 days ago)
+- [sn0wm1x/vmnw](https://github.com/sn0wm1x/vmnw) - Vanilla Mobile NixOS Workshop (3 days ago)
 
 </details>
 <details>
@@ -27,11 +27,11 @@
   <br/>
 
 
+- [kwaa/yuru](https://github.com/kwaa/yuru) - 
 - [kwaa/codexify](https://github.com/kwaa/codexify) - 
 - [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills
 - [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber
 - [kwaa/sponsors](https://github.com/kwaa/sponsors) - 
-- [kwaa/blog_next](https://github.com/kwaa/blog_next) - Trying to Migrate Blog
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(core): agent as tool](https://github.com/moeru-ai/apeira/pull/44) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (today)
-- [feat(core)!: top-level tools](https://github.com/moeru-ai/apeira/pull/40) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [ci: bump version](https://github.com/moeru-ai/xsai/pull/318) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat: add Steam Audio perspective correction support](https://github.com/kwaa/three-steam-audio/pull/5) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (5 days ago)
-- [feat(hrtf): add custom SOFA HRTF support via ArrayBuffer](https://github.com/kwaa/three-steam-audio/pull/4) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (5 days ago)
+- [feat(core): agent as tool](https://github.com/moeru-ai/apeira/pull/44) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [feat(core)!: top-level tools](https://github.com/moeru-ai/apeira/pull/40) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 days ago)
+- [ci: bump version](https://github.com/moeru-ai/xsai/pull/318) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat: add Steam Audio perspective correction support](https://github.com/kwaa/three-steam-audio/pull/5) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (6 days ago)
+- [feat(hrtf): add custom SOFA HRTF support via ArrayBuffer](https://github.com/kwaa/three-steam-audio/pull/4) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (6 days ago)
 
 </details>
 <details>

@@ -15,10 +15,10 @@
   <br/>
 
 
-- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (2 days ago)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (3 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
-- [kwaa/yuru](https://github.com/kwaa/yuru) -  (4 days ago)
+- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (3 days ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (4 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
+- [kwaa/yuru](https://github.com/kwaa/yuru) -  (5 days ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat!: sandbox, hitl permissions, auto review](https://github.com/moeru-ai/apeira/pull/46) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (3 days ago)
-- [feat(core): agent as tool](https://github.com/moeru-ai/apeira/pull/44) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (6 days ago)
+- [feat: plugin-coding-tools](https://github.com/moeru-ai/apeira/pull/47) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
+- [feat!: sandbox, hitl permissions, auto review](https://github.com/moeru-ai/apeira/pull/46) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (4 days ago)
+- [feat(core): agent as tool](https://github.com/moeru-ai/apeira/pull/44) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 - [feat(core)!: top-level tools](https://github.com/moeru-ai/apeira/pull/40) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 - [ci: bump version](https://github.com/moeru-ai/xsai/pull/318) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
-- [feat: add Steam Audio perspective correction support](https://github.com/kwaa/three-steam-audio/pull/5) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (1 week ago)
 
 </details>
 <details>

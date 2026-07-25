@@ -15,11 +15,11 @@
   <br/>
 
 
-- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (3 days ago)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (4 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
-- [kwaa/yuru](https://github.com/kwaa/yuru) -  (5 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
+- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (today)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 day ago)
+- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (6 days ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 week ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: plugin-coding-tools](https://github.com/moeru-ai/apeira/pull/47) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 day ago)
-- [feat!: sandbox, hitl permissions, auto review](https://github.com/moeru-ai/apeira/pull/46) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (4 days ago)
-- [feat(core): agent as tool](https://github.com/moeru-ai/apeira/pull/44) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
-- [feat(core)!: top-level tools](https://github.com/moeru-ai/apeira/pull/40) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
-- [ci: bump version](https://github.com/moeru-ai/xsai/pull/318) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [fix(build-geometry): morph](https://github.com/moeru-ai/three-mmd/pull/41) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
+- [feat!: MMDIKSolver](https://github.com/moeru-ai/three-mmd/pull/40) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
+- [refactor!: babylon-mmd based grant solver](https://github.com/moeru-ai/three-mmd/pull/39) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
+- [fix(physics): ik, set scalar](https://github.com/moeru-ai/three-mmd/pull/38) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
+- [refactor!: new loader plugin api](https://github.com/moeru-ai/three-mmd/pull/37) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
 
 </details>
 <details>

@@ -15,11 +15,11 @@
   <br/>
 
 
-- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (1 day ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 days ago)
 - [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 days ago)
-- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (1 week ago)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 week ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
+- [kwaa/yuru](https://github.com/kwaa/yuru) -  (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(material)!: sdef, outline, material morph, loader plugin](https://github.com/moeru-ai/three-mmd/pull/43) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (today)
-- [feat: ambisonics](https://github.com/kwaa/three-steam-audio/pull/6) on [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) (1 day ago)
-- [fix(build-geometry): morph](https://github.com/moeru-ai/three-mmd/pull/41) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
-- [feat!: MMDIKSolver](https://github.com/moeru-ai/three-mmd/pull/40) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
-- [refactor!: babylon-mmd based grant solver](https://github.com/moeru-ai/three-mmd/pull/39) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
+- [perf(stage-ui-mmd): use fflate instead of jszip](https://github.com/moeru-ai/airi/pull/2183) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
+- [chore(deps): bump mmd version](https://github.com/moeru-ai/airi/pull/2175) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
+- [refactor(physics-ammo): rewrite](https://github.com/moeru-ai/three-mmd/pull/46) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
+- [perf(stage-ui-tachie): use fflate instead of jszip](https://github.com/moeru-ai/airi/pull/2172) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
+- [perf(stage-ui-mmd): implement opfs loader](https://github.com/moeru-ai/airi/pull/2171) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
 
 </details>
 <details>

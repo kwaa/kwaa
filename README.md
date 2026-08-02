@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (1 day ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 days ago)
-- [kwaa/yuru](https://github.com/kwaa/yuru) -  (3 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (2 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (3 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [perf(stage-ui-mmd): use fflate instead of jszip](https://github.com/moeru-ai/airi/pull/2183) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
-- [chore(deps): bump mmd version](https://github.com/moeru-ai/airi/pull/2175) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
-- [refactor(physics-ammo): rewrite](https://github.com/moeru-ai/three-mmd/pull/46) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
-- [perf(stage-ui-tachie): use fflate instead of jszip](https://github.com/moeru-ai/airi/pull/2172) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
-- [perf(stage-ui-mmd): implement opfs loader](https://github.com/moeru-ai/airi/pull/2171) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [perf(stage-ui-mmd): use fflate instead of jszip](https://github.com/moeru-ai/airi/pull/2183) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [chore(deps): bump mmd version](https://github.com/moeru-ai/airi/pull/2175) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [refactor(physics-ammo): rewrite](https://github.com/moeru-ai/three-mmd/pull/46) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
+- [perf(stage-ui-tachie): use fflate instead of jszip](https://github.com/moeru-ai/airi/pull/2172) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [perf(stage-ui-mmd): implement opfs loader](https://github.com/moeru-ai/airi/pull/2171) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
 
 </details>
 <details>

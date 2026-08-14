@@ -15,10 +15,10 @@
   <br/>
 
 
-- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (3 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (3 days ago)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (4 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (4 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (4 days ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (5 days ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
 
 </details>
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [fix(materials): fix sdef](https://github.com/moeru-ai/three-mmd/pull/51) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
-- [refactor(core)!: make agent turns recoverable across failures](https://github.com/moeru-ai/apeira/pull/50) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (4 days ago)
-- [refactor(core)!: make agent persistence transactional](https://github.com/moeru-ai/apeira/pull/49) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (4 days ago)
-- [refactor(plugins): remove common tools, hitl](https://github.com/moeru-ai/apeira/pull/48) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (5 days ago)
+- [fix(materials): fix sdef](https://github.com/moeru-ai/three-mmd/pull/51) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (4 days ago)
+- [refactor(core)!: make agent turns recoverable across failures](https://github.com/moeru-ai/apeira/pull/50) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (5 days ago)
+- [refactor(core)!: make agent persistence transactional](https://github.com/moeru-ai/apeira/pull/49) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (5 days ago)
+- [refactor(plugins): remove common tools, hitl](https://github.com/moeru-ai/apeira/pull/48) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (6 days ago)
 - [fix: physics bugs](https://github.com/moeru-ai/three-mmd/pull/48) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
 
 </details>

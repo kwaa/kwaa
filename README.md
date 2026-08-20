@@ -15,7 +15,7 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
 - [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (1 week ago)
 - [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
 - [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 week ago)

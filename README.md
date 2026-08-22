@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (1 day ago)
 - [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (1 week ago)
 - [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
 - [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (1 week ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (2 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
+- [refactor(auv-gnome-control-center): move to supported apps](https://github.com/moeru-ai/auv/pull/172) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
 - [fix(materials): fix sdef](https://github.com/moeru-ai/three-mmd/pull/51) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
 - [refactor(core)!: make agent turns recoverable across failures](https://github.com/moeru-ai/apeira/pull/50) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
 - [refactor(core)!: make agent persistence transactional](https://github.com/moeru-ai/apeira/pull/49) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
-- [refactor(plugins): remove common tools, hitl](https://github.com/moeru-ai/apeira/pull/48) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (1 week ago)
-- [fix: physics bugs](https://github.com/moeru-ai/three-mmd/pull/48) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 weeks ago)
+- [refactor(plugins): remove common tools, hitl](https://github.com/moeru-ai/apeira/pull/48) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 weeks ago)
 
 </details>
 <details>

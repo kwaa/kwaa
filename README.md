@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (2 days ago)
-- [kwaa/three-steam-audio](https://github.com/kwaa/three-steam-audio) - 💨🔊 Steam Audio for three.js / react-three-fiber (1 week ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (2 weeks ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
+- [insel-null/lemmih](https://github.com/insel-null/lemmih) - 🌐🗄️ A simple, performance-focused Web framework. (1 day ago)
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 weeks ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(auv-gnome-control-center): move to supported apps](https://github.com/moeru-ai/auv/pull/172) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
-- [fix(materials): fix sdef](https://github.com/moeru-ai/three-mmd/pull/51) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
+- [refactor: bump sea-orm to v2](https://github.com/importantimport/hatsu/pull/96) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 day ago)
+- [feat(path-router): fallback, optimize static routes](https://github.com/insel-null/lemmih/pull/11) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (1 day ago)
+- [refactor(auv-gnome-control-center): move to supported apps](https://github.com/moeru-ai/auv/pull/172) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
+- [fix(materials): fix sdef](https://github.com/moeru-ai/three-mmd/pull/51) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 weeks ago)
 - [refactor(core)!: make agent turns recoverable across failures](https://github.com/moeru-ai/apeira/pull/50) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 weeks ago)
-- [refactor(core)!: make agent persistence transactional](https://github.com/moeru-ai/apeira/pull/49) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 weeks ago)
-- [refactor(plugins): remove common tools, hitl](https://github.com/moeru-ai/apeira/pull/48) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 weeks ago)
 
 </details>
 <details>

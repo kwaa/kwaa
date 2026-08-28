@@ -15,11 +15,11 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
-- [insel-null/lemmih](https://github.com/insel-null/lemmih) - 🌐🗄️ A simple, performance-focused Web framework. (2 days ago)
-- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (4 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 weeks ago)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (2 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (4 days ago)
+- [insel-null/lemmih](https://github.com/insel-null/lemmih) - 🌐🗄️ A simple, performance-focused Web framework. (5 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor: bump sea-orm to v2](https://github.com/importantimport/hatsu/pull/96) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (2 days ago)
-- [feat(path-router): fallback, optimize static routes](https://github.com/insel-null/lemmih/pull/11) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (2 days ago)
-- [refactor(auv-gnome-control-center): move to supported apps](https://github.com/moeru-ai/auv/pull/172) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (4 days ago)
+- [feat(materials): mmd physical material](https://github.com/moeru-ai/three-mmd/pull/57) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 day ago)
+- [refactor: bump sea-orm to v2](https://github.com/importantimport/hatsu/pull/96) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
+- [feat(path-router): fallback, optimize static routes](https://github.com/insel-null/lemmih/pull/11) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (5 days ago)
+- [refactor(auv-gnome-control-center): move to supported apps](https://github.com/moeru-ai/auv/pull/172) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)
 - [fix(materials): fix sdef](https://github.com/moeru-ai/three-mmd/pull/51) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 weeks ago)
-- [refactor(core)!: make agent turns recoverable across failures](https://github.com/moeru-ai/apeira/pull/50) on [moeru-ai/apeira](https://github.com/moeru-ai/apeira) (2 weeks ago)
 
 </details>
 <details>

@@ -15,10 +15,10 @@
   <br/>
 
 
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (2 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (4 days ago)
-- [insel-null/lemmih](https://github.com/insel-null/lemmih) - 🌐🗄️ A simple, performance-focused Web framework. (5 days ago)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (3 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (3 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (5 days ago)
+- [insel-null/lemmih](https://github.com/insel-null/lemmih) - 🌐🗄️ A simple, performance-focused Web framework. (6 days ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
 </details>
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [feat(materials): mmd physical material](https://github.com/moeru-ai/three-mmd/pull/57) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 day ago)
-- [refactor: bump sea-orm to v2](https://github.com/importantimport/hatsu/pull/96) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (5 days ago)
-- [feat(path-router): fallback, optimize static routes](https://github.com/insel-null/lemmih/pull/11) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (5 days ago)
+- [feat(materials): mmd physical material](https://github.com/moeru-ai/three-mmd/pull/57) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
+- [refactor: bump sea-orm to v2](https://github.com/importantimport/hatsu/pull/96) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
+- [feat(path-router): fallback, optimize static routes](https://github.com/insel-null/lemmih/pull/11) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (6 days ago)
 - [refactor(auv-gnome-control-center): move to supported apps](https://github.com/moeru-ai/auv/pull/172) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)
 - [fix(materials): fix sdef](https://github.com/moeru-ai/three-mmd/pull/51) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 weeks ago)
 

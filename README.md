@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (3 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (3 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (5 days ago)
-- [insel-null/lemmih](https://github.com/insel-null/lemmih) - 🌐🗄️ A simple, performance-focused Web framework. (6 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
+- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
+- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (1 day ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (4 days ago)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(materials): mmd physical material](https://github.com/moeru-ai/three-mmd/pull/57) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
-- [refactor: bump sea-orm to v2](https://github.com/importantimport/hatsu/pull/96) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (6 days ago)
-- [feat(path-router): fallback, optimize static routes](https://github.com/insel-null/lemmih/pull/11) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (6 days ago)
-- [refactor(auv-gnome-control-center): move to supported apps](https://github.com/moeru-ai/auv/pull/172) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)
-- [fix(materials): fix sdef](https://github.com/moeru-ai/three-mmd/pull/51) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 weeks ago)
+- [feat: new post `xsai-0.5`](https://github.com/moeru-ai/blog/pull/10) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (1 day ago)
+- [chore(deps): bump version](https://github.com/moeru-ai/xsai/pull/322) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat(materials): mmd physical material](https://github.com/moeru-ai/three-mmd/pull/57) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
+- [refactor: bump sea-orm to v2](https://github.com/importantimport/hatsu/pull/96) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
+- [feat(path-router): fallback, optimize static routes](https://github.com/insel-null/lemmih/pull/11) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (1 week ago)
 
 </details>
 <details>

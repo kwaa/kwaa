@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (today)
-- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (1 day ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (4 days ago)
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (4 days ago)
+- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
+- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (2 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (5 days ago)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (5 days ago)
 
 </details>
 <details>
@@ -39,9 +39,9 @@
   <br/>
 
 
-- [feat: new post `xsai-0.5`](https://github.com/moeru-ai/blog/pull/10) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (1 day ago)
-- [chore(deps): bump version](https://github.com/moeru-ai/xsai/pull/322) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(materials): mmd physical material](https://github.com/moeru-ai/three-mmd/pull/57) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
+- [feat: new post `xsai-0.5`](https://github.com/moeru-ai/blog/pull/10) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (2 days ago)
+- [chore(deps): bump version](https://github.com/moeru-ai/xsai/pull/322) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [feat(materials): mmd physical material](https://github.com/moeru-ai/three-mmd/pull/57) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (4 days ago)
 - [refactor: bump sea-orm to v2](https://github.com/importantimport/hatsu/pull/96) on [importantimport/hatsu](https://github.com/importantimport/hatsu) (1 week ago)
 - [feat(path-router): fallback, optimize static routes](https://github.com/insel-null/lemmih/pull/11) on [insel-null/lemmih](https://github.com/insel-null/lemmih) (1 week ago)
 

@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 day ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 days ago)
-- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (3 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
-- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (4 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (3 days ago)
+- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
+- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (5 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [chore: bump xsai to v0.5.0](https://github.com/moeru-ai/airi/pull/2428) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
-- [chore(cspell): update config](https://github.com/moeru-ai/airi/pull/2427) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
-- [chore: bump `@moeru/three-mmd`](https://github.com/moeru-ai/airi/pull/2424) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
-- [feat: new post `xsai-0.5`](https://github.com/moeru-ai/blog/pull/10) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (4 days ago)
-- [chore(deps): bump version](https://github.com/moeru-ai/xsai/pull/322) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [chore: bump xsai to v0.5.0](https://github.com/moeru-ai/airi/pull/2428) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [chore(cspell): update config](https://github.com/moeru-ai/airi/pull/2427) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [chore: bump `@moeru/three-mmd`](https://github.com/moeru-ai/airi/pull/2424) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [feat: new post `xsai-0.5`](https://github.com/moeru-ai/blog/pull/10) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (5 days ago)
+- [chore(deps): bump version](https://github.com/moeru-ai/xsai/pull/322) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
 
 </details>
 <details>

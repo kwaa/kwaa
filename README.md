@@ -16,10 +16,10 @@
 
 
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (1 day ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (3 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (4 days ago)
-- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (5 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (today)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (2 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (5 days ago)
+- [moeru-ai/blog](https://github.com/moeru-ai/blog) - 📃✍️ Moeru AI Blog (6 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat: stream speech generation](https://github.com/moeru-ai/ortts/pull/23) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (1 day ago)
-- [chore: bump xsai to v0.5.0](https://github.com/moeru-ai/airi/pull/2428) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
-- [chore(cspell): update config](https://github.com/moeru-ai/airi/pull/2427) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
-- [chore: bump `@moeru/three-mmd`](https://github.com/moeru-ai/airi/pull/2424) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (4 days ago)
-- [feat: new post `xsai-0.5`](https://github.com/moeru-ai/blog/pull/10) on [moeru-ai/blog](https://github.com/moeru-ai/blog) (6 days ago)
+- [fix: interleave MMD bone solvers around physics stages](https://github.com/moeru-ai/three-mmd/pull/61) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (today)
+- [fix(physics-ammo): inline ammojs-typed, clean types](https://github.com/moeru-ai/three-mmd/pull/60) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 day ago)
+- [feat: mmd animation manager](https://github.com/moeru-ai/three-mmd/pull/59) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 day ago)
+- [feat: stream speech generation](https://github.com/moeru-ai/ortts/pull/23) on [moeru-ai/ortts](https://github.com/moeru-ai/ortts) (2 days ago)
+- [chore: bump xsai to v0.5.0](https://github.com/moeru-ai/airi/pull/2428) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (5 days ago)
 
 </details>
 <details>

@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (2 days ago)
-- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (4 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - A catgirl who lives with you in real time — reaching out first, sharing your media, and actually getting things done, powered by an embodied emotional engine.🐱❤️一只会主动找你玩的 AI 猫娘。 (1 day ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (3 days ago)
+- [moeru-ai/ortts](https://github.com/moeru-ai/ortts) - 𖣘🔊 Simple and Easy-to-use local TTS inference server, Powered by ONNX Runtime (5 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [fix(mmd): use active action time](https://github.com/Project-N-E-K-O/N.E.K.O/pull/3065) on [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) (today)
-- [chore(deps): bump three-mmd to v0.2.0-beta.2](https://github.com/moeru-ai/airi/pull/2469) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
-- [feat: apply VMD IK property animation](https://github.com/moeru-ai/three-mmd/pull/62) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
-- [fix: interleave MMD bone solvers around physics stages](https://github.com/moeru-ai/three-mmd/pull/61) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (2 days ago)
-- [fix(physics-ammo): inline ammojs-typed, clean types](https://github.com/moeru-ai/three-mmd/pull/60) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
+- [fix(mmd): use active action time](https://github.com/Project-N-E-K-O/N.E.K.O/pull/3065) on [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) (1 day ago)
+- [chore(deps): bump three-mmd to v0.2.0-beta.2](https://github.com/moeru-ai/airi/pull/2469) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [feat: apply VMD IK property animation](https://github.com/moeru-ai/three-mmd/pull/62) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
+- [fix: interleave MMD bone solvers around physics stages](https://github.com/moeru-ai/three-mmd/pull/61) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 days ago)
+- [fix(physics-ammo): inline ammojs-typed, clean types](https://github.com/moeru-ai/three-mmd/pull/60) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (4 days ago)
 
 </details>
 <details>

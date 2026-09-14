@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (3 days ago)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (5 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (6 days ago)
-- [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - A catgirl who lives with you in real time — reaching out first, sharing your media, and actually getting things done, powered by an embodied emotional engine.🐱❤️一只会主动找你玩的 AI 猫娘。 (6 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (4 days ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (6 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
+- [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - A catgirl who lives with you in real time — reaching out first, sharing your media, and actually getting things done, powered by an embodied emotional engine.🐱❤️一只会主动找你玩的 AI 猫娘。 (1 week ago)
 
 </details>
 <details>
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [fix(mmd): use active action time](https://github.com/Project-N-E-K-O/N.E.K.O/pull/3065) on [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) (6 days ago)
+- [fix(mmd): use active action time](https://github.com/Project-N-E-K-O/N.E.K.O/pull/3065) on [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) (1 week ago)
 - [chore(deps): bump three-mmd to v0.2.0-beta.2](https://github.com/moeru-ai/airi/pull/2469) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 week ago)
 - [feat: apply VMD IK property animation](https://github.com/moeru-ai/three-mmd/pull/62) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)
 - [fix: interleave MMD bone solvers around physics stages](https://github.com/moeru-ai/three-mmd/pull/61) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (1 week ago)

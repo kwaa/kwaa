@@ -15,10 +15,10 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (6 days ago)
 - [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (1 week ago)
 - [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (2 weeks ago)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (2 weeks ago)
+- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (3 weeks ago)
 - [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (3 weeks ago)
 
 </details>
@@ -39,7 +39,7 @@
   <br/>
 
 
-- [feat(text): support provider-executed tools](https://github.com/moeru-ai/xsai/pull/324) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (3 days ago)
+- [feat(text): support provider-executed tools](https://github.com/moeru-ai/xsai/pull/324) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
 - [fix(mmd): use active action time](https://github.com/Project-N-E-K-O/N.E.K.O/pull/3065) on [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) (3 weeks ago)
 - [chore(deps): bump three-mmd to v0.2.0-beta.2](https://github.com/moeru-ai/airi/pull/2469) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 weeks ago)
 - [feat: apply VMD IK property animation](https://github.com/moeru-ai/three-mmd/pull/62) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 weeks ago)

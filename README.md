@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/.github](https://github.com/moeru-ai/.github) -  (1 week ago)
-- [kwaa/sponsors](https://github.com/kwaa/sponsors) -  (3 weeks ago)
-- [moeru-ai/apeira](https://github.com/moeru-ai/apeira) - 🕵️💬 stream-first Agent Runtime. (3 weeks ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (today)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (2 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [chore(deps): update xsai to 0.5.1 and trim patch](https://github.com/moeru-ai/airi/pull/2736) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
-- [feat(text): support provider-executed tools](https://github.com/moeru-ai/xsai/pull/324) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [fix(mmd): use active action time](https://github.com/Project-N-E-K-O/N.E.K.O/pull/3065) on [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) (3 weeks ago)
-- [chore(deps): bump three-mmd to v0.2.0-beta.2](https://github.com/moeru-ai/airi/pull/2469) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 weeks ago)
-- [feat: apply VMD IK property animation](https://github.com/moeru-ai/three-mmd/pull/62) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (3 weeks ago)
+- [feat(auv-cli-invoke): enable Linux observation commands](https://github.com/moeru-ai/auv/pull/216) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
+- [fix(auv-driver-linux): validate live window capture references](https://github.com/moeru-ai/auv/pull/214) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
+- [fix(auv-driver-linux): validate screenshot fallback coordinates](https://github.com/moeru-ai/auv/pull/213) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
+- [fix(flake): add bracket](https://github.com/moeru-ai/auv/pull/212) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
+- [chore(deps): update xsai to 0.5.1 and trim patch](https://github.com/moeru-ai/airi/pull/2736) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
 
 </details>
 <details>

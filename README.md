@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (today)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
-- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (3 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 day ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (3 days ago)
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(auv-cli-invoke): enable Linux observation commands](https://github.com/moeru-ai/auv/pull/216) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
-- [fix(auv-driver-linux): validate live window capture references](https://github.com/moeru-ai/auv/pull/214) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
-- [fix(auv-driver-linux): validate screenshot fallback coordinates](https://github.com/moeru-ai/auv/pull/213) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
-- [fix(flake): add bracket](https://github.com/moeru-ai/auv/pull/212) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
-- [chore(deps): update xsai to 0.5.1 and trim patch](https://github.com/moeru-ai/airi/pull/2736) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
+- [feat(text): accept event targets](https://github.com/moeru-ai/xsai/pull/325) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat(auv-cli-invoke): enable Linux observation commands](https://github.com/moeru-ai/auv/pull/216) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
+- [fix(auv-driver-linux): validate live window capture references](https://github.com/moeru-ai/auv/pull/214) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
+- [fix(auv-driver-linux): validate screenshot fallback coordinates](https://github.com/moeru-ai/auv/pull/213) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
+- [fix(flake): add bracket](https://github.com/moeru-ai/auv/pull/212) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
 
 </details>
 <details>

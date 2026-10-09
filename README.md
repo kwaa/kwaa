@@ -15,7 +15,7 @@
   <br/>
 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (5 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (6 days ago)
 - [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (1 week ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK. (1 week ago)
@@ -39,8 +39,8 @@
   <br/>
 
 
-- [feat!: v1](https://github.com/moeru-ai/xsai/pull/327) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
-- [feat(text): accept event targets](https://github.com/moeru-ai/xsai/pull/325) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [feat!: v1](https://github.com/moeru-ai/xsai/pull/327) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [feat(text): accept event targets](https://github.com/moeru-ai/xsai/pull/325) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
 - [feat(auv-cli-invoke): enable Linux observation commands](https://github.com/moeru-ai/auv/pull/216) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)
 - [fix(auv-driver-linux): validate live window capture references](https://github.com/moeru-ai/auv/pull/214) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)
 - [fix(auv-driver-linux): validate screenshot fallback coordinates](https://github.com/moeru-ai/auv/pull/213) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)

@@ -15,9 +15,9 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (1 day ago)
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (today)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (2 days ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
 
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(text-messages): add thinking and prompt caching options](https://github.com/moeru-ai/xsai/pull/328) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [chore(docs-website): add install script redirect](https://github.com/moeru-ai/auv/pull/325) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
+- [fix(auv-api-proto): respect configured PROTOC](https://github.com/moeru-ai/auv/pull/344) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (today)
+- [feat(text-messages): add thinking and prompt caching options](https://github.com/moeru-ai/xsai/pull/328) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [chore(docs-website): add install script redirect](https://github.com/moeru-ai/auv/pull/325) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
 - [feat!: v1](https://github.com/moeru-ai/xsai/pull/327) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [feat(text): accept event targets](https://github.com/moeru-ai/xsai/pull/325) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
-- [feat(auv-cli-invoke): enable Linux observation commands](https://github.com/moeru-ai/auv/pull/216) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)
 
 </details>
 <details>

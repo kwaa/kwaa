@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
-- [vieval-dev/vieval](https://github.com/vieval-dev/vieval) - 🧪💥 Evaluation framework based on Vitest, the testing framework you familiar with, for agents, models, and more. (today)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (today)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 day ago)
+- [moeru-ai/xsai-codex](https://github.com/moeru-ai/xsai-codex) - 🤖💬 OpenAI Codex provider for xsAI. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
+- [vieval-dev/vieval](https://github.com/vieval-dev/vieval) - 🧪💥 Evaluation framework based on Vitest, the testing framework you familiar with, for agents, models, and more. (1 day ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (1 day ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (2 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(text-messages): support data url charset](https://github.com/moeru-ai/xsai/pull/334) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [auv: init at 0.0.34](https://github.com/NixOS/nixpkgs/pull/573156) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [fix(auv-api-proto): respect configured PROTOC](https://github.com/moeru-ai/auv/pull/344) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
-- [feat(text-messages): add thinking and prompt caching options](https://github.com/moeru-ai/xsai/pull/328) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
-- [chore(docs-website): add install script redirect](https://github.com/moeru-ai/auv/pull/325) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (4 days ago)
+- [feat(text-messages): support data url charset](https://github.com/moeru-ai/xsai/pull/334) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [auv: init at 0.0.34](https://github.com/NixOS/nixpkgs/pull/573156) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [fix(auv-api-proto): respect configured PROTOC](https://github.com/moeru-ai/auv/pull/344) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
+- [feat(text-messages): add thinking and prompt caching options](https://github.com/moeru-ai/xsai/pull/328) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [chore(docs-website): add install script redirect](https://github.com/moeru-ai/auv/pull/325) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (5 days ago)
 
 </details>
 <details>

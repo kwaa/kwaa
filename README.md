@@ -15,11 +15,11 @@
   <br/>
 
 
-- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (1 day ago)
-- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (2 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (1 week ago)
-- [vieval-dev/vieval](https://github.com/vieval-dev/vieval) - 🧪💥 Evaluation framework based on Vitest, the testing framework you familiar with, for agents, models, and more. (1 week ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (1 day ago)
+- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills (2 days ago)
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (3 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [docs(auv-cli-invoke): sync Linux support cells and the support matrix](https://github.com/moeru-ai/auv/pull/390) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
-- [feat(auv-cli-invoke): run window text OCR on Linux](https://github.com/moeru-ai/auv/pull/389) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
-- [perf(auv-driver-linux): scope the GNOME Shell origin repair walk](https://github.com/moeru-ai/auv/pull/388) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
-- [fix(auv-driver-common): start held mouse deadline at delivered press](https://github.com/moeru-ai/auv/pull/387) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (3 days ago)
-- [feat(auv-driver-linux): deliver portal input through EIS](https://github.com/moeru-ai/auv/pull/384) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (4 days ago)
+- [docs(auv-cli-invoke): sync Linux support cells and the support matrix](https://github.com/moeru-ai/auv/pull/390) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (4 days ago)
+- [feat(auv-cli-invoke): run window text OCR on Linux](https://github.com/moeru-ai/auv/pull/389) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (4 days ago)
+- [perf(auv-driver-linux): scope the GNOME Shell origin repair walk](https://github.com/moeru-ai/auv/pull/388) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (4 days ago)
+- [fix(auv-driver-common): start held mouse deadline at delivered press](https://github.com/moeru-ai/auv/pull/387) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (4 days ago)
+- [feat(auv-driver-linux): deliver portal input through EIS](https://github.com/moeru-ai/auv/pull/384) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (5 days ago)
 
 </details>
 <details>

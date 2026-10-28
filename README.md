@@ -15,10 +15,10 @@
   <br/>
 
 
-- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills. (today)
-- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (1 day ago)
-- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (3 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (today)
+- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills. (1 day ago)
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (2 days ago)
+- [sn0wm1x/ur](https://github.com/sn0wm1x/ur) - 🌨 SN0WM1X (Nix) User Repository. (4 days ago)
 - [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 week ago)
 
 </details>
@@ -39,10 +39,10 @@
   <br/>
 
 
-- [docs(readme): update badges](https://github.com/moeru-ai/auv/pull/427) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
-- [feat(docs): add `auv` skill](https://github.com/moeru-ai/auv/pull/426) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 day ago)
-- [fix(text): validate tool output before serialization](https://github.com/moeru-ai/xsai/pull/337) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [refactor(text)!: make streamText consumer driven](https://github.com/moeru-ai/xsai/pull/336) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [docs(readme): update badges](https://github.com/moeru-ai/auv/pull/427) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
+- [feat(docs): add `auv` skill](https://github.com/moeru-ai/auv/pull/426) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (2 days ago)
+- [fix(text): validate tool output before serialization](https://github.com/moeru-ai/xsai/pull/337) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [refactor(text)!: make streamText consumer driven](https://github.com/moeru-ai/xsai/pull/336) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
 - [docs(auv-cli-invoke): sync Linux support cells and the support matrix](https://github.com/moeru-ai/auv/pull/390) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)
 
 </details>

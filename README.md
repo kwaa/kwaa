@@ -15,11 +15,11 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/ravu](https://github.com/moeru-ai/ravu) - 💖💝 Reimagining Personal Agent. coming soon... (2 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (3 days ago)
-- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (3 days ago)
-- [kwaa/skills](https://github.com/kwaa/skills) - kwaa&#39;s Agent Skills. (5 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [moeru-ai/ravu](https://github.com/moeru-ai/ravu) - 💖💝 Reimagining Personal Agent. coming soon... (3 days ago)
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (4 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (4 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [docs(readme): update badges](https://github.com/moeru-ai/auv/pull/427) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (6 days ago)
-- [feat(docs): add `auv` skill](https://github.com/moeru-ai/auv/pull/426) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (6 days ago)
-- [fix(text): validate tool output before serialization](https://github.com/moeru-ai/xsai/pull/337) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [refactor(text)!: make streamText consumer driven](https://github.com/moeru-ai/xsai/pull/336) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (6 days ago)
-- [docs(auv-cli-invoke): sync Linux support cells and the support matrix](https://github.com/moeru-ai/auv/pull/390) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)
+- [fix(live2d): apply drawable multiply and screen colors](https://github.com/moeru-ai/airi/pull/3323) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
+- [docs(readme): update badges](https://github.com/moeru-ai/auv/pull/427) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)
+- [feat(docs): add `auv` skill](https://github.com/moeru-ai/auv/pull/426) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)
+- [fix(text): validate tool output before serialization](https://github.com/moeru-ai/xsai/pull/337) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
+- [refactor(text)!: make streamText consumer driven](https://github.com/moeru-ai/xsai/pull/336) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>

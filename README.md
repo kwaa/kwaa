@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (1 day ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (3 days ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
-- [moeru-ai/ravu](https://github.com/moeru-ai/ravu) - 💖💝 Reimagining Personal Agent. coming soon... (5 days ago)
-- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 No we are not computer use, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost (6 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (2 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (4 days ago)
+- [moeru-ai/ravu](https://github.com/moeru-ai/ravu) - 💖💝 Reimagining Personal Agent. coming soon... (6 days ago)
+- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 Are we computer use, I guess not, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost. Supports Linux, macOS, Windows, offering TypeScript / Rust / Python / Go SDK (1 week ago)
 
 </details>
 <details>
@@ -39,8 +39,8 @@
   <br/>
 
 
-- [fix: omit bearer authorization for empty API keys](https://github.com/moeru-ai/xsai/pull/338) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [fix(live2d): apply drawable multiply and screen colors](https://github.com/moeru-ai/airi/pull/3323) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (2 days ago)
+- [fix: omit bearer authorization for empty API keys](https://github.com/moeru-ai/xsai/pull/338) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
+- [fix(live2d): apply drawable multiply and screen colors](https://github.com/moeru-ai/airi/pull/3323) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (3 days ago)
 - [docs(readme): update badges](https://github.com/moeru-ai/auv/pull/427) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)
 - [feat(docs): add `auv` skill](https://github.com/moeru-ai/auv/pull/426) on [moeru-ai/auv](https://github.com/moeru-ai/auv) (1 week ago)
 - [fix(text): validate tool output before serialization](https://github.com/moeru-ai/xsai/pull/337) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)

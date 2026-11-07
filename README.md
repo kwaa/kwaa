@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (5 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (6 days ago)
 - [moeru-ai/ravu](https://github.com/moeru-ai/ravu) - 💖💝 Reimagining Personal Agent. coming soon... (1 week ago)
-- [moeru-ai/auv](https://github.com/moeru-ai/auv) - 📱🐭 Are we computer use, I guess not, it&#39;s Application Use Via... a unified orchestration layer of OS automation, 0 token cost. Supports Linux, macOS, Windows, offering TypeScript / Rust / Python / Go SDK (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [fix(text): run postToolCall for calls cut off by the output token limit](https://github.com/moeru-ai/xsai/pull/346) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [feat(text): give prepareStep the model, instructions, and tools](https://github.com/moeru-ai/xsai/pull/345) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [feat(text): name the path in validation errors](https://github.com/moeru-ai/xsai/pull/344) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [feat(text): report the model that answered on step.end](https://github.com/moeru-ai/xsai/pull/343) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
-- [feat(text)!: let tool executors return an error flag and metadata](https://github.com/moeru-ai/xsai/pull/342) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [refactor(materials): simplify material API to Three.js style](https://github.com/moeru-ai/three-mmd/pull/65) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (today)
+- [fix(text): run postToolCall for calls cut off by the output token limit](https://github.com/moeru-ai/xsai/pull/346) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat(text): give prepareStep the model, instructions, and tools](https://github.com/moeru-ai/xsai/pull/345) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat(text): name the path in validation errors](https://github.com/moeru-ai/xsai/pull/344) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat(text): report the model that answered on step.end](https://github.com/moeru-ai/xsai/pull/343) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
 
 </details>
 <details>

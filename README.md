@@ -15,11 +15,11 @@
   <br/>
 
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (today)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 day ago)
 - [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (6 days ago)
-- [moeru-ai/ravu](https://github.com/moeru-ai/ravu) - 💖💝 Reimagining Personal Agent. coming soon... (1 week ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [refactor(materials): simplify material API to Three.js style](https://github.com/moeru-ai/three-mmd/pull/65) on [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) (today)
-- [fix(text): run postToolCall for calls cut off by the output token limit](https://github.com/moeru-ai/xsai/pull/346) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(text): give prepareStep the model, instructions, and tools](https://github.com/moeru-ai/xsai/pull/345) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(text): name the path in validation errors](https://github.com/moeru-ai/xsai/pull/344) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
-- [feat(text): report the model that answered on step.end](https://github.com/moeru-ai/xsai/pull/343) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [fix(text-chat): replay reasoning_details](https://github.com/moeru-ai/xsai/pull/351) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat(providers): add @xsai-ext/providers 1.0](https://github.com/moeru-ai/xsai/pull/350) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat(text): add serviceTier to LanguageModelOptions](https://github.com/moeru-ai/xsai/pull/349) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [fix(text-messages)!: count cache tokens in inputTokens](https://github.com/moeru-ai/xsai/pull/348) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
+- [feat(shared): add a path override to HttpOptions](https://github.com/moeru-ai/xsai/pull/347) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (today)
 
 </details>
 <details>

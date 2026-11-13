@@ -15,10 +15,10 @@
   <br/>
 
 
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (3 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (5 days ago)
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (5 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (4 days ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (6 days ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (6 days ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
 
 </details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(shared): add extraBody to HttpOptions](https://github.com/moeru-ai/xsai/pull/352) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
-- [fix(text-chat): replay reasoning_details](https://github.com/moeru-ai/xsai/pull/351) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
-- [feat(providers): add @xsai-ext/providers 1.0](https://github.com/moeru-ai/xsai/pull/350) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
-- [feat(text): add serviceTier to LanguageModelOptions](https://github.com/moeru-ai/xsai/pull/349) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
-- [fix(text-messages)!: count cache tokens in inputTokens](https://github.com/moeru-ai/xsai/pull/348) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (4 days ago)
+- [feat(shared): add extraBody to HttpOptions](https://github.com/moeru-ai/xsai/pull/352) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [fix(text-chat): replay reasoning_details](https://github.com/moeru-ai/xsai/pull/351) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [feat(providers): add @xsai-ext/providers 1.0](https://github.com/moeru-ai/xsai/pull/350) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [feat(text): add serviceTier to LanguageModelOptions](https://github.com/moeru-ai/xsai/pull/349) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
+- [fix(text-messages)!: count cache tokens in inputTokens](https://github.com/moeru-ai/xsai/pull/348) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (5 days ago)
 
 </details>
 <details>

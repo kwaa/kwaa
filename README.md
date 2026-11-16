@@ -16,10 +16,10 @@
 
 
 - [moeru-ai/fwt](https://github.com/moeru-ai/fwt) - 🪶🤖 Subagent harness, featherweight. (1 day ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (1 day ago)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (4 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
+- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (2 days ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (5 days ago)
 - [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 week ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [feat(text)!: make tool schema strictness configurable](https://github.com/moeru-ai/xsai/pull/353) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 day ago)
+- [feat: load AGENTS.md instructions](https://github.com/moeru-ai/fwt/pull/3) on [moeru-ai/fwt](https://github.com/moeru-ai/fwt) (1 day ago)
+- [feat(text)!: make tool schema strictness configurable](https://github.com/moeru-ai/xsai/pull/353) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (2 days ago)
 - [feat(shared): add extraBody to HttpOptions](https://github.com/moeru-ai/xsai/pull/352) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [fix(text-chat): replay reasoning_details](https://github.com/moeru-ai/xsai/pull/351) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 - [feat(providers): add @xsai-ext/providers 1.0](https://github.com/moeru-ai/xsai/pull/350) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
-- [feat(text): add serviceTier to LanguageModelOptions](https://github.com/moeru-ai/xsai/pull/349) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>

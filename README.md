@@ -15,11 +15,11 @@
   <br/>
 
 
-- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (today)
-- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (2 days ago)
-- [moeru-ai/fwt](https://github.com/moeru-ai/fwt) - 🪶🤖 Subagent harness, featherweight. (4 days ago)
-- [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 AI SDK, extra small. (1 week ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 weeks ago)
+- [moeru-ai/three-mmd](https://github.com/moeru-ai/three-mmd) - 🥬💃 Use MMD on Three.js (1 day ago)
+- [armbian/armbian.github.io](https://github.com/armbian/armbian.github.io) - This repository serves as the central automation, orchestration, and data backbone for the Armbian project’s CI/CD infrastructure. It manages and publishes critical workflows, build artifacts, metadata, and machine-readable content that power Armbian’s public services and infrastructure. (1 day ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 day ago)
+- [sn0wm1x/os](https://github.com/sn0wm1x/os) - 🌨 SN0WM1X (Nix) OS Configuration. (3 days ago)
+- [moeru-ai/fwt](https://github.com/moeru-ai/fwt) - 🪶🤖 Subagent harness, featherweight. (5 days ago)
 
 </details>
 <details>
@@ -39,11 +39,11 @@
   <br/>
 
 
-- [chore(stage-ui-mmd): bump three-mmd to 0.2.0-beta.3](https://github.com/moeru-ai/airi/pull/3559) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (today)
-- [feat: load AGENTS.md instructions](https://github.com/moeru-ai/fwt/pull/3) on [moeru-ai/fwt](https://github.com/moeru-ai/fwt) (6 days ago)
+- [board-images: add OnePlus 10 Pro (oneplus-negroni)](https://github.com/armbian/armbian.github.io/pull/574) on [armbian/armbian.github.io](https://github.com/armbian/armbian.github.io) (1 day ago)
+- [board: add OnePlus 10 Pro (SM8450)](https://github.com/armbian/build/pull/11475) on [armbian/build](https://github.com/armbian/build) (1 day ago)
+- [chore(stage-ui-mmd): bump three-mmd to 0.2.0-beta.3](https://github.com/moeru-ai/airi/pull/3559) on [moeru-ai/airi](https://github.com/moeru-ai/airi) (1 day ago)
+- [feat: load AGENTS.md instructions](https://github.com/moeru-ai/fwt/pull/3) on [moeru-ai/fwt](https://github.com/moeru-ai/fwt) (1 week ago)
 - [feat(text)!: make tool schema strictness configurable](https://github.com/moeru-ai/xsai/pull/353) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
-- [feat(shared): add extraBody to HttpOptions](https://github.com/moeru-ai/xsai/pull/352) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
-- [fix(text-chat): replay reasoning_details](https://github.com/moeru-ai/xsai/pull/351) on [moeru-ai/xsai](https://github.com/moeru-ai/xsai) (1 week ago)
 
 </details>
 <details>
